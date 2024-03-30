@@ -1,0 +1,1001 @@
+Order_Date,Time,Aging,Customer_Id,Gender,Device_Type,Customer_Login_Type,Product_Category,Product,Sales,Quantity,Discount,Profit,Shipping_Cost,Order_Priority,Payment_Method
+2022-03-26 22:09:52,02:21:38,4,efc12098-cab4-4776-89ea-dfc6a9155d6a,Female,Desktop,Guest,Home Appliances,media,628.93,1,4.4,92.67,14.1,Low,Cash on Delivery
+2023-03-04 14:35:34,07:15:08,29,a9f95291-b931-4b0e-8cc3-fa98fa313240,Female,Tablet,Social Media,Clothing,west,802.95,5,82.31,63.84,12.12,High,PayPal
+2023-04-06 22:13:39,04:22:55,21,19d46e78-fc1a-47ea-a389-bfc0bb556f8e,Female,Mobile,Email,Home Appliances,relate,786.7,3,204.6,47.53,12.26,Low,Cash on Delivery
+2023-08-20 22:45:04,01:28:37,3,a3991d16-6af9-46e8-8331-b59e080a93fc,Male,Mobile,Email,Clothing,notice,358.76,3,105.94,45.87,19.5,High,PayPal
+2023-01-28 17:48:23,21:43:39,16,2bc9518c-ab0f-40e9-9fee-4d0530034170,Female,Mobile,Social Media,Home Appliances,include,584.25,1,93.87,77.91,4.55,Low,Credit Card
+2022-11-29 18:42:45,16:33:42,17,4ebc5fd8-50b9-4bd5-b03e-3ee4c228b57e,Female,Desktop,Email,Home Appliances,Republican,159.85,3,34.29,7.39,2.26,Low,Credit Card
+2023-09-04 11:00:14,17:41:34,11,d407b686-b8a9-4143-b44d-1c8e82caf122,Female,Tablet,Email,Electronics,Democrat,99.29,1,16.97,8.35,12.4,Low,Cash on Delivery
+2022-10-31 12:37:19,04:51:22,29,78c9f29d-ec74-4926-9117-dae695e18242,Female,Mobile,Email,Clothing,new,11.36,2,0.96,0.22,16.46,Medium,Cash on Delivery
+2022-02-24 05:43:07,11:30:27,6,e5d6849a-97d3-4633-9336-6bf9ef05866a,Male,Mobile,Email,Electronics,beyond,78.46,2,0.51,10.69,8.27,Medium,Cash on Delivery
+2022-08-04 11:47:08,12:23:32,30,05a06fdf-8d85-4b91-9024-5716e7257973,Male,Tablet,Social Media,Electronics,back,424.26,5,32.04,58.29,11.67,High,Credit Card
+2023-06-07 16:22:48,11:22:30,30,8a004869-7560-401e-950f-192313a396ac,Female,Desktop,Guest,Books,site,256.93,3,32.13,50.69,7.96,Low,Credit Card
+2023-09-13 07:00:17,22:18:43,3,60ea4086-d73f-48eb-a705-9cac2338d34e,Male,Desktop,Email,Home Appliances,claim,746.33,4,133.79,148.93,1.07,Medium,Debit Card
+2022-10-19 00:48:01,01:38:50,9,89b3cf87-2e77-4f54-8035-06e8047b43c8,Female,Desktop,Guest,Books,certainly,179.54,1,50.11,12.51,4.25,High,Credit Card
+2022-11-16 02:52:02,14:02:49,19,3881205f-672a-4f48-935f-ebec377b1bd8,Male,Mobile,Social Media,Electronics,official,11.92,2,0.43,2.15,8.09,High,PayPal
+2022-12-13 14:56:53,02:48:01,14,7f872d2f-900c-4d32-add3-db114061da9c,Female,Mobile,Email,Clothing,on,940.1,4,201.73,93.16,17.8,Low,PayPal
+2022-08-20 09:41:12,23:07:33,12,9c5af3af-a9a0-4fcf-a9e3-dd13eb6c3957,Male,Desktop,Email,Clothing,model,850.74,4,42.91,145.66,13.11,Low,PayPal
+2023-06-12 10:44:09,08:20:59,19,fd48f1b5-d535-43a7-997c-ba9474a125f2,Male,Mobile,Guest,Electronics,character,949.24,1,7.76,117.67,15.87,Low,Cash on Delivery
+2023-04-12 17:56:59,10:01:55,13,de90dffd-e650-4d19-9865-9415b2c544b2,Female,Desktop,Social Media,Electronics,explain,895.57,1,77.23,139.14,16.21,High,Debit Card
+2022-10-01 18:43:50,23:06:28,2,ffab5e80-16a2-49c6-ab8a-9cc69ca37208,Male,Mobile,Social Media,Electronics,hair,503.33,3,98.81,68.74,6.73,Low,PayPal
+2023-03-07 13:57:22,15:15:09,25,271e5f15-4d4f-4a9d-b952-05dfa14de6f7,Female,Tablet,Guest,Clothing,yet,824.09,4,179.83,85.29,18.7,High,PayPal
+2022-08-13 05:18:56,03:31:32,16,de51f1b6-fec2-4a7b-a6f2-ea90be3336c6,Male,Tablet,Guest,Clothing,call,523.94,3,61.79,68.32,8.88,High,Cash on Delivery
+2022-03-18 19:30:18,10:04:26,2,b31e243b-a9f5-4164-81c9-964929092e34,Female,Tablet,Guest,Clothing,account,695.08,4,162.34,29.78,18.91,Medium,Debit Card
+2022-11-25 22:43:50,05:05:43,16,6f40b755-837d-4862-9b9a-d42623ea368e,Male,Mobile,Social Media,Home Appliances,effort,64.58,2,4.15,2.35,13.52,Medium,PayPal
+2023-04-29 08:37:18,19:39:01,23,dc9f2511-10af-4918-bebb-d4e3464db68c,Male,Desktop,Guest,Electronics,ground,95.17,4,28.14,12.29,4.81,Medium,Debit Card
+2022-11-28 22:30:16,13:31:24,24,32717de0-3092-4e55-a002-b81a3d3c47c3,Male,Desktop,Guest,Books,probably,629.8,5,161.45,115.76,12.95,Medium,Debit Card
+2023-06-24 08:03:46,07:47:04,12,7553ea4c-00da-4574-a097-55bf08fc3d0e,Male,Tablet,Social Media,Clothing,hospital,745.44,2,35.53,139.65,17.46,Low,Debit Card
+2023-08-15 11:42:11,02:00:56,19,bf4e8ff1-80a7-4ad8-8690-e6235238b1e6,Female,Mobile,Social Media,Books,just,108.97,1,7.08,2.06,10.93,Low,Cash on Delivery
+2023-11-18 20:27:43,04:34:36,13,16374606-b450-4c77-bdd5-b229c142a64b,Male,Tablet,Guest,Electronics,so,262.82,2,1.81,21.41,19.45,Medium,Credit Card
+2022-08-03 08:12:40,13:33:26,30,15247872-c08b-441c-a516-9f2f16b94182,Female,Desktop,Guest,Home Appliances,race,992.7,3,53.04,61.18,2.86,Low,Debit Card
+2023-02-17 19:58:12,09:11:34,11,d6907e29-2e0f-4f45-9aac-ddf6b7597e59,Female,Desktop,Guest,Clothing,public,565.22,3,33.37,88.22,17.74,Medium,Debit Card
+2022-02-25 21:28:36,19:11:45,24,4f3cbb06-5663-4ddf-ba54-84f01e3e4c5d,Female,Tablet,Social Media,Books,sport,34.94,2,2.37,4.5,11.11,Medium,Debit Card
+2022-09-20 21:10:54,05:30:48,19,664b4d28-ee19-4903-bf7f-2edcecfaf7e9,Male,Desktop,Guest,Clothing,open,600.66,2,12.49,5.71,17.93,Low,Credit Card
+2022-06-03 02:18:41,18:56:37,1,88fffa36-93ad-46e7-9d01-79dc0c464f89,Female,Mobile,Guest,Home Appliances,major,26.55,1,4.71,3.24,11.84,Medium,PayPal
+2022-03-09 04:40:13,12:20:32,3,a22af23c-00aa-4ce0-b0be-ded0665cc4b0,Female,Mobile,Guest,Electronics,thought,550.67,2,96.47,20.24,6.36,Medium,Credit Card
+2023-02-01 18:02:21,14:08:46,6,9f97f220-0b03-4e11-a49d-5597b5b51128,Female,Tablet,Social Media,Clothing,decide,520.52,4,155.24,39.89,2.8,Medium,PayPal
+2022-12-24 00:55:25,21:21:30,26,c0b83fc0-af87-4599-9470-ec2360c626d7,Male,Desktop,Social Media,Books,service,651.29,5,35.08,60.49,1.01,Medium,Debit Card
+2023-05-27 10:11:40,21:07:31,2,49fb6548-b21a-443f-ba7a-885adf382263,Male,Tablet,Guest,Clothing,stock,605.3,4,64.74,42.46,8.27,Medium,Cash on Delivery
+2022-05-30 05:28:14,01:31:06,12,6ba09408-971d-4e38-844f-ae5d9c6ed787,Female,Tablet,Social Media,Books,east,932.57,2,145.03,155.32,18.82,Medium,Cash on Delivery
+2022-06-06 23:41:51,09:42:38,7,4ec0f3f5-3b18-4346-bd43-4625881c859c,Male,Tablet,Social Media,Home Appliances,help,263.19,2,19.95,31.75,8.47,Low,Debit Card
+2023-02-04 09:48:07,19:06:30,9,3b27740a-5ded-474b-b06c-625a543dd508,Female,Desktop,Guest,Clothing,power,502.89,3,25.17,62.2,19.33,Low,PayPal
+2022-07-08 15:14:03,05:07:34,29,1509f061-7508-4f42-b5c9-26303cb04bd9,Female,Mobile,Social Media,Books,let,27.03,1,0.97,3.88,15.57,Low,Debit Card
+2023-12-29 23:09:07,00:37:11,16,f28c5867-d7a8-4aec-b931-666663d529f4,Female,Tablet,Guest,Books,situation,24.4,1,0.82,2.91,12.07,Low,PayPal
+2022-08-06 10:05:51,06:59:33,26,1d04854a-457f-48c7-a1c3-ffe998887b3f,Male,Mobile,Email,Electronics,interest,204.78,5,40.65,35.66,4.03,Medium,Credit Card
+2022-01-28 06:46:00,04:24:08,19,dee99bbd-749a-4f67-af2f-81d39ba15f3d,Male,Mobile,Email,Home Appliances,agency,774.57,2,188.72,108.58,3.39,High,PayPal
+2022-10-29 13:17:06,02:26:46,15,517b063f-b954-4ab7-8909-73ca2ac11bef,Female,Tablet,Social Media,Books,nor,788.63,4,93.17,79.12,11.74,High,Debit Card
+2023-08-29 19:55:54,07:57:48,18,8826d779-0bda-48ce-bbe2-fa5e4807806e,Male,Mobile,Guest,Home Appliances,none,500.05,4,31.01,50.07,8.31,Low,Credit Card
+2022-09-03 19:32:27,13:58:56,6,8173d519-4270-4a71-9bf6-e38e870db3c2,Male,Mobile,Guest,Books,meet,451.67,2,98.44,39.43,4.89,Low,PayPal
+2023-12-06 18:10:50,21:14:56,21,efc87462-a63b-435e-96d8-d72e8f073891,Male,Tablet,Email,Electronics,situation,559.77,2,87.65,4.18,2.58,Low,Credit Card
+2022-08-12 21:43:44,14:26:00,13,73e043d5-bfaa-477f-a05d-fd2a391fb473,Male,Tablet,Social Media,Clothing,blood,995.89,2,103.84,167.6,19.96,Medium,Cash on Delivery
+2022-01-29 19:04:51,19:42:57,2,b446a658-4ae1-4b30-89a5-5d40351a0ea4,Male,Mobile,Guest,Electronics,wrong,631.99,1,135.67,5.4,11.83,Medium,Credit Card
+2023-07-27 23:54:28,16:05:53,16,49cfeb5a-fa03-4e6a-9242-a6a1335a8cc2,Female,Tablet,Guest,Electronics,difference,421.61,4,32.16,1.77,16.57,High,Debit Card
+2023-12-30 19:27:44,20:26:43,10,7152aa91-1064-4700-91c9-baa5a69d1a94,Female,Tablet,Email,Home Appliances,great,250.41,2,0.18,47.39,2.17,Medium,Credit Card
+2023-08-17 02:17:54,09:23:25,21,1bdde54f-b05b-4cab-998f-1803c237a8be,Male,Desktop,Guest,Books,cost,773.1,1,4.58,84.01,4.16,High,Debit Card
+2023-09-07 19:57:57,03:56:03,10,94fee41f-6fdf-4cb2-925f-17f574392b5a,Male,Desktop,Guest,Books,interest,54.9,2,9.99,8.07,18.93,High,PayPal
+2022-08-23 14:31:38,02:28:30,11,a33ae413-9985-4ebf-9ff9-82bbe4645a75,Female,Desktop,Email,Electronics,loss,126.21,4,6.3,10.68,5.49,Medium,Credit Card
+2022-05-01 17:44:00,11:07:48,10,68659847-5f25-4f8a-b810-a1c22513b494,Male,Tablet,Social Media,Clothing,picture,716.16,1,96.56,88.96,8.11,High,PayPal
+2023-11-16 00:33:22,13:51:17,6,a68deb10-ae8b-4c96-880c-1c764721f928,Male,Mobile,Email,Books,seek,26.97,2,1.77,0.27,16.9,High,Cash on Delivery
+2022-01-26 11:41:15,07:13:27,19,a631f348-9dbf-4774-99b4-1f28d2f59f8c,Female,Mobile,Email,Books,attorney,53.79,5,6.42,1.77,1.57,High,Cash on Delivery
+2022-09-30 01:24:14,17:09:36,11,bf3c60ba-77a5-47fc-8d90-2d45f41e2846,Female,Desktop,Guest,Clothing,style,64.42,1,15.19,1.64,14.08,Medium,Cash on Delivery
+2022-12-05 06:52:12,20:23:33,16,6cd089f7-107d-4d4b-bf9c-5c97d76ecbb1,Male,Desktop,Email,Electronics,down,424.36,5,46.44,83.53,16.28,High,PayPal
+2023-08-22 04:45:42,02:23:20,15,e5e2fce8-5e63-4be8-a844-cdcdaa3117d7,Female,Desktop,Email,Books,really,502.22,4,123.14,56.54,6.02,Medium,Debit Card
+2023-07-09 13:20:11,11:05:35,6,747e8c76-8234-4165-a729-da570472b5ce,Male,Desktop,Email,Home Appliances,may,900.12,3,113.07,30.61,6.41,Medium,Debit Card
+2023-07-06 06:31:09,06:52:14,24,62177256-787b-4e78-a3d2-1edc952c6506,Male,Mobile,Social Media,Clothing,society,849.77,4,242.5,35.61,16.06,High,PayPal
+2023-07-25 18:07:26,20:50:18,29,e6fdd7db-6a37-4a81-bcf8-c44aafdf05a9,Female,Mobile,Social Media,Clothing,raise,486.84,1,79.78,81.69,7.28,High,PayPal
+2023-12-06 07:23:16,07:16:56,8,ff8d7ab3-0331-44af-960f-f9debb0c78e1,Female,Desktop,Guest,Electronics,assume,507.48,1,76.82,98.73,11.89,Low,PayPal
+2022-05-09 13:52:42,10:49:59,2,abe609e0-8436-4ccb-b6f7-c589a774d0fe,Male,Tablet,Social Media,Home Appliances,indeed,191.79,1,10.78,26.03,2.49,Low,Credit Card
+2023-03-02 06:00:17,15:28:40,22,fa8f29c6-8809-47aa-b37f-e54aba33093e,Female,Tablet,Email,Home Appliances,week,30.57,3,5.86,3.9,15.9,High,Cash on Delivery
+2022-11-15 06:07:56,22:46:01,15,abb1596d-27e3-4ccd-b65e-6b15698026ce,Male,Mobile,Guest,Electronics,doctor,855.97,4,1.13,146.46,5.88,Medium,Cash on Delivery
+2023-04-02 19:08:20,09:47:28,1,31595b1f-4124-4b8c-a321-8f8efbaf8d3a,Male,Tablet,Social Media,Clothing,region,133.59,2,16.39,15.77,3.25,Low,Cash on Delivery
+2022-11-23 17:07:22,22:53:14,19,d8dd4bb4-28bc-4956-8ce3-f8cd6865af2a,Female,Desktop,Social Media,Clothing,middle,731.82,3,80.46,68.77,10.72,Low,Debit Card
+2023-03-30 04:54:02,20:51:15,14,0f939edc-0cf5-4b2c-af2b-446d14acae5b,Male,Tablet,Guest,Books,both,863.38,1,151.96,24.9,11.89,High,Cash on Delivery
+2022-11-10 01:57:37,14:12:20,11,fe639ea4-32f7-4123-9cf4-a85486dd6222,Female,Mobile,Email,Electronics,religious,354.87,4,48.42,13.45,17.43,High,PayPal
+2022-07-08 16:31:49,09:51:24,17,11ab95f5-5f94-4089-89af-1635d7c44574,Female,Desktop,Email,Clothing,expert,967.91,1,12.5,84.51,10.89,Low,Cash on Delivery
+2022-01-12 05:11:31,07:35:42,7,04f36f43-7214-46e1-bd2d-f605e21f2ddb,Male,Mobile,Email,Clothing,capital,817.48,4,194.46,38.76,7.93,Low,Debit Card
+2022-03-03 11:28:45,03:50:20,28,f710d37a-ef46-4dd5-85d4-410e232db3a0,Male,Tablet,Guest,Clothing,glass,909.31,4,224.48,110.02,10.2,Medium,Debit Card
+2023-06-10 07:38:58,15:37:24,15,5485023d-756b-46f3-a87d-d3de77e3a1d1,Female,Mobile,Email,Clothing,whether,499.71,2,140.44,43.89,17.19,Medium,PayPal
+2023-09-01 16:49:05,06:24:30,18,c8f00bdb-0448-442a-8d6a-7c98a398b7e7,Male,Tablet,Guest,Electronics,because,853.22,2,136.03,63.78,18.56,Medium,Cash on Delivery
+2022-11-11 01:42:56,14:11:03,22,447942c6-087e-4d69-940b-b912061c7f6a,Female,Desktop,Guest,Books,music,931.35,4,135.16,60.92,1.15,High,Debit Card
+2023-10-29 15:25:03,13:23:46,11,eff959f0-8990-4aac-8ced-99552f76283e,Male,Mobile,Social Media,Books,cell,436.38,5,62.64,15.24,17.46,Medium,Credit Card
+2022-12-20 03:25:42,12:40:09,7,20f14551-7d3e-482d-870b-e84279b34737,Female,Desktop,Guest,Books,work,216.01,4,43.01,38.15,19.91,Medium,PayPal
+2023-10-03 22:54:38,07:57:39,10,298a6f18-f55d-4e7a-b443-6880695f91f9,Male,Mobile,Guest,Books,fast,253.67,2,35.07,19.03,18.95,High,Cash on Delivery
+2023-07-22 19:48:27,09:15:55,16,c651faac-7998-4f05-8f3c-62ec919984d7,Male,Desktop,Email,Clothing,remain,167.31,1,32.93,29.98,3.53,Low,Credit Card
+2023-10-06 12:16:35,12:34:13,12,ada1dcfb-db51-43e4-92c8-92669d9c9570,Male,Tablet,Email,Home Appliances,none,368.92,2,20.31,15.29,10.29,Medium,Credit Card
+2023-02-24 12:51:13,19:13:36,5,fd806cae-6954-4518-bd22-3000c8058d75,Male,Mobile,Guest,Clothing,into,908.39,5,137.36,77.82,13.59,Medium,Credit Card
+2022-10-16 04:23:19,19:20:37,22,2eded6b9-01c1-47c1-ae88-743ed168d8c2,Male,Tablet,Social Media,Books,generation,607.89,3,58.84,68.19,13.95,Medium,Credit Card
+2022-02-19 21:43:03,19:28:43,9,3b117edc-d769-4412-a3ca-bd15452d4a29,Female,Tablet,Email,Books,pay,930.14,3,74.23,90.58,10.95,High,Cash on Delivery
+2023-08-27 23:30:27,16:54:40,11,1db3da1b-2171-433e-981e-dec944bc59b1,Female,Desktop,Email,Clothing,analysis,955.47,4,6.12,97.58,16.3,Medium,PayPal
+2022-06-22 05:02:38,16:20:52,3,efe67921-8067-4eda-9dcc-e2dd654e1235,Female,Tablet,Email,Books,condition,241.5,1,35.15,1.34,12.24,Medium,Cash on Delivery
+2023-08-06 07:20:11,17:45:14,22,0efa6fc0-b3b6-4861-b6c5-2f522659c737,Female,Tablet,Guest,Home Appliances,even,39.93,2,3.69,0.69,10.35,Medium,Cash on Delivery
+2023-10-20 08:22:33,16:20:28,13,a589d9b6-0a60-4da3-ad8f-03d889fb182b,Female,Tablet,Email,Electronics,husband,617.22,2,85.81,64.64,8.89,High,Debit Card
+2023-05-29 12:51:52,17:12:09,8,88db64bf-c91e-45da-9675-c0c72dacaca2,Female,Tablet,Social Media,Electronics,information,978.64,3,190.23,113.93,3.36,High,PayPal
+2023-05-27 21:17:58,05:28:19,3,68867fca-a873-4240-850d-67d7d09f0e7c,Female,Mobile,Guest,Books,sell,524.13,5,52.1,100.76,7.1,Low,Credit Card
+2022-10-21 11:11:59,09:25:51,22,dbd3e034-2b4f-446e-9127-e5c00c45a8f0,Male,Tablet,Email,Home Appliances,service,932.61,4,88.27,12.2,6.01,Low,Cash on Delivery
+2023-08-19 01:02:31,17:16:25,7,5733858a-94e4-493a-80bd-0c51c07a9a3a,Male,Mobile,Guest,Home Appliances,process,812.38,2,23.32,60.44,7.91,Medium,Cash on Delivery
+2022-01-03 17:05:43,06:38:04,2,9172f30f-c2b9-44b8-80d8-98730f84fd08,Male,Mobile,Guest,Clothing,news,372.02,5,55.86,63.31,5.3,Medium,Credit Card
+2023-12-02 08:33:25,23:08:39,25,fc23321a-e263-4db4-9eca-061b28701c96,Female,Desktop,Social Media,Books,force,937.11,2,226.91,47.67,11.87,High,Cash on Delivery
+2023-03-25 09:57:32,14:51:00,29,0154a3a2-1180-4cc5-882d-08659a0ad3da,Male,Desktop,Social Media,Clothing,month,976.71,5,89.55,112.06,2.43,Low,Cash on Delivery
+2023-05-27 19:12:37,19:42:01,17,f5be1136-012f-437b-b376-372ff064e5d5,Male,Mobile,Social Media,Home Appliances,let,615.02,4,5.18,37.94,1.32,High,Credit Card
+2023-09-17 07:34:35,14:38:09,14,cd173183-8c5f-4b12-903f-6ab12b0184d9,Female,Desktop,Email,Electronics,do,506.67,2,134.27,101.33,8.01,Low,Debit Card
+2022-12-07 02:05:17,17:24:46,5,603e2e82-7777-493a-8d56-34737c225304,Female,Tablet,Guest,Clothing,already,574.47,4,41.61,44.16,13.42,Low,Credit Card
+2023-05-07 01:48:38,00:03:18,22,68403693-b057-4a47-9cea-e286bceaf40d,Male,Tablet,Social Media,Electronics,green,672.93,5,30.16,86.03,1.8,Low,Cash on Delivery
+2022-07-30 15:04:49,15:03:05,6,fc9f4bd5-1e13-43ae-9cfb-3885dd06a134,Female,Tablet,Email,Clothing,human,590.59,5,46.29,75.58,12.02,High,Credit Card
+2023-06-17 01:55:02,21:58:33,6,ab3ca53c-ec96-4c21-9805-2b38385e5d3d,Male,Desktop,Guest,Clothing,local,578.63,2,27.03,86.9,13.79,Medium,Debit Card
+2022-06-29 22:26:00,07:24:41,25,ab8eaf6b-5393-4ae5-9674-2b5336894d06,Female,Desktop,Social Media,Clothing,standard,329.81,4,44.56,1.41,12.49,High,Cash on Delivery
+2023-09-07 04:35:32,15:08:47,21,ecc33ef5-e01a-42ff-be46-8ac8baa13603,Female,Tablet,Guest,Home Appliances,player,405.35,1,118.58,72.03,2.56,High,Credit Card
+2022-10-18 08:10:03,03:35:20,7,69f2d9f5-b50d-45c6-b560-77086a2c2638,Female,Tablet,Social Media,Electronics,fall,497.72,3,34.56,23.49,10.2,Low,Debit Card
+2022-01-15 22:46:21,08:24:39,22,78a9dfa8-82e0-44bd-9c55-10d7f495c52a,Male,Mobile,Social Media,Home Appliances,phone,469.5,4,1.22,50.93,2.71,High,Debit Card
+2023-12-06 22:17:03,13:29:04,4,129d647d-9312-4a45-bb09-dad9a012850a,Male,Desktop,Email,Home Appliances,threat,221.76,4,21.79,2.41,8.59,Medium,PayPal
+2023-02-22 07:00:51,07:06:11,16,84bb81b0-5dc2-4db1-b1bc-522d4ff92117,Male,Mobile,Guest,Electronics,this,33.77,3,1.46,6.18,16.26,Medium,PayPal
+2022-07-02 10:34:42,10:32:04,21,d4a7515d-1696-4b8a-9761-165dd15e42dd,Female,Desktop,Email,Books,which,725.37,5,154.32,136.29,4.69,High,Debit Card
+2022-12-16 19:49:59,03:56:26,7,ec478e4e-cac5-4602-b102-aeec4b3b8ea9,Female,Tablet,Guest,Electronics,news,197.62,4,21.93,16.09,9.57,High,Debit Card
+2023-10-15 23:14:14,13:46:06,30,3d0752d7-833a-4789-971a-6eef557bffa1,Female,Mobile,Social Media,Books,move,66.06,2,19.15,11.23,19.23,Low,Credit Card
+2023-04-17 02:13:10,23:01:28,1,59afe216-bcf6-40ae-bc00-085f997b520b,Female,Mobile,Social Media,Books,media,915.62,4,211.76,48.62,7.57,High,Credit Card
+2022-09-16 04:01:56,05:38:51,29,a6a4dab8-f0ef-46d8-8802-1e8a7955fa76,Male,Tablet,Guest,Electronics,too,482.27,1,10.62,68.79,10.79,Medium,Cash on Delivery
+2022-09-08 07:15:41,01:17:26,19,ddd61921-c063-4f1a-b8b5-a8ed7f4f7cb0,Female,Tablet,Email,Home Appliances,kid,827.85,4,158.16,113.81,14.85,Low,Debit Card
+2022-01-04 10:12:41,02:32:53,13,3ed2b880-03e3-4da8-bc37-e52e2565e632,Male,Tablet,Social Media,Electronics,avoid,416.73,4,83.46,39.16,12.8,Low,Debit Card
+2022-09-27 22:21:27,03:36:58,28,ba0bd950-08dc-480f-9ef5-199bbe0d4434,Female,Desktop,Email,Home Appliances,picture,177.29,1,23.49,8.76,12.32,High,Debit Card
+2023-05-14 21:16:19,12:57:32,18,685a252b-96c3-41cc-8480-5f269f3e6667,Female,Mobile,Guest,Electronics,more,864.05,2,238.47,19.18,4.64,High,Credit Card
+2022-02-06 17:45:34,15:10:34,17,36905066-c313-4b2e-ad25-f8abbe6ef026,Female,Desktop,Social Media,Home Appliances,same,71.52,5,8.59,7.68,19.0,Medium,Debit Card
+2023-05-09 03:49:49,20:34:04,14,d9b89b83-a70f-4d79-87eb-9af909bef111,Male,Mobile,Email,Clothing,Congress,880.29,1,137.89,123.68,12.96,Low,Cash on Delivery
+2023-03-30 13:23:17,20:07:57,22,df8cc579-9ea1-4e38-9cdd-70c076ca1508,Female,Tablet,Email,Clothing,interest,840.49,3,134.51,19.54,16.07,Low,PayPal
+2023-05-24 16:08:52,02:29:39,4,04f05024-7158-492e-b20b-87d87fc120b2,Male,Desktop,Guest,Home Appliances,able,586.7,5,11.39,43.66,1.05,Low,Credit Card
+2023-07-26 16:05:13,11:52:01,28,e9f9e9d2-7579-4a5e-86bb-6c172802a81c,Male,Tablet,Social Media,Books,five,983.77,4,53.3,130.34,12.88,High,Debit Card
+2023-11-11 22:05:56,08:43:45,20,757a08b9-8a6a-46fe-b66d-d71ac6ca86f3,Female,Desktop,Guest,Clothing,laugh,889.97,4,211.88,9.02,16.24,Medium,Cash on Delivery
+2023-05-01 17:54:27,12:03:33,18,8471621e-5494-4e64-8098-1a0698f6ce62,Female,Desktop,Social Media,Books,else,526.65,2,70.65,83.45,11.18,Medium,Credit Card
+2022-03-27 21:17:23,12:47:31,9,cd8d7c0e-bd0f-4a89-b7c8-f67e3d7855b4,Female,Mobile,Guest,Clothing,kid,774.41,1,45.67,94.22,19.2,Low,PayPal
+2022-08-23 07:51:40,09:32:17,1,37df5ff3-a010-4aa4-ab00-42a015fd961f,Female,Desktop,Email,Electronics,bit,328.72,1,61.6,27.71,6.33,Low,Cash on Delivery
+2022-02-16 04:14:01,20:19:11,17,19208c35-3811-4f0d-9f05-69da0b436b23,Female,Mobile,Guest,Books,animal,612.98,2,107.73,1.81,15.19,Low,Credit Card
+2023-06-17 15:16:49,03:13:37,25,809d2366-a2c0-4ac7-a813-22230e81e58d,Male,Mobile,Guest,Electronics,PM,918.27,4,272.39,65.73,7.82,Low,PayPal
+2023-09-10 06:39:20,22:20:47,24,8349a6e3-8758-4480-a669-cb2601980acf,Male,Tablet,Guest,Books,ground,342.09,4,73.31,19.18,3.18,High,PayPal
+2022-12-23 09:15:13,11:09:28,4,aec49b6c-b197-4866-8e2d-28413237ec5c,Male,Tablet,Social Media,Home Appliances,group,72.79,1,17.59,12.28,13.72,Medium,Credit Card
+2023-12-06 10:16:14,00:25:17,24,7fbb0c08-498c-4212-89cf-e8bce6bd307d,Female,Tablet,Guest,Home Appliances,theory,395.42,2,97.83,44.33,11.93,High,Debit Card
+2022-11-14 16:47:21,01:04:10,14,f6ae702c-bc98-44ca-b719-829e67c11204,Male,Mobile,Email,Home Appliances,perform,403.16,4,31.78,59.96,1.15,High,Credit Card
+2022-04-15 02:26:45,03:45:49,10,8256eee2-cbae-43e8-8266-207d86dc3190,Female,Tablet,Guest,Electronics,dream,292.75,4,13.43,56.81,9.34,High,PayPal
+2023-07-06 04:27:27,17:24:58,21,531253bb-c9a0-4abf-aee7-d0e6f27eb679,Male,Desktop,Email,Electronics,show,863.15,1,16.62,156.03,7.83,Medium,Cash on Delivery
+2022-08-24 14:16:56,12:52:03,29,49130c8c-02af-4f10-bece-c97c991b42fd,Female,Mobile,Social Media,Clothing,hot,187.68,4,45.05,34.04,6.49,Medium,PayPal
+2023-05-30 20:14:24,14:34:10,24,b9923a4d-99c4-4ec9-8fe1-8ea1c09caaae,Female,Tablet,Social Media,Clothing,country,485.03,1,43.07,24.65,3.0,Medium,Debit Card
+2022-07-07 08:42:59,02:29:40,22,d767674a-7bab-4ddc-9d39-a2fac0d6cccc,Male,Mobile,Social Media,Home Appliances,interest,549.47,2,74.01,31.7,9.02,Low,PayPal
+2023-08-25 20:56:35,03:33:37,3,b63af6a6-c41f-40f3-81f6-a7581ccc459a,Male,Tablet,Guest,Books,start,618.55,4,103.06,66.12,17.51,Low,Cash on Delivery
+2023-05-23 03:29:01,16:19:00,25,1d02c27c-c91f-418f-a910-18ab84e21c68,Female,Tablet,Email,Books,case,407.02,5,112.81,40.75,8.42,High,PayPal
+2023-12-03 17:55:55,08:24:27,5,92b40fc4-f03d-4e81-8d9b-12a113534a54,Male,Desktop,Email,Home Appliances,guess,541.36,2,109.14,86.8,6.06,Medium,PayPal
+2022-01-05 01:02:43,10:50:02,13,39e52936-ab9d-4bbd-bc6c-06bc9e20e9c1,Male,Tablet,Email,Electronics,Republican,246.04,3,18.27,48.66,17.29,Low,Cash on Delivery
+2022-02-11 04:26:17,04:51:01,20,02bb10ae-dce1-4c2d-a037-eb88fe6bc3c0,Male,Tablet,Guest,Books,heavy,682.92,3,89.3,98.52,9.44,High,PayPal
+2023-06-09 01:32:08,07:57:46,20,2b3f5682-3022-4ffe-8cbb-b681feb7b13c,Male,Desktop,Social Media,Electronics,always,902.0,4,229.76,2.61,2.71,Medium,Debit Card
+2022-03-07 21:31:18,00:50:24,13,163c295f-3d8e-41a6-aa00-59efecc8914c,Male,Desktop,Social Media,Home Appliances,central,247.93,3,12.29,43.29,7.22,High,PayPal
+2022-09-21 21:51:12,19:57:06,30,61be7fc5-230a-43d2-8cb4-7eeb9ccc0286,Female,Tablet,Social Media,Home Appliances,our,726.0,1,22.77,36.75,7.34,Low,Debit Card
+2023-10-27 20:31:48,09:06:13,5,b4fbfdc6-144c-4fe5-8175-4683d3508cd4,Female,Desktop,Guest,Books,figure,528.85,2,71.22,37.35,4.2,Medium,Cash on Delivery
+2023-06-30 06:35:07,17:48:36,8,6c539435-8727-49f3-848f-1282e1fd85c7,Male,Desktop,Email,Clothing,realize,298.39,5,31.69,44.58,12.54,Medium,PayPal
+2022-02-19 02:55:57,18:12:40,12,ddbf6a3a-b6ea-412a-ac31-4288058749a1,Male,Desktop,Social Media,Electronics,seat,713.53,4,193.5,12.4,17.66,Medium,Debit Card
+2022-06-03 15:09:48,12:44:29,27,ea867311-841e-4bca-accf-88a5ebf211df,Female,Mobile,Email,Electronics,face,384.86,4,32.71,28.32,5.26,High,Cash on Delivery
+2023-10-11 13:13:09,09:54:19,19,c76cd9bd-2a2a-447e-94fa-fe0cccbd7917,Male,Desktop,Social Media,Clothing,final,606.88,5,136.29,87.61,1.77,Medium,Cash on Delivery
+2023-07-03 00:51:40,01:05:45,21,03d9f869-08bd-47ba-8de9-8ab307c69d4a,Female,Mobile,Email,Books,specific,801.98,4,129.68,77.74,18.1,Low,PayPal
+2023-01-08 20:26:02,22:19:18,11,89449aa9-bdfc-4355-8a60-3479b148c680,Male,Desktop,Email,Clothing,owner,786.46,3,60.04,94.99,14.82,Medium,Debit Card
+2022-08-11 09:29:02,09:23:33,6,3e08fc93-bbd6-4608-bf0f-f7562d3e886c,Female,Tablet,Guest,Home Appliances,window,927.28,5,186.9,93.03,4.94,Medium,Credit Card
+2022-06-11 18:31:25,14:16:27,3,1844cb6f-0b00-4136-8df0-bb3becca2089,Female,Mobile,Email,Clothing,space,589.05,3,166.29,48.54,12.32,Medium,Cash on Delivery
+2022-08-01 13:02:21,21:21:21,26,d869f49c-6699-47a1-8c47-e0fef1202861,Male,Tablet,Email,Home Appliances,air,652.15,4,188.23,48.06,17.08,Medium,Cash on Delivery
+2023-09-07 08:53:50,17:55:09,9,2fefad60-5bfe-4907-8e18-350797924cfc,Female,Tablet,Email,Books,none,328.88,4,43.42,15.37,18.33,Medium,Credit Card
+2023-10-27 07:00:05,13:53:40,18,337c1a95-143e-4417-b10b-044d9a918d8a,Female,Mobile,Social Media,Electronics,study,164.34,4,14.4,9.44,2.69,Medium,PayPal
+2023-07-15 03:33:40,18:28:21,27,3408a70e-c676-4295-9797-775304f50132,Female,Tablet,Guest,Home Appliances,man,426.96,3,62.04,21.4,1.31,Low,PayPal
+2022-03-13 20:29:28,01:12:38,27,3eebbe5b-77cc-42dc-81f2-c11e91cfaaf3,Male,Mobile,Social Media,Clothing,fire,784.03,2,77.3,149.47,10.55,Low,Credit Card
+2022-11-09 19:03:08,16:31:23,20,be013506-8060-417f-b70a-9c7377568e46,Male,Desktop,Email,Clothing,across,800.45,4,34.24,69.93,5.0,Medium,Credit Card
+2023-05-14 07:57:54,19:05:37,23,fae704e5-13eb-4527-a1c5-1f6dc975872a,Male,Mobile,Social Media,Home Appliances,another,880.84,5,100.32,83.41,13.54,Low,Credit Card
+2023-02-19 14:48:57,11:54:24,12,a955316e-5798-4c94-a9c5-371d1116228f,Female,Mobile,Social Media,Clothing,seem,163.67,2,12.36,14.26,1.37,High,Cash on Delivery
+2023-10-19 01:22:47,18:35:00,11,a50ed5a4-d6eb-4da1-ad14-c6422cf82085,Male,Tablet,Guest,Books,oil,910.54,4,131.08,46.35,13.5,High,Credit Card
+2022-06-29 23:27:18,11:46:59,23,72ce704b-1d66-4bdb-ac83-9c733f64fdce,Female,Desktop,Email,Electronics,can,656.99,3,107.98,71.59,4.46,High,Cash on Delivery
+2022-11-26 00:57:18,11:16:40,5,60063bd3-0258-4871-9002-5556e48657a7,Male,Desktop,Social Media,Electronics,research,610.47,2,74.09,82.01,13.05,Low,PayPal
+2023-05-22 00:54:44,09:41:40,27,80134541-ccb4-4dc5-acfb-032e75cfa87f,Female,Desktop,Email,Home Appliances,he,444.36,3,32.51,88.45,14.32,Medium,Credit Card
+2023-04-27 09:04:32,10:27:55,28,9d2419cd-77e6-468a-98f4-7e0bb315b637,Female,Mobile,Guest,Electronics,someone,65.75,4,13.55,1.69,4.64,Medium,Cash on Delivery
+2023-10-01 11:31:05,03:38:02,30,c6445a02-41a8-43cb-a759-a8efddd0a45d,Male,Mobile,Social Media,Electronics,choice,21.62,1,3.15,1.59,7.4,Low,PayPal
+2022-05-19 10:12:02,16:00:40,4,d1896aa5-a3a0-4d70-bb3b-09ebdd913c4e,Male,Tablet,Email,Clothing,cover,689.44,4,45.14,125.62,17.39,Low,Debit Card
+2023-01-12 08:26:15,03:38:55,11,5eccd289-aad2-4353-9a29-2577ad430c20,Female,Tablet,Guest,Home Appliances,once,690.33,2,46.04,61.32,17.39,Medium,PayPal
+2022-03-01 09:58:06,08:45:40,22,4b959752-5f50-40ab-952c-021fba821876,Female,Desktop,Email,Home Appliances,actually,222.31,2,66.56,27.07,18.05,Medium,Cash on Delivery
+2023-11-24 19:28:51,13:23:52,14,75ae9eef-933c-4bf9-a795-b8b49e402a01,Male,Tablet,Guest,Home Appliances,two,919.42,5,236.91,76.46,1.29,Medium,Credit Card
+2023-02-08 20:41:08,23:55:02,29,9d8d74a3-2888-456b-be35-571395709c1a,Female,Desktop,Guest,Electronics,particular,317.12,3,21.57,50.64,19.74,High,Debit Card
+2023-02-01 09:43:55,15:03:59,7,c4021ea9-4195-44f9-8d5b-8b0895c8e8a3,Male,Desktop,Email,Electronics,level,116.86,5,19.44,2.19,4.38,Medium,Credit Card
+2022-06-09 03:21:30,07:01:02,9,6d20967f-b19e-480e-9004-fc66eb2211d5,Male,Tablet,Social Media,Home Appliances,because,920.15,5,257.91,52.41,8.43,Medium,Cash on Delivery
+2022-12-21 02:20:05,05:02:11,28,bc473fa9-71ff-4b8e-9627-6c592852e716,Female,Mobile,Email,Home Appliances,prepare,744.43,4,8.84,145.66,10.66,Low,Debit Card
+2022-08-12 20:40:20,04:40:40,5,9690f806-0436-471e-9583-4fa7e6bcaf6b,Male,Mobile,Social Media,Clothing,reveal,810.82,5,67.66,27.16,2.31,Medium,Debit Card
+2022-04-22 08:51:01,09:09:51,26,c6293a32-e962-4699-8897-f5dc00549be7,Female,Mobile,Email,Books,call,706.35,2,41.79,135.41,13.31,High,Cash on Delivery
+2022-03-21 14:23:40,20:51:31,23,8e6307c0-11fa-4d9f-a78b-d55682f59bcb,Male,Tablet,Email,Clothing,through,442.16,5,78.28,5.88,7.88,Low,PayPal
+2022-10-28 22:20:23,22:01:47,21,db863a94-b902-4f8c-b345-5d9b854f199f,Female,Desktop,Social Media,Clothing,perhaps,369.97,1,2.81,28.46,14.82,Medium,PayPal
+2023-08-11 17:09:39,03:41:19,24,70a8d455-eb75-4fe6-8342-e0657f4f57e0,Female,Tablet,Email,Electronics,national,506.71,4,125.94,79.28,13.06,High,Cash on Delivery
+2022-10-01 06:26:26,10:19:26,27,9d1993b0-32d4-458d-bfcb-af8d44d8c060,Male,Mobile,Guest,Clothing,build,152.65,1,3.71,7.72,8.23,Medium,Cash on Delivery
+2023-01-02 06:52:40,02:37:57,7,bd4cb673-1021-46c7-be76-146b469d9e8a,Male,Mobile,Email,Clothing,prevent,45.3,2,13.5,5.11,17.39,Low,PayPal
+2022-07-07 12:29:41,05:48:17,25,64559172-6dfd-4f3b-a8ac-cd9c86400f22,Female,Tablet,Social Media,Home Appliances,century,320.99,1,35.72,39.56,11.12,Low,Credit Card
+2023-10-01 23:28:43,18:53:01,24,6a24b6f7-8687-426a-b62f-95a53227fbc2,Female,Mobile,Email,Home Appliances,item,556.89,5,77.15,73.75,18.53,High,Debit Card
+2022-08-25 10:50:34,08:34:05,24,9d4b8ade-9212-4228-9cf0-c86bcb2f4990,Female,Desktop,Social Media,Home Appliances,two,681.81,2,94.49,65.88,14.65,High,Credit Card
+2023-11-20 23:58:41,20:05:45,5,07f49edb-7603-4584-8b54-598894fd8cc6,Male,Mobile,Social Media,Clothing,century,422.77,4,113.24,9.13,10.04,Medium,Debit Card
+2023-06-25 21:06:07,13:56:07,8,e0ee56a1-c90f-4f96-a3fa-296e3098dc58,Female,Mobile,Social Media,Books,in,725.78,4,179.04,113.98,18.99,Low,Cash on Delivery
+2022-03-17 02:54:15,10:26:38,25,c8613331-ee8d-4f42-8449-8b7b1f7ede11,Male,Desktop,Social Media,Books,teacher,88.22,2,0.33,1.51,13.13,Low,Debit Card
+2022-08-12 02:23:44,11:37:23,7,51f74859-92e6-49bc-bf62-97b0e805b2be,Female,Desktop,Guest,Electronics,east,70.3,4,11.98,1.07,12.12,Medium,Credit Card
+2023-06-13 21:33:38,21:49:42,17,20ae3f31-e194-437f-88ba-7da5dc5e2be7,Male,Desktop,Email,Books,nice,573.25,4,146.52,68.94,16.02,High,Debit Card
+2023-09-10 19:51:38,01:24:26,29,86290b77-c878-4104-87dc-aa62d70e9901,Male,Desktop,Email,Electronics,behind,114.43,4,2.5,4.78,17.92,Medium,Cash on Delivery
+2023-06-23 06:37:18,00:43:43,27,5547c27c-09d4-4190-94bb-cc46266e74a3,Female,Mobile,Guest,Electronics,race,411.81,1,115.92,15.25,5.23,Low,Credit Card
+2022-12-16 15:45:13,17:28:04,9,5c433307-607a-431c-b58d-ac7a2869e3b3,Female,Desktop,Social Media,Clothing,ever,623.84,3,18.09,3.82,6.12,High,Credit Card
+2023-11-20 18:51:38,20:50:11,15,8f37e46c-1599-4515-96a0-18d8fefa34c0,Male,Tablet,Guest,Clothing,find,205.5,2,0.08,17.47,7.94,Low,Cash on Delivery
+2022-07-18 00:45:37,00:58:44,8,19ff874f-6c51-41da-91cd-48c6bbbea563,Male,Desktop,Social Media,Home Appliances,necessary,493.22,2,86.56,94.42,3.32,Low,Credit Card
+2022-08-17 09:23:08,12:37:02,14,7dc1549b-ec84-4979-9c6b-f39cb291ba55,Male,Mobile,Guest,Home Appliances,great,964.4,5,148.59,154.63,12.51,Medium,Credit Card
+2023-01-28 22:41:28,09:04:52,18,30873f8b-fce0-4c06-aaa2-e9698ae1cb1a,Male,Tablet,Guest,Clothing,source,108.42,4,26.35,17.18,7.45,Medium,Credit Card
+2022-03-08 16:19:58,08:56:25,9,37217f16-95db-41cd-8352-25fefb9df391,Female,Tablet,Email,Clothing,rich,881.09,5,128.08,167.1,2.96,Medium,Cash on Delivery
+2022-03-22 13:44:26,09:23:08,13,32981a3b-7796-42f6-b1ab-4e65e82fed3c,Female,Mobile,Email,Clothing,green,364.24,4,36.9,17.13,16.54,Low,Debit Card
+2022-04-03 18:04:10,10:51:32,17,a79a1855-32f3-40fb-8c4d-74d534488df6,Female,Mobile,Social Media,Clothing,human,775.02,2,159.05,108.99,12.37,Low,Debit Card
+2022-09-29 19:25:14,09:50:28,21,73d24d92-ebf6-470b-8f19-4aaf5be78acd,Female,Tablet,Social Media,Home Appliances,movie,16.94,1,0.71,1.5,18.9,High,PayPal
+2023-05-04 21:50:27,02:24:45,29,8a514878-7e86-4c60-8e45-0b544c4c363e,Female,Tablet,Guest,Books,simply,112.21,4,19.86,7.29,2.57,Low,PayPal
+2023-09-02 06:51:54,22:38:50,9,6475a51a-4571-4cd6-b5d0-7961c0e731d6,Female,Tablet,Social Media,Home Appliances,collection,650.29,5,98.58,27.65,11.95,Medium,Credit Card
+2022-06-06 18:08:17,20:08:32,3,fdc61310-2bcf-4302-9216-a906a07c1356,Female,Mobile,Social Media,Clothing,difficult,48.27,5,12.85,8.4,8.19,Low,Debit Card
+2022-02-10 08:17:58,11:21:49,25,9c2953e5-9680-46c5-814a-1bce7703ecf6,Female,Desktop,Social Media,Clothing,which,885.87,1,67.41,90.48,17.03,Low,Cash on Delivery
+2023-05-23 02:48:21,10:06:10,1,bdbaaa05-6ced-4819-aee0-25cdf1d368fb,Male,Tablet,Guest,Clothing,could,193.33,2,27.57,9.68,8.05,High,PayPal
+2022-05-28 21:14:22,22:36:59,18,c802e2dd-9b1e-46da-878c-323d07a211f3,Female,Mobile,Email,Books,skill,718.19,1,150.55,13.5,9.12,High,Credit Card
+2023-04-12 20:17:17,05:39:41,2,42a9eea8-7b4f-4aae-a91a-b96de845c37a,Male,Tablet,Social Media,Books,member,577.61,2,172.5,114.32,8.99,Medium,Debit Card
+2023-06-26 21:33:48,14:38:01,14,587801d8-ef16-4532-8d05-997ca056c6d3,Male,Desktop,Email,Books,serve,225.28,1,22.36,2.88,1.46,Medium,Cash on Delivery
+2022-11-12 15:26:29,08:34:29,2,74c1cbca-526d-456f-8e14-8bd9ff2f3f6c,Female,Tablet,Email,Home Appliances,security,370.5,4,47.64,12.75,5.91,Medium,Credit Card
+2023-11-03 15:33:49,02:18:30,9,d2493620-0c2b-48ec-a65c-da7783a9b9b6,Male,Tablet,Email,Clothing,meeting,850.81,3,88.72,30.21,14.83,Medium,Credit Card
+2022-01-09 23:19:33,06:59:20,4,7aed45c0-86d2-40ca-89c5-96b8f170c53f,Female,Desktop,Email,Books,beautiful,913.73,5,123.46,170.99,18.44,Low,Cash on Delivery
+2023-04-15 05:06:14,04:46:22,8,d94be8bd-330b-4cba-88ca-09104cdc1d43,Female,Mobile,Guest,Clothing,develop,92.11,2,2.58,14.67,2.28,Low,Debit Card
+2023-02-17 08:06:49,16:37:10,30,2f577694-dbb9-4ac7-b509-3b0cc7c7cf6c,Female,Tablet,Social Media,Electronics,may,733.43,3,105.17,119.42,4.35,Low,Cash on Delivery
+2022-01-16 21:40:43,05:04:42,14,74c49b62-192d-427c-b8ca-ffdb66b43fef,Male,Tablet,Guest,Electronics,while,565.63,1,124.67,61.08,6.0,High,Cash on Delivery
+2023-02-23 16:12:43,15:13:36,2,a3e6d96a-3ef0-405e-9229-b2dcd5246c73,Male,Mobile,Email,Books,control,586.11,3,44.37,116.91,8.93,Low,Cash on Delivery
+2023-06-14 19:05:36,07:43:55,22,ee3ec4eb-f6bf-4ce1-8476-f80c6737e584,Male,Tablet,Email,Electronics,difference,353.8,1,26.02,59.93,5.42,Low,Credit Card
+2022-04-26 18:35:44,19:19:33,9,170bf5d4-ec88-4637-b8ab-ad945c67037b,Male,Mobile,Email,Books,itself,62.13,3,3.18,8.6,17.66,Low,Cash on Delivery
+2023-11-27 05:09:48,06:08:51,13,f1de1917-1d5b-4358-ac49-373a657c0cd6,Male,Desktop,Email,Books,likely,337.16,5,88.33,18.9,13.56,Medium,Cash on Delivery
+2022-06-15 23:47:27,10:59:49,29,268cb1f7-028c-42fe-a4a6-ee5ea62610ff,Female,Tablet,Guest,Clothing,decade,536.61,1,29.61,35.89,8.81,Low,Debit Card
+2022-11-13 20:01:59,17:06:29,6,c6da1220-1287-4f19-aa9d-1b9f936db7eb,Female,Mobile,Email,Clothing,your,191.8,3,2.06,12.06,18.7,Medium,Credit Card
+2023-07-11 10:46:59,11:32:37,18,1a4369df-1302-4cf9-8e06-8ec8d38dd41d,Male,Tablet,Email,Electronics,customer,375.12,5,94.33,34.15,2.05,High,Cash on Delivery
+2023-03-20 04:27:50,03:23:11,9,19b016bf-da30-4132-8ad6-183f75ad1d5a,Male,Mobile,Social Media,Home Appliances,several,442.2,5,81.97,55.63,9.4,Low,Debit Card
+2023-01-31 14:27:21,03:07:03,2,0e3afcea-3dec-4bc6-b762-e62b223d4ed6,Male,Mobile,Guest,Home Appliances,type,234.0,2,13.2,28.29,7.38,High,Cash on Delivery
+2023-04-14 20:01:43,11:45:50,3,8954676c-2ee8-4f10-bb6f-727b2d8a060e,Male,Mobile,Email,Home Appliances,shake,997.84,5,151.77,118.05,3.35,High,Cash on Delivery
+2023-07-20 14:24:44,18:49:55,10,68f05bb2-48ee-4984-8812-190b4dd4f70f,Male,Desktop,Social Media,Books,then,837.49,5,119.61,115.36,2.17,High,Credit Card
+2022-01-09 19:04:26,11:42:09,20,2e1c9109-3463-4311-802d-595be64cf700,Male,Desktop,Guest,Clothing,short,217.83,4,8.49,23.54,5.98,High,PayPal
+2022-03-05 13:31:26,07:50:32,14,b6723df1-c335-48b0-8cb1-2cc71408fc92,Female,Mobile,Guest,Home Appliances,them,694.19,1,58.38,82.8,4.19,High,PayPal
+2022-05-30 10:51:52,18:16:03,14,d6ee67ad-67c9-48b1-bb3c-c01cf1870670,Female,Mobile,Guest,Clothing,big,871.26,3,73.95,134.2,3.66,Low,PayPal
+2022-10-15 02:21:38,15:34:57,11,a8051389-2be1-40f9-bc92-94bcfd4ba413,Male,Desktop,Email,Home Appliances,author,543.43,1,133.36,89.2,8.18,Low,Cash on Delivery
+2023-03-20 06:57:54,03:38:52,17,42de3649-8c6e-483a-a0d7-bc3ac4137bc1,Male,Tablet,Social Media,Electronics,five,44.32,2,12.95,3.52,19.67,High,Debit Card
+2023-01-30 11:15:45,20:06:42,5,5292f9c4-7de8-4a2e-90b5-3afeb4dd1e62,Male,Tablet,Email,Home Appliances,among,132.23,5,13.47,10.88,8.64,High,Credit Card
+2023-02-24 11:27:47,15:22:38,18,ad53a9ed-b9dd-43d5-b877-12bb58ede6c8,Female,Desktop,Email,Home Appliances,government,261.47,3,32.38,23.03,10.02,Low,PayPal
+2023-03-11 19:00:25,12:39:40,6,5df9218d-3fa3-4372-b4d2-8eb9d92f94fb,Female,Desktop,Email,Clothing,style,303.88,1,70.98,14.78,2.66,Low,Debit Card
+2023-12-07 00:00:01,00:46:25,20,a0eedb07-f698-4a3e-8565-f2f460a8941c,Female,Mobile,Guest,Clothing,together,270.08,2,23.07,33.26,2.64,Medium,PayPal
+2023-03-29 15:15:37,21:48:05,7,287814fd-f5fb-41b0-be44-8872c69703d9,Female,Mobile,Guest,Home Appliances,article,614.84,3,3.55,89.66,18.44,Medium,Credit Card
+2023-04-22 23:55:44,23:13:25,13,265ec6ca-52ac-4df3-b19d-6e2c1805d9ff,Male,Desktop,Guest,Clothing,everyone,939.23,3,254.81,120.76,18.72,Medium,Debit Card
+2022-12-12 03:03:17,12:45:00,16,2d0331ce-89b6-4e87-a5f0-c1c0ef85166f,Male,Tablet,Guest,Books,minute,752.16,3,187.98,28.06,18.39,High,Debit Card
+2022-10-25 15:32:56,11:16:24,12,29bc751c-2097-41ea-a2bb-6ad22036c271,Female,Mobile,Social Media,Home Appliances,seat,242.12,5,50.72,18.7,17.33,High,Cash on Delivery
+2023-08-08 06:01:56,05:18:07,16,f5bda654-e29d-473e-b683-5085b4dd6e07,Male,Tablet,Social Media,Home Appliances,half,29.16,4,7.16,3.36,10.74,Low,Debit Card
+2022-12-06 23:49:13,16:52:42,23,ba929051-b7b3-4bdb-91fd-5b11e9e00d03,Male,Desktop,Guest,Electronics,health,30.91,4,3.5,5.39,7.65,Medium,Credit Card
+2023-01-21 00:14:09,01:39:40,16,f2b3c7e4-24d7-4866-a90d-fa07ca75864e,Male,Tablet,Email,Clothing,morning,781.97,1,172.62,13.13,18.24,Low,Cash on Delivery
+2022-01-25 14:26:53,19:33:47,17,418c7e78-a289-468b-8cf9-7f65ff21140b,Male,Mobile,Email,Clothing,anyone,823.25,5,118.86,52.83,3.83,Medium,PayPal
+2023-01-07 10:05:04,15:48:45,27,3a571c9a-ab44-4e60-a3d3-59dc8dabc1cf,Male,Mobile,Guest,Books,job,649.23,5,31.62,59.51,18.97,Medium,Debit Card
+2022-02-26 14:25:47,21:36:15,17,5870e9b3-f7fb-4fbb-93bd-8d9552822446,Male,Desktop,Social Media,Electronics,despite,16.13,5,2.01,1.95,9.35,High,Credit Card
+2023-10-31 19:03:07,15:49:24,26,d882743d-1faa-4146-8147-d126a5dcad3a,Female,Tablet,Guest,Home Appliances,black,654.62,2,148.07,19.36,19.74,Low,PayPal
+2023-01-03 07:24:10,16:28:39,10,e96e673e-ea8a-4b27-b127-ff332115746d,Female,Desktop,Guest,Electronics,two,688.11,4,201.23,131.45,11.91,High,Cash on Delivery
+2022-12-09 20:51:48,15:28:11,27,949b4416-c552-46a6-9fe7-76f1a6cabef1,Female,Mobile,Guest,Electronics,federal,693.54,5,126.07,9.38,4.02,High,Credit Card
+2022-12-19 09:45:57,22:01:12,1,76fa93ad-728f-41ef-a5b2-cd085e54907d,Female,Desktop,Email,Electronics,within,112.93,4,13.48,13.93,18.23,High,Debit Card
+2022-08-29 17:45:02,10:42:50,24,b0405c53-6253-4792-b2f4-fba84ed407db,Female,Mobile,Email,Clothing,office,375.25,1,77.56,58.39,6.3,Low,Cash on Delivery
+2022-07-30 00:47:13,13:00:20,11,1ab42545-a12b-4e00-931a-d3edcfb9c4c1,Female,Tablet,Email,Home Appliances,especially,606.37,3,13.31,47.97,14.87,Medium,Debit Card
+2023-10-04 02:46:32,14:26:35,12,95089803-5548-4576-b76a-283ee24995c5,Male,Desktop,Social Media,Electronics,reflect,247.47,2,4.7,24.56,1.36,High,Cash on Delivery
+2023-03-31 07:24:03,00:23:51,6,b9bf05bf-4e99-43c5-929a-bf2fef665443,Female,Desktop,Email,Home Appliances,away,898.5,3,144.2,28.13,15.58,High,Cash on Delivery
+2023-12-06 12:00:34,14:20:32,11,e0488114-4207-4e0e-97ae-e36d46d2035f,Female,Tablet,Email,Clothing,once,561.17,5,140.81,26.17,8.69,High,PayPal
+2023-01-08 19:17:31,19:21:03,20,3fb03509-3f0c-42fc-9b66-74fcb11f1c11,Female,Tablet,Social Media,Electronics,plant,394.01,5,25.64,41.45,12.0,Medium,Cash on Delivery
+2022-11-09 05:59:55,19:50:12,5,0c670e93-699d-427f-b07b-b434313f867d,Male,Desktop,Guest,Books,large,984.44,1,206.15,51.26,11.01,High,PayPal
+2023-02-27 03:56:51,19:33:44,11,4e4403bd-8fa1-4726-8b66-230b47fd6737,Female,Mobile,Social Media,Books,score,285.14,5,13.78,35.6,12.8,Medium,PayPal
+2022-11-30 15:02:57,14:46:27,29,83b97665-1e15-4e3c-b659-501714ed6cb8,Female,Desktop,Email,Clothing,draw,431.54,3,117.93,81.38,13.78,High,PayPal
+2023-12-04 08:07:44,20:31:13,19,d223000a-0891-45d2-9b90-c104c6b3aaa3,Male,Mobile,Social Media,Books,simply,726.18,1,170.55,92.92,17.2,Medium,Cash on Delivery
+2022-08-29 08:40:18,07:13:43,27,f33f8f9b-cdf4-46fe-ba8e-ee8e74d0ba0b,Female,Tablet,Guest,Clothing,any,630.81,5,155.69,64.21,1.09,High,Debit Card
+2023-09-15 13:06:12,02:13:13,30,d6fd412d-46af-4439-8973-c5e32577c995,Male,Desktop,Email,Clothing,despite,114.42,2,18.07,17.14,19.85,Medium,PayPal
+2022-01-11 11:06:21,10:10:47,5,3d57595f-49d0-46fe-9551-f33afc19746c,Male,Mobile,Guest,Books,four,170.87,1,24.85,19.61,18.45,Medium,Credit Card
+2022-04-08 13:30:47,01:15:05,4,db6c2cf6-430d-43e8-87a6-562a392fbb46,Male,Tablet,Email,Home Appliances,glass,49.43,2,11.81,7.16,16.39,High,Cash on Delivery
+2023-01-22 05:36:05,20:57:19,18,49d1b909-9f1e-4734-9833-47e6757e3ad6,Female,Desktop,Email,Home Appliances,thank,982.49,3,246.45,156.29,15.23,Medium,Cash on Delivery
+2023-04-19 22:17:50,20:29:18,1,5b6fb17f-e910-4c6a-9626-2163895252d6,Male,Tablet,Email,Home Appliances,throw,67.57,2,5.26,3.77,4.06,High,Credit Card
+2023-07-26 04:02:58,14:24:28,12,5fc80e8a-e902-451a-80e9-b6e074f9de9a,Female,Desktop,Email,Home Appliances,food,355.21,1,52.9,59.31,2.55,High,PayPal
+2023-11-12 16:48:15,18:16:43,14,8aecebd0-00d5-4135-ad53-d41a81f503e0,Female,Mobile,Email,Books,say,491.57,2,54.13,72.8,8.36,Medium,PayPal
+2022-11-07 17:31:21,02:12:25,25,645e86e6-1096-4b0a-bb01-70dc09fad0ea,Female,Mobile,Guest,Clothing,drop,88.81,4,0.16,14.07,16.03,Low,Cash on Delivery
+2022-06-26 09:32:17,03:39:49,9,d5bdc872-d71a-4c04-b3bc-998526cb64cc,Female,Tablet,Social Media,Home Appliances,great,503.51,2,30.52,88.66,3.78,Low,Debit Card
+2023-09-13 11:23:06,18:52:14,7,ece95a47-6d3b-458d-a920-d915a58fece8,Female,Mobile,Guest,Clothing,store,864.37,5,128.49,142.56,14.41,Low,Credit Card
+2023-02-09 04:03:17,03:48:55,11,dabbca18-083f-4b77-82ac-fb6172b33f0d,Female,Tablet,Email,Electronics,recently,498.79,4,75.94,91.01,13.87,High,Debit Card
+2023-10-02 04:42:38,00:25:27,4,615b83d1-ec8c-474f-b4bf-e85234fe2af3,Female,Mobile,Guest,Home Appliances,Mrs,280.06,2,60.09,40.18,12.17,Low,PayPal
+2022-12-31 01:47:56,09:00:23,1,8db6f69e-c34b-4b6f-9f0f-8877741b6945,Female,Mobile,Guest,Home Appliances,minute,721.07,2,153.75,65.82,11.11,Medium,Cash on Delivery
+2022-11-04 22:49:35,11:43:44,17,4d041782-0724-4398-9fd1-73d21c3b1554,Male,Mobile,Guest,Electronics,meet,896.22,2,190.68,42.41,6.48,Medium,Credit Card
+2022-01-19 01:40:04,03:59:54,24,13670e12-0876-4167-a9b5-a9eca1d503cc,Female,Tablet,Email,Home Appliances,new,983.14,5,73.01,167.4,14.56,Medium,PayPal
+2022-04-24 21:30:24,21:04:31,21,0fd40710-bf6b-405f-bf42-8ec912e20321,Female,Tablet,Guest,Electronics,television,391.08,1,72.06,62.66,4.66,Low,Debit Card
+2023-09-27 13:36:19,20:12:06,7,554f2c74-b55a-45cc-9fc7-449973a21a96,Male,Mobile,Social Media,Electronics,stage,649.02,4,90.66,29.64,6.12,High,Cash on Delivery
+2022-02-19 18:29:01,22:44:13,25,7a13448d-9586-4998-aae4-c40b1a54daf9,Female,Desktop,Social Media,Books,training,669.76,4,125.92,110.91,6.54,High,Debit Card
+2022-05-20 21:55:41,07:37:01,1,b6aa4f98-87ed-43f0-a54d-95091f636868,Male,Desktop,Social Media,Home Appliances,senior,694.4,1,101.79,84.41,11.7,Medium,Credit Card
+2023-06-25 11:58:02,15:52:26,16,a83896dc-8958-476c-82f9-3b5cac4eeec6,Male,Mobile,Social Media,Books,degree,671.88,1,12.88,113.22,15.09,Low,Credit Card
+2022-03-09 02:31:59,12:58:22,5,527847a3-b857-4979-a8cd-f8277a9d0f9d,Male,Tablet,Social Media,Books,table,731.86,2,151.48,88.95,1.82,High,Debit Card
+2023-01-09 10:34:17,00:24:57,10,85effe1e-3efe-4693-a78f-617580c53771,Female,Mobile,Email,Home Appliances,necessary,27.57,3,4.49,5.03,10.52,Low,Credit Card
+2022-09-27 20:21:32,23:30:24,14,b6127937-ce4e-4435-94fc-9d49c7725e19,Female,Mobile,Email,Electronics,choose,587.79,1,164.45,48.57,10.02,Medium,Cash on Delivery
+2023-08-28 17:40:26,18:32:09,29,be1c6602-d6b1-4c02-bc3e-703414c304dd,Female,Desktop,Social Media,Clothing,drug,629.26,1,106.59,17.59,3.06,Low,Debit Card
+2022-09-02 23:48:22,17:16:11,7,e61a31b4-8e78-4bca-ae48-f7b565dc9c21,Male,Tablet,Email,Home Appliances,carry,603.95,1,24.26,51.53,12.91,Medium,Credit Card
+2023-04-12 12:43:14,18:38:51,14,00b2587d-e180-452e-ad1a-dbe0dce164e3,Male,Desktop,Email,Books,church,113.6,1,33.17,2.63,4.49,Low,Credit Card
+2022-04-10 12:24:00,23:52:05,6,8aea6e12-aa6a-4459-8650-e39f5da2af4f,Male,Mobile,Email,Home Appliances,within,200.94,3,51.8,39.48,7.54,Low,Cash on Delivery
+2022-10-18 16:05:13,19:01:57,6,c54c4d4f-a1d0-4d07-9f9c-abe3498eac48,Male,Mobile,Email,Electronics,mission,757.67,1,203.22,32.66,18.86,Low,Cash on Delivery
+2022-06-29 10:44:59,19:22:18,29,d3813a72-4510-4729-835f-ab6e27339be5,Female,Desktop,Email,Home Appliances,manage,50.87,5,2.88,9.5,6.02,Low,Debit Card
+2023-03-19 21:44:12,20:15:01,18,f8051757-aea2-4152-9cc1-e9b6916b35dd,Female,Desktop,Social Media,Clothing,dark,372.94,5,36.74,40.14,1.01,Medium,Debit Card
+2023-01-23 06:23:21,02:44:56,10,6e0ca79b-8571-4d44-9b3d-859f0e0ae177,Male,Tablet,Guest,Electronics,herself,382.64,4,29.35,2.54,3.98,Medium,Credit Card
+2022-05-20 07:13:47,11:00:36,30,a9b18f52-d668-4b70-8e8b-8b08e1dbcdc7,Male,Desktop,Social Media,Clothing,under,789.98,1,232.11,136.6,3.8,Low,Debit Card
+2023-01-03 19:36:10,16:29:36,10,6c2b5042-02ab-43a3-8670-5eef922feba5,Female,Tablet,Email,Books,media,674.21,2,36.93,18.2,6.12,Medium,PayPal
+2023-04-10 11:32:39,16:53:00,16,1bd5aca1-177d-4746-a581-174fdd3b3c2e,Male,Desktop,Guest,Home Appliances,apply,877.02,5,187.64,29.49,9.95,Medium,PayPal
+2022-06-10 11:44:04,09:57:08,25,1d16416a-5c33-4895-85af-6c7286d6e1de,Male,Desktop,Guest,Books,agent,201.29,2,48.7,3.27,15.74,Low,Credit Card
+2023-04-25 20:36:17,00:16:58,11,6bb880e1-2253-47b4-862c-d66213295cfb,Female,Desktop,Guest,Books,for,759.05,1,46.77,44.67,6.88,Medium,PayPal
+2023-02-03 13:07:13,16:24:38,13,b07354b6-7304-4738-8606-e0f5113cf87e,Female,Mobile,Email,Home Appliances,reduce,377.1,5,35.36,45.65,15.1,Medium,Cash on Delivery
+2023-08-11 01:57:48,16:32:01,7,aba7ca66-676d-475f-a644-7e719c2b9561,Male,Tablet,Email,Electronics,opportunity,216.04,3,52.07,9.78,9.16,Medium,Cash on Delivery
+2023-02-28 00:19:20,11:41:34,21,59ee5fcd-ed79-459b-9b02-3cfd1ddc7a1e,Male,Desktop,Social Media,Clothing,bed,407.75,3,6.13,64.66,13.8,High,Debit Card
+2023-11-29 21:31:24,11:27:09,24,61644d20-07c1-4bb9-8c9f-ec052e17fc23,Male,Tablet,Social Media,Clothing,investment,459.93,3,67.47,41.14,18.43,Medium,PayPal
+2023-05-21 16:14:06,22:14:39,11,de4123a9-58e1-4025-8f3e-8314dad374c4,Male,Desktop,Guest,Electronics,push,990.07,5,45.83,146.64,18.35,Low,PayPal
+2022-01-05 09:39:54,19:08:00,5,0b3b7e39-4a23-4d35-8bb9-9b620f4a1d8a,Female,Desktop,Social Media,Electronics,until,253.95,5,10.68,40.85,13.99,Low,Debit Card
+2022-04-02 04:55:12,11:56:42,6,ca3479dd-15b9-437c-bdcb-818103ff4898,Female,Mobile,Guest,Books,per,524.31,1,34.34,4.08,3.86,High,Cash on Delivery
+2022-02-17 07:41:11,23:27:40,5,1431d61e-fa51-4aa1-b62d-2c0dbf546c06,Male,Desktop,Guest,Home Appliances,maintain,267.87,1,51.26,27.37,12.57,Medium,Cash on Delivery
+2023-08-01 22:46:31,21:47:13,26,e624e26b-8cd8-4818-866e-339b7f51bae1,Female,Tablet,Email,Home Appliances,just,465.75,4,22.11,50.82,9.28,Low,Credit Card
+2022-01-12 00:01:59,18:33:14,3,d1387883-c5ff-43ed-a3df-5f6a8e462d4a,Male,Mobile,Social Media,Electronics,between,943.76,3,28.54,43.55,14.74,Low,PayPal
+2022-04-01 16:30:34,10:35:56,25,d187eca9-5a76-40ac-affb-00246f82fce8,Male,Mobile,Social Media,Clothing,building,342.9,3,42.91,19.55,12.85,Low,PayPal
+2023-06-07 09:27:35,13:47:13,10,587aba11-d5ed-4a42-a2c6-d1bd32c27710,Male,Desktop,Social Media,Electronics,try,839.42,4,218.45,147.96,13.98,High,Cash on Delivery
+2022-07-06 23:25:06,07:01:44,1,08c87f9a-bb81-4203-aa13-5a0330ae2082,Female,Tablet,Guest,Clothing,west,457.05,1,36.27,44.04,13.23,Medium,PayPal
+2023-11-09 21:17:28,14:47:52,11,7481b003-7ec8-4a1b-8ed6-e2a2e2806e1e,Male,Tablet,Social Media,Home Appliances,history,963.96,2,227.42,2.92,8.45,Low,PayPal
+2023-04-20 22:49:24,23:40:19,14,4a4a51d1-eb3f-4a97-803d-d4951c1a1d23,Male,Mobile,Social Media,Clothing,old,317.0,5,72.26,10.56,15.92,High,Debit Card
+2023-08-23 04:46:24,04:03:52,17,120dc0ee-c957-49ab-8706-fb6cc2c36852,Female,Mobile,Social Media,Home Appliances,with,134.5,4,6.37,18.5,5.11,Medium,PayPal
+2023-10-29 12:01:10,06:36:37,4,8982a1bf-0bde-4142-b5bd-5dfa9215b444,Male,Desktop,Social Media,Electronics,education,397.99,1,67.81,65.12,5.44,Medium,Cash on Delivery
+2022-03-20 21:26:05,01:43:08,10,467ef3a0-23b7-49fe-86f5-06b5d826f2e1,Female,Desktop,Email,Books,strategy,909.39,2,42.4,29.06,3.07,Low,Cash on Delivery
+2022-11-16 21:59:13,13:53:47,18,6bcd0184-a415-4cbc-a512-b7952ee6c8fd,Male,Mobile,Email,Electronics,president,254.23,4,38.84,15.82,13.44,Medium,Credit Card
+2022-05-31 21:44:49,17:02:36,19,eed85f1d-3848-42e9-9716-df1e6a4d9298,Male,Desktop,Social Media,Books,natural,290.75,2,85.61,41.02,16.29,Medium,Debit Card
+2022-01-22 18:17:47,05:41:10,17,7d367c7c-fe08-4dbc-abc8-ddbff1ee903b,Male,Tablet,Guest,Home Appliances,successful,314.16,5,24.8,1.39,17.9,High,PayPal
+2022-12-02 01:02:34,13:30:02,16,c2eab17f-cf3d-47c5-b0b9-a4f0326d39d4,Female,Mobile,Guest,Clothing,happy,769.87,1,211.87,36.73,6.61,Low,Debit Card
+2022-08-12 07:18:37,09:00:01,12,f7d5c47f-4702-4c1f-8129-7ef8e6eca1df,Male,Tablet,Social Media,Clothing,those,122.91,4,6.81,23.32,9.4,Low,Debit Card
+2023-04-01 17:46:23,01:51:21,16,bbbb7d2e-f8be-4f04-8b65-dcea4a7402f2,Female,Desktop,Social Media,Books,wide,655.44,2,23.26,72.75,4.61,Medium,PayPal
+2022-09-11 09:04:25,18:22:24,20,2cd45aad-811f-4974-9dd5-3180b08727c2,Female,Tablet,Social Media,Home Appliances,base,309.82,1,3.07,8.05,11.55,High,Credit Card
+2023-08-21 15:50:25,01:11:04,29,fa2b81b8-76f5-46cc-8b4c-5d9ba8c51bc6,Male,Desktop,Social Media,Electronics,husband,463.67,5,58.75,91.48,6.33,Medium,Debit Card
+2023-05-24 14:53:48,16:27:03,20,4096c056-0128-4afb-ae5b-24738f531c22,Female,Desktop,Email,Clothing,sell,649.33,1,123.99,24.45,14.42,High,Debit Card
+2023-08-16 05:00:33,16:58:30,28,32878e8f-bbe5-4ce7-b415-8fa87e8823ef,Female,Mobile,Social Media,Clothing,accept,226.65,3,31.72,14.84,8.42,Medium,Credit Card
+2023-08-23 19:51:00,16:40:02,25,0e4afd1b-156a-4a41-93ba-b683d859d299,Female,Desktop,Email,Electronics,cause,125.23,4,13.05,22.59,16.5,Low,PayPal
+2022-01-28 00:48:34,17:26:45,9,e4623084-6644-4d38-9549-f50311f4c190,Female,Tablet,Social Media,Books,chance,406.89,3,110.87,80.57,18.57,Medium,PayPal
+2023-04-16 04:11:10,05:41:25,15,a777eb32-eb55-4086-9502-29e427701a08,Female,Tablet,Social Media,Clothing,wrong,566.65,4,4.46,14.34,1.58,Medium,Cash on Delivery
+2023-09-21 14:29:06,19:56:26,30,562b2260-074b-42e5-a679-c3a0365a1f2d,Female,Desktop,Guest,Books,still,17.77,2,0.42,1.47,15.58,Low,PayPal
+2022-07-13 03:57:54,14:18:49,4,1dcb53be-2db7-4d3b-8558-26cbd7126b2b,Female,Mobile,Email,Electronics,another,824.76,5,185.36,45.51,9.54,Low,Cash on Delivery
+2023-05-17 06:31:12,21:39:54,8,6e86512a-ab40-4dbc-9680-0b3875e91c75,Female,Desktop,Email,Books,loss,559.9,4,145.34,107.39,4.08,Low,Credit Card
+2022-10-02 15:25:58,17:28:56,20,2474787f-8683-41ea-8ecd-afcad96f3d95,Female,Tablet,Email,Books,hour,365.42,2,98.65,21.68,3.06,Medium,Debit Card
+2022-02-14 14:19:51,00:13:04,28,d62cb6f6-6d54-477c-a0ae-826ca8a059a0,Male,Tablet,Guest,Electronics,lawyer,311.27,2,2.5,15.44,10.59,Medium,PayPal
+2022-12-10 19:10:02,05:01:48,6,168ed4cf-ac31-4d36-8ae7-cf7746868d10,Male,Desktop,Guest,Electronics,final,743.89,5,14.48,17.67,2.1,Medium,Cash on Delivery
+2022-06-04 06:10:50,13:53:21,2,ffd80bc8-22fc-403f-aa34-670b814f56e3,Male,Desktop,Email,Electronics,hospital,486.87,5,61.85,4.71,9.21,Low,Debit Card
+2022-02-02 07:24:15,13:43:17,24,43e7ac11-d54c-4902-9a40-19617b89e4e8,Male,Tablet,Social Media,Books,few,671.14,3,106.58,63.32,11.52,High,Cash on Delivery
+2023-06-21 08:52:30,19:35:10,18,cb93a0ce-9a37-450a-9d55-48aabc8b6858,Male,Mobile,Guest,Books,draw,334.75,2,80.26,49.77,7.8,Medium,PayPal
+2023-11-20 23:05:54,09:42:24,25,c4ae2f8e-7715-4bf6-bc93-2d2e982cbd6e,Female,Desktop,Guest,Books,around,151.53,3,20.33,25.75,6.18,Low,Cash on Delivery
+2023-06-01 18:21:00,06:23:38,26,66da25d8-79c8-43e5-8aaf-ca9bca7080c0,Female,Desktop,Guest,Home Appliances,can,374.06,5,39.42,17.55,8.51,Medium,Cash on Delivery
+2023-08-22 03:43:11,01:13:52,29,2e95f2e5-cd9e-4e19-8915-d964cef2b008,Male,Desktop,Email,Electronics,yet,621.31,5,86.47,31.37,7.56,Low,Cash on Delivery
+2022-11-18 14:49:27,23:29:06,6,febe6666-37d5-44bf-8b67-f234d6331f9f,Male,Tablet,Email,Electronics,although,249.47,5,24.39,16.51,8.39,Medium,Credit Card
+2023-08-12 10:50:39,04:31:41,6,a402d8c2-111f-43f3-a8c6-28bd3ec8fdfc,Female,Desktop,Guest,Books,culture,451.35,4,92.97,88.85,7.49,High,Debit Card
+2022-09-18 20:49:12,03:57:35,19,f3917b09-a733-4741-8564-0a679e7d1591,Male,Desktop,Social Media,Electronics,form,790.79,5,52.51,4.08,11.01,High,Debit Card
+2023-01-30 17:45:23,07:21:18,24,8df22698-ca5e-4cac-8db7-da0edbe5a8a5,Female,Mobile,Social Media,Home Appliances,really,275.44,2,80.32,8.11,2.62,High,Debit Card
+2022-03-06 22:14:46,19:58:30,17,56b63074-a817-428c-a8e9-6cf0ebf1830c,Male,Tablet,Social Media,Electronics,since,895.37,5,267.84,163.48,6.99,Medium,PayPal
+2023-11-01 18:06:48,13:43:08,23,be5fb06c-c8dc-4e90-a5c8-5c52e5ad0ecc,Female,Tablet,Social Media,Books,short,491.1,1,28.42,65.67,14.84,High,Cash on Delivery
+2023-04-19 11:37:35,06:27:50,29,1967a131-bde7-432d-8723-9ab35271f66c,Female,Desktop,Email,Clothing,marriage,544.87,3,13.83,9.64,8.11,High,Credit Card
+2023-12-04 15:22:42,06:05:55,7,a7a6ea18-9b3f-4754-b0e9-561665e8d6ef,Female,Desktop,Social Media,Clothing,popular,119.66,2,26.04,23.17,13.65,Medium,Cash on Delivery
+2022-09-27 13:23:34,05:22:59,6,93b815cc-7dfd-4769-a2ca-554230fbd9ff,Male,Tablet,Social Media,Home Appliances,kind,56.06,5,4.18,6.21,6.4,High,Cash on Delivery
+2023-03-30 15:33:24,03:09:33,30,9351a104-cd3d-4bef-86bf-08537dedfada,Female,Mobile,Email,Clothing,bar,369.53,5,97.91,45.3,9.5,Medium,Credit Card
+2022-11-13 07:59:04,17:34:50,24,66bf801b-7541-45cf-9d18-6451f1662e8d,Female,Tablet,Social Media,Home Appliances,believe,432.64,2,79.69,22.64,15.77,High,Debit Card
+2022-12-16 07:51:01,08:14:01,4,93f806ce-cd37-4479-9d64-8f868c7ca62a,Male,Mobile,Email,Books,ok,168.23,4,22.27,32.69,19.66,High,PayPal
+2023-03-19 07:47:20,16:12:14,3,211a693d-d965-42aa-b6a0-f3ce82725a96,Male,Tablet,Guest,Clothing,sign,593.58,1,62.2,97.36,9.06,Low,Credit Card
+2023-05-13 17:38:01,05:17:36,10,67c5f0c1-08cf-43a7-b634-3acdd6f52e1b,Female,Tablet,Email,Home Appliances,interview,468.67,1,87.23,92.01,17.57,Medium,Debit Card
+2022-12-10 07:34:10,15:02:28,6,b2b37002-4fc9-4807-b46b-1bf574b5fa1e,Male,Mobile,Guest,Electronics,each,600.01,1,24.78,76.36,6.57,Low,Credit Card
+2022-06-21 20:35:06,11:52:10,23,3e7c0b1b-49d2-48ca-8241-80c2023e689a,Female,Desktop,Guest,Electronics,yet,754.13,3,26.35,132.61,12.24,Medium,PayPal
+2023-10-28 08:37:55,04:33:18,23,7d591981-008a-4818-b955-c1265184692d,Male,Mobile,Social Media,Clothing,list,441.0,1,34.59,63.97,15.84,Low,PayPal
+2022-01-13 20:21:43,12:18:13,17,559a95e0-fa00-4a5e-8d32-18f55d2389c9,Female,Mobile,Guest,Clothing,focus,613.04,5,175.07,11.83,7.69,Medium,Cash on Delivery
+2022-06-20 08:20:39,05:32:09,23,b91a6729-23f4-4af8-8b8f-011d08de27e2,Female,Tablet,Email,Books,number,557.2,5,4.94,92.55,19.37,High,Debit Card
+2023-10-16 06:49:37,00:43:21,18,302e4b9f-5d14-4b14-b39a-fca9aa77775d,Female,Mobile,Guest,Books,drive,737.55,5,63.92,22.53,9.4,Low,PayPal
+2022-06-16 04:55:10,08:40:02,9,de73069b-5890-48fc-aea6-b240c62009ec,Male,Tablet,Email,Electronics,sure,440.95,3,131.94,73.98,19.79,Low,PayPal
+2022-08-18 15:57:54,17:15:32,1,98a75e79-9fc9-443d-89bc-28f20e242fe3,Female,Tablet,Guest,Clothing,over,641.42,1,155.71,81.88,9.37,Low,Credit Card
+2022-07-09 22:13:52,03:03:31,15,913a583a-698b-410e-ba07-d84a6aa839bf,Male,Desktop,Social Media,Clothing,we,768.15,4,214.67,40.44,1.13,Medium,Debit Card
+2023-05-20 04:17:04,15:16:41,5,64d00719-5730-4d85-84b5-96722b785121,Male,Tablet,Email,Electronics,maybe,486.26,2,127.81,16.51,3.71,High,Cash on Delivery
+2023-02-14 10:33:55,03:09:31,4,cd1fb879-ed2d-4da7-8d09-0c1a9ea90213,Female,Mobile,Email,Home Appliances,walk,444.12,1,75.87,2.94,14.73,Low,Debit Card
+2022-01-06 18:38:55,05:22:45,9,379e686a-ec5c-4d75-9d72-7f638b3796c7,Female,Desktop,Email,Books,behind,146.4,4,6.23,6.39,18.88,Low,Credit Card
+2023-10-04 12:34:39,05:04:55,11,b747317a-2000-4867-aa03-7b79adabc413,Female,Desktop,Social Media,Books,century,320.93,5,93.02,1.48,3.05,Medium,Cash on Delivery
+2022-11-20 13:45:34,15:32:42,21,dee1910f-77dc-45a8-86cb-4b2741f9357f,Female,Tablet,Guest,Electronics,shake,530.14,4,108.47,103.46,4.32,Low,Cash on Delivery
+2023-01-10 15:39:30,08:33:40,3,adb1892a-30f0-4252-a912-f7b47314c0e6,Female,Tablet,Email,Books,decision,307.95,3,17.18,34.77,2.24,Low,Debit Card
+2022-07-08 01:56:29,07:58:40,9,186f3402-8ff8-4bfe-af51-4ea8d3235e34,Female,Tablet,Email,Home Appliances,ability,96.86,3,3.41,10.89,11.46,Medium,Cash on Delivery
+2023-01-20 06:00:42,16:52:24,10,52e6e2a7-f9d7-493d-af46-39f56760b031,Female,Tablet,Social Media,Electronics,join,999.42,5,74.83,41.33,17.8,High,PayPal
+2023-04-19 07:20:23,10:55:25,30,ebf852d3-8173-4a82-9d3e-1743bff13d00,Female,Tablet,Social Media,Electronics,doctor,734.07,5,149.64,64.9,11.17,Low,PayPal
+2022-09-12 19:00:25,10:08:45,16,d4368d25-4d08-4f22-96a5-22ff83f27df9,Male,Mobile,Email,Clothing,because,867.72,3,152.39,18.9,18.7,High,Credit Card
+2022-12-23 05:28:21,13:41:16,16,ef7daf2f-c8de-4560-96ba-743247e179f1,Female,Desktop,Email,Books,option,617.37,1,65.77,50.81,16.55,High,PayPal
+2023-03-10 16:13:27,03:23:22,25,9567f7f7-70c6-42ad-8afb-5bd19ac26cb6,Female,Desktop,Guest,Home Appliances,bit,781.29,3,103.33,1.63,11.47,Medium,Debit Card
+2023-01-14 03:06:22,05:01:28,22,cbc28f3d-8998-4988-a780-a1b35286580f,Male,Mobile,Guest,Books,want,616.82,3,151.7,19.42,15.9,Medium,Credit Card
+2022-01-23 04:18:04,22:37:24,17,c8983ed6-1499-455a-8a02-a7345ec5a5cc,Male,Mobile,Social Media,Electronics,growth,874.16,3,163.51,70.44,12.1,High,Credit Card
+2022-10-08 10:09:35,10:26:07,17,c36a3e0f-69c0-469d-ada0-13766485303f,Female,Desktop,Email,Electronics,clear,758.33,4,165.19,29.99,9.19,Low,Credit Card
+2022-01-11 20:10:45,21:51:54,28,877352f0-ae61-4943-90a6-f26c17eb6e3b,Female,Mobile,Email,Clothing,to,381.8,2,24.15,15.21,19.58,High,Cash on Delivery
+2023-08-16 18:43:18,04:07:39,3,fa38d4c4-0c20-451d-b598-215b5ada4622,Female,Desktop,Email,Books,current,579.31,4,93.21,93.26,17.13,Medium,Credit Card
+2022-07-06 22:45:56,04:52:55,6,6c319493-e701-403a-8b85-43dd7a8248a0,Female,Mobile,Email,Clothing,necessary,531.45,5,43.84,59.74,13.34,High,Debit Card
+2022-12-28 16:35:15,05:58:18,8,eb817a25-6892-40da-8ac2-a95d24f67ea3,Female,Mobile,Email,Electronics,consumer,974.33,5,31.71,173.97,12.02,Medium,Cash on Delivery
+2023-07-24 18:08:45,18:43:14,21,0a7693ac-fbfd-45a0-bbd4-8aa809f936f9,Male,Desktop,Social Media,Clothing,spring,526.38,4,57.36,88.61,1.43,Low,PayPal
+2023-07-27 05:26:04,19:36:32,9,97f41eaa-c082-477e-b1ae-e148edea0c62,Male,Mobile,Guest,Books,growth,944.86,4,202.65,102.2,18.84,Low,Credit Card
+2023-03-02 18:32:49,06:35:28,30,2b610458-d457-42e7-a52f-97f11a272583,Male,Desktop,Email,Books,this,829.91,4,10.4,25.91,6.2,Medium,PayPal
+2022-07-13 11:41:02,20:22:03,9,59322cee-076f-47c5-bfcf-cdda5823588e,Male,Mobile,Guest,Electronics,base,832.43,3,122.05,38.98,6.42,Low,Credit Card
+2023-08-28 12:47:40,09:29:00,20,81b2c966-ca04-47f0-b1e7-109c0cd405fc,Male,Mobile,Social Media,Electronics,book,556.5,2,145.92,35.86,18.3,Medium,Cash on Delivery
+2023-10-11 13:31:38,08:12:56,26,5a7fc778-972b-4538-bdff-0f4250b5aefe,Male,Desktop,Guest,Electronics,need,68.52,5,5.88,13.41,19.47,High,Credit Card
+2022-06-07 05:58:26,11:25:59,15,a7740989-0844-4e2b-ba6c-58533059989c,Female,Desktop,Social Media,Clothing,half,723.1,3,130.72,14.66,14.63,High,Debit Card
+2023-04-09 16:10:51,22:49:10,16,c98db090-d65b-48d7-84cc-cfaf067ba798,Male,Desktop,Social Media,Home Appliances,huge,124.27,4,28.33,22.99,11.05,High,PayPal
+2023-12-07 18:41:51,08:38:08,27,e46e4f59-cab4-4fc7-8e39-51de12752fca,Male,Mobile,Social Media,Home Appliances,they,413.28,2,61.86,80.51,9.82,Low,Credit Card
+2022-12-23 16:57:07,13:03:14,26,66784512-8c30-4ec1-80ab-b53ecd21d0b1,Male,Mobile,Guest,Books,next,774.74,5,220.48,153.24,3.44,High,Debit Card
+2023-09-17 16:14:44,21:08:08,22,709d3081-13a5-4aba-a93f-1fe933e5cda8,Female,Mobile,Guest,Clothing,write,65.69,1,9.89,12.61,1.04,High,Cash on Delivery
+2022-01-24 01:08:27,14:12:13,23,3771ac0c-2650-46f9-8fea-07b70fa7df0b,Female,Tablet,Email,Electronics,mission,667.01,5,105.31,119.16,3.34,Medium,Cash on Delivery
+2022-09-28 05:11:10,08:42:45,26,ac87bf2f-8cd9-4df5-88ec-f4fbafa7ed96,Male,Mobile,Email,Books,drug,101.95,2,0.08,14.48,7.98,Medium,Debit Card
+2023-03-11 00:58:19,23:15:11,16,6b1205ad-e0b0-4f4c-9b43-9b1e64263fa3,Female,Mobile,Email,Home Appliances,happy,236.33,4,23.87,36.91,1.58,Medium,PayPal
+2023-10-23 06:50:45,23:14:55,26,b593cd01-29f6-4502-a73b-0277cf388daa,Male,Desktop,Guest,Clothing,their,177.69,3,17.99,27.88,3.88,Medium,Debit Card
+2023-11-09 08:02:04,16:23:46,5,b406ca4f-9d24-403d-a626-f142c24e1d08,Female,Tablet,Email,Electronics,Mr,93.71,3,3.89,2.03,13.24,High,Debit Card
+2023-11-25 02:44:37,22:53:55,10,c710a09d-20a0-40aa-863d-4e4957db2db8,Female,Desktop,Guest,Electronics,movement,891.3,2,73.73,35.84,8.11,Medium,Debit Card
+2022-02-22 08:59:28,03:54:55,26,85d52909-5aee-4a97-b539-4251a2069885,Female,Desktop,Email,Electronics,growth,735.89,1,139.44,82.12,9.81,Low,Credit Card
+2022-01-23 08:41:50,18:22:14,17,ee68cfec-ae19-4905-86bd-3388a0b28643,Female,Desktop,Guest,Books,shoulder,80.96,4,18.16,1.69,8.79,Low,Debit Card
+2022-07-25 23:03:15,00:06:48,23,fff22b46-d14c-4238-8006-940398863854,Male,Tablet,Guest,Electronics,weight,129.68,2,26.28,13.41,8.93,High,Cash on Delivery
+2023-12-23 06:59:11,06:14:56,14,c9917536-301c-4a76-ba0c-a50e7b3bd22d,Female,Mobile,Guest,Home Appliances,control,600.17,5,168.91,86.39,7.48,Medium,PayPal
+2022-12-26 14:00:16,05:00:26,25,70b58070-4ebd-4ef4-8914-3ee5c7fad4fa,Female,Mobile,Social Media,Electronics,room,396.54,3,21.42,7.89,6.66,Low,PayPal
+2023-05-28 01:18:31,11:40:16,18,651b35a4-79a8-405b-9fbb-1193027d13b9,Male,Mobile,Email,Electronics,top,705.63,4,136.24,85.45,17.35,Medium,Credit Card
+2022-12-10 06:36:32,03:39:28,21,d50587dd-4c26-491d-acde-998311a1d4c1,Female,Tablet,Guest,Electronics,per,478.73,3,109.24,0.23,14.57,Low,Debit Card
+2023-07-25 23:22:50,19:39:03,1,442bfe26-003c-42e8-afe6-5c55405b1fd8,Male,Mobile,Social Media,Home Appliances,prevent,353.49,3,46.16,11.82,8.43,High,PayPal
+2022-04-22 01:34:37,11:37:44,4,9f7c0de2-4e53-45e5-bfd2-1494dc66dd69,Female,Desktop,Social Media,Home Appliances,author,890.76,4,68.31,60.01,3.88,High,PayPal
+2022-01-06 02:47:22,20:24:18,1,72cb7232-11b3-428c-9a74-cc840a033869,Male,Tablet,Email,Home Appliances,second,319.71,4,85.17,58.2,12.87,Medium,Cash on Delivery
+2022-03-03 15:49:32,20:15:47,25,bbd9a371-0a30-46a7-b066-ea580c707c6f,Female,Tablet,Social Media,Electronics,hotel,13.07,4,2.84,1.17,10.56,High,Credit Card
+2023-08-29 01:28:07,16:14:15,25,e785dffc-2e12-4b92-bdba-aed50204dcdc,Male,Desktop,Social Media,Home Appliances,assume,49.43,1,14.03,1.04,15.59,Low,Credit Card
+2023-12-06 09:58:00,05:57:16,16,279fd41f-e467-4101-8d9a-5323f9efca09,Female,Tablet,Social Media,Home Appliances,store,133.63,5,33.69,1.3,4.95,Medium,Credit Card
+2022-08-03 06:13:50,16:44:59,10,71366ad4-0e30-4cac-889f-ef684db560dd,Female,Tablet,Guest,Home Appliances,anyone,196.62,3,13.29,8.2,9.01,Medium,Credit Card
+2023-11-04 19:59:51,22:39:28,26,eb577aa7-e89b-4a0c-a60c-2eebe1525f4d,Male,Tablet,Email,Books,especially,495.62,3,35.81,2.17,14.57,Medium,Cash on Delivery
+2023-04-16 15:25:12,02:26:57,10,238aad38-f5c2-405c-85d9-18113b6477b9,Male,Desktop,Email,Books,best,887.51,5,20.88,102.86,10.62,High,Debit Card
+2023-08-03 21:48:44,08:12:34,27,598e8da1-c830-4c80-b294-602d38a1e137,Female,Mobile,Email,Electronics,writer,11.33,5,0.36,1.49,13.75,Low,Credit Card
+2022-10-23 21:39:35,23:49:38,25,958c44a0-0aa7-49b8-a5a6-b42fab843e46,Female,Desktop,Email,Home Appliances,join,980.58,5,151.79,43.99,10.88,Medium,Cash on Delivery
+2023-10-23 07:33:26,07:18:28,2,daf4982f-56ec-4288-a32e-516fa8a0487e,Female,Desktop,Social Media,Books,firm,680.46,4,78.46,99.88,5.74,Medium,Cash on Delivery
+2023-05-02 22:48:16,02:44:27,9,affb3615-6bfb-4699-84a9-3a5c0f8b6888,Male,Tablet,Guest,Clothing,general,843.53,4,99.61,87.4,14.56,Medium,PayPal
+2023-12-14 09:44:56,21:37:29,10,491f2bd3-3629-415e-8268-86241d9d3b4b,Female,Mobile,Email,Home Appliances,model,905.67,4,62.48,127.79,9.26,High,Cash on Delivery
+2022-05-21 03:18:26,20:42:43,2,32b9e992-f014-4e5e-afa7-289d31120a4d,Male,Desktop,Guest,Clothing,friend,955.98,5,72.41,143.73,13.75,High,PayPal
+2023-04-17 04:32:19,19:27:20,7,29604bb6-57ba-4c26-bca3-dd34e97f2081,Female,Mobile,Email,Clothing,these,419.21,5,123.07,79.03,19.36,Low,Cash on Delivery
+2023-11-19 22:08:40,19:51:40,14,196f74c6-db75-45a2-a353-ad3ebb3db532,Male,Tablet,Social Media,Home Appliances,nor,65.89,5,0.25,4.87,5.28,Low,Credit Card
+2022-01-26 16:51:11,14:34:41,28,4daaf958-b764-4c0c-8851-e6aa78276cf0,Male,Desktop,Social Media,Clothing,skill,39.28,1,6.4,7.26,7.83,Low,Credit Card
+2023-10-25 01:32:29,14:13:40,2,97ba7448-bd98-4c42-bcc6-3604bb3f6c8d,Male,Mobile,Guest,Books,air,732.53,4,37.21,20.86,10.87,Low,Credit Card
+2022-02-23 19:27:05,06:29:29,6,ad1dcad2-40d8-40b5-926f-65966c6bcdde,Male,Tablet,Email,Electronics,bank,983.64,4,40.19,149.91,10.37,High,Debit Card
+2022-08-12 01:23:45,03:56:21,28,109f5e9a-9f6e-48ac-8ee3-855edf1bfa45,Female,Mobile,Email,Electronics,statement,230.95,3,10.72,20.11,18.7,Medium,Debit Card
+2022-09-07 22:33:42,20:12:14,21,f7f36053-f3b6-41af-a348-69a1fe099e5f,Male,Mobile,Social Media,Home Appliances,parent,522.86,1,1.88,35.4,19.04,Low,PayPal
+2023-03-21 23:08:57,07:29:46,22,2b55e1cd-411e-4bc8-9874-cce5906b9a4d,Female,Desktop,Email,Books,mission,962.93,1,112.57,53.29,1.32,High,PayPal
+2022-10-18 02:58:12,07:25:50,14,acf3cf4a-2e4f-4545-8307-014059953bb4,Female,Mobile,Social Media,Electronics,be,526.99,5,133.09,69.05,12.37,Low,PayPal
+2022-01-30 21:18:11,06:00:29,13,084dfcd6-bd91-4f60-94ae-ae5cd12931f4,Male,Desktop,Social Media,Home Appliances,room,390.47,2,57.02,35.54,9.05,Low,PayPal
+2023-06-02 18:10:46,00:42:53,1,d35536ef-a7a2-4820-b83a-d321105205a2,Male,Mobile,Guest,Home Appliances,more,179.42,5,16.98,26.45,11.4,Low,PayPal
+2022-11-20 11:32:00,12:18:08,18,af108f43-04b1-45e9-af11-5916fae72b65,Male,Desktop,Social Media,Home Appliances,present,334.22,1,81.44,44.54,5.28,High,Cash on Delivery
+2022-03-12 02:20:00,19:15:54,21,c0960574-541a-4817-a48d-b7687fed3cd1,Female,Mobile,Social Media,Books,Democrat,344.36,4,29.32,9.03,15.27,Low,Cash on Delivery
+2022-05-21 12:25:13,13:22:56,20,08fef2bb-800a-40c2-92f8-b3d02f91a835,Female,Tablet,Email,Clothing,ok,398.75,3,108.75,77.57,12.3,High,Credit Card
+2022-05-24 09:29:06,22:57:14,12,b1d6c147-6480-4399-8e72-1208009e09a3,Male,Tablet,Email,Electronics,purpose,843.23,2,46.88,99.42,9.37,High,Cash on Delivery
+2022-04-18 17:38:36,01:33:30,8,4b05f661-1f28-42a7-90eb-071c888d955e,Male,Desktop,Guest,Clothing,south,135.85,2,15.87,13.58,9.56,High,PayPal
+2023-06-28 05:34:39,14:16:55,15,f96cffab-4c53-4b81-843e-d1bbd73bcb43,Male,Tablet,Social Media,Books,ever,440.04,3,69.87,31.21,7.03,Low,Credit Card
+2022-11-17 23:12:56,13:06:14,6,fd41147e-1370-4d53-a23e-d3f2e66cc4d4,Male,Desktop,Email,Home Appliances,effort,338.91,1,10.23,36.8,18.87,Medium,Debit Card
+2023-07-14 00:17:13,22:30:54,27,0cad4ff4-b9cd-40f1-bcd5-2f19e492716c,Male,Tablet,Guest,Books,throw,333.59,3,73.61,44.68,19.29,High,Credit Card
+2022-10-18 04:46:10,11:13:30,24,7bc90f9b-7724-4d7c-9274-35f7c4d644d1,Male,Desktop,Guest,Clothing,stop,577.36,2,111.5,71.87,16.16,Medium,Debit Card
+2022-03-28 08:41:26,13:33:11,20,91f75895-8737-411e-b8be-dd584b8da524,Female,Desktop,Email,Home Appliances,wear,89.6,5,22.97,17.15,11.82,Medium,PayPal
+2023-05-11 08:05:47,19:35:06,10,74dbbfbb-be58-4c05-a9d4-42491278d9f2,Female,Mobile,Guest,Clothing,director,972.67,5,112.52,100.03,11.2,Low,Cash on Delivery
+2023-08-05 20:56:56,22:53:44,13,939b9819-7d1a-41a4-83bd-dd230459ab74,Male,Desktop,Guest,Books,condition,892.83,4,248.11,55.52,13.08,Low,Cash on Delivery
+2022-01-01 06:42:25,08:35:07,17,0b121a89-0be5-4f98-906c-9b135965428a,Female,Desktop,Social Media,Clothing,parent,830.07,5,58.43,114.77,3.05,Low,PayPal
+2022-04-24 09:32:40,05:05:39,5,1b794b19-df8a-45e5-9a74-d0819aada119,Female,Desktop,Social Media,Clothing,me,561.73,1,76.67,97.51,13.98,High,Credit Card
+2022-06-11 03:10:54,01:58:39,6,64250416-4175-46d3-ba8a-d2d1db97f93b,Female,Desktop,Social Media,Clothing,once,400.97,5,96.07,19.66,16.31,Medium,Cash on Delivery
+2022-07-07 20:11:16,20:33:57,28,a6d91b7d-fe2c-4a52-a6b7-75473bae7be2,Female,Tablet,Social Media,Books,everybody,103.26,1,27.88,14.63,6.66,Medium,Debit Card
+2022-09-23 17:42:03,14:28:08,24,a439a342-01a2-4fe2-bca3-8edcfbc49191,Female,Mobile,Social Media,Electronics,send,496.88,5,37.26,26.36,13.78,Medium,Credit Card
+2023-04-05 20:55:05,14:28:50,20,de4a0950-a5e0-4111-9197-f2ed081619a8,Male,Tablet,Guest,Clothing,too,367.78,3,56.49,65.7,4.68,High,PayPal
+2022-06-03 00:45:39,10:49:42,22,fc9a8aa7-7684-4447-a087-feb09182a56e,Female,Tablet,Guest,Clothing,far,663.5,3,25.3,114.86,2.56,High,PayPal
+2023-04-07 18:22:29,19:27:02,29,f5564786-6a77-42e3-8a8b-51ebc6d05566,Female,Mobile,Email,Home Appliances,something,54.2,3,15.62,10.58,12.11,Medium,PayPal
+2022-03-14 18:35:49,02:06:16,13,097e385b-7686-4caf-a9d6-6e364480a9ca,Male,Desktop,Guest,Electronics,commercial,201.12,2,24.38,34.77,12.44,Low,PayPal
+2023-05-23 13:16:46,07:03:12,30,893e4ac2-1ba0-4e8d-bdd7-63e6ea036819,Male,Tablet,Social Media,Home Appliances,agreement,387.82,5,96.58,42.61,10.33,Low,Cash on Delivery
+2023-06-12 08:15:03,04:03:14,18,7a0f043f-3104-4f92-8213-ff595620373f,Male,Tablet,Guest,Electronics,better,134.23,1,4.52,9.76,18.33,Low,PayPal
+2022-04-26 23:41:27,14:49:28,10,e45a6d56-5f1d-4974-abb4-a0cd512422c1,Male,Tablet,Guest,Home Appliances,yes,715.36,2,43.63,88.5,6.79,High,Debit Card
+2023-01-04 00:08:54,02:27:13,23,c32a6a7c-ac9c-4aad-8704-0cd9dc42c611,Female,Desktop,Guest,Clothing,floor,289.6,4,39.67,55.63,17.39,Low,Debit Card
+2022-05-18 10:54:19,02:24:31,27,4551bd71-78b8-47d2-9ee5-f725d1c07f9c,Female,Mobile,Guest,Books,radio,676.41,2,130.33,83.34,10.75,Low,Credit Card
+2022-11-15 19:41:25,13:16:40,23,e9a5b9f7-1276-42f0-9399-52a5b0887c42,Male,Desktop,Guest,Home Appliances,trade,347.62,3,8.09,24.08,4.38,Low,Debit Card
+2023-09-02 22:01:34,17:35:54,29,514b9ba9-3b87-4095-9e83-8c96f275b798,Female,Tablet,Guest,Home Appliances,example,982.7,3,212.68,87.62,13.18,Low,Debit Card
+2023-10-31 10:54:40,08:28:59,9,6a87a214-edcf-44f9-bbe2-88a3be7fbd86,Male,Mobile,Social Media,Home Appliances,always,427.66,4,37.59,12.46,17.84,Medium,Credit Card
+2023-12-26 06:04:23,13:57:23,27,bdbc7b99-665d-4783-9377-4889d24ba31f,Male,Desktop,Social Media,Electronics,behavior,864.35,1,117.32,31.31,5.99,High,PayPal
+2022-08-11 05:54:12,02:15:19,6,30fb1c40-24c1-4a49-b68d-78069cb49db4,Female,Desktop,Guest,Clothing,toward,952.51,5,104.07,145.49,3.78,Low,Debit Card
+2022-12-07 06:51:18,01:05:13,2,85446520-415f-4b96-a2a5-0d82e7382073,Male,Mobile,Email,Books,maybe,407.7,3,72.78,65.81,2.13,Medium,PayPal
+2022-04-29 12:54:48,19:34:32,8,a661d390-b5ad-46b6-8df2-3a9d2628b073,Female,Desktop,Email,Books,out,596.18,2,56.65,1.14,3.98,Low,Cash on Delivery
+2023-04-25 18:57:44,22:46:43,9,7ec31d41-aa55-400b-9b33-32d0d68be085,Male,Tablet,Social Media,Clothing,debate,745.05,5,124.43,101.13,16.55,Medium,Cash on Delivery
+2023-03-16 12:05:14,18:02:59,29,a93689ec-604f-4cd9-8b13-3f44a9ed96f8,Female,Desktop,Social Media,Electronics,scientist,990.55,4,172.57,23.1,7.67,High,PayPal
+2022-11-14 03:30:59,05:42:15,12,13e70b8c-35f6-49f1-9804-7b89d521d46d,Male,Tablet,Email,Clothing,land,521.6,3,80.5,47.03,4.61,Low,PayPal
+2023-06-21 02:57:44,20:50:47,5,e652e241-a7d5-4329-83ce-39e47867f055,Female,Desktop,Social Media,Electronics,probably,880.94,5,61.06,174.61,18.21,Low,PayPal
+2023-10-27 19:02:51,08:34:41,6,7a743a9a-5f3e-4536-ab72-3f7d00889202,Male,Desktop,Email,Books,training,593.13,2,15.31,3.4,15.87,Medium,Credit Card
+2023-01-01 13:40:16,06:23:01,5,b3d3589b-607f-4d34-bd7b-20e9d405beb3,Male,Tablet,Social Media,Electronics,try,817.93,1,239.13,160.32,17.74,Medium,PayPal
+2022-03-08 11:07:22,20:54:41,26,6947d5ba-61c6-44a9-9800-9489bf4fa1d0,Female,Mobile,Email,Clothing,mention,971.89,2,192.53,3.22,14.47,Low,Credit Card
+2022-08-28 07:34:00,20:09:16,11,95b06423-e6b6-4d8f-8248-a919af3ea2c4,Female,Mobile,Guest,Clothing,recognize,104.66,1,3.06,1.19,7.75,Medium,Cash on Delivery
+2023-10-03 00:23:18,03:08:49,27,ea2509a0-3ba3-43b3-bb5a-d2e95df46adc,Female,Tablet,Email,Electronics,term,991.18,4,128.0,180.97,14.44,Medium,Debit Card
+2022-06-17 16:21:46,22:14:05,3,d3d7dc4d-3078-49c7-8240-f822078fb328,Female,Desktop,Email,Electronics,player,192.78,5,11.8,19.28,7.17,High,PayPal
+2022-04-16 02:59:26,09:26:30,10,2b284abb-3e0d-44d2-af69-e57fb220c11e,Male,Tablet,Social Media,Books,relationship,607.55,5,175.08,99.33,15.11,Medium,PayPal
+2022-02-01 16:27:47,07:04:10,30,90ceb0ee-43c7-4499-87e0-4d7636439de8,Male,Desktop,Guest,Home Appliances,it,755.92,3,225.34,18.01,13.34,Medium,Credit Card
+2022-06-21 10:28:51,12:05:33,11,8e65bb55-632f-4790-9722-dfb1ddbfc26c,Male,Mobile,Guest,Home Appliances,place,577.79,4,107.15,53.53,13.82,Low,Debit Card
+2022-12-23 12:35:16,14:50:12,13,8be4106e-27ee-4af9-8fb8-67942ff86f57,Male,Tablet,Email,Home Appliances,raise,916.74,4,163.96,5.81,5.16,Low,Cash on Delivery
+2022-12-29 00:19:00,16:32:26,12,88011505-d430-4a1f-8920-74ab607e8dbb,Female,Desktop,Email,Home Appliances,agreement,501.13,4,16.37,82.6,16.52,High,Cash on Delivery
+2022-09-24 02:05:43,15:39:24,22,0c80f8ad-2022-47ef-899b-72e7906f740c,Female,Mobile,Social Media,Electronics,claim,577.86,2,157.4,23.27,4.83,High,Credit Card
+2023-03-25 20:01:03,20:55:08,1,a9cee20f-3b52-409c-bd61-6e96111f96a3,Female,Tablet,Email,Books,matter,625.62,1,65.3,78.86,16.52,High,Debit Card
+2023-06-28 05:01:55,21:12:07,10,c22a9ea7-a463-44ec-a31e-236c3cc94388,Female,Desktop,Social Media,Books,heart,156.27,3,19.75,12.05,7.02,Medium,Cash on Delivery
+2023-12-14 01:13:10,04:09:32,28,f9961587-ee86-4b79-9e35-cf59ad337a47,Female,Mobile,Social Media,Clothing,store,46.02,1,4.66,4.4,11.78,Medium,Cash on Delivery
+2023-04-06 03:31:17,09:19:32,6,16d95a47-7d0f-42d9-82f9-d9cee14e4976,Female,Desktop,Email,Books,know,164.32,2,48.36,15.65,11.01,Low,Credit Card
+2022-02-04 13:06:05,13:18:49,4,731c7f57-4448-4a50-8563-40d6ea13fd44,Female,Mobile,Social Media,Books,write,754.5,2,52.35,94.46,3.84,High,Cash on Delivery
+2023-03-24 06:29:54,08:58:52,22,05148ad1-49d5-4b85-aa81-ea267d70721b,Female,Mobile,Guest,Books,require,797.17,3,218.98,154.05,11.11,Low,Debit Card
+2023-03-02 05:59:41,05:10:46,25,f8a269aa-d066-457e-96b5-5e14bca8e748,Male,Mobile,Email,Clothing,somebody,32.72,1,6.49,1.57,19.66,Low,Credit Card
+2023-07-03 15:20:19,22:15:05,27,c8088e5e-2c0e-40c6-a696-b98ed688cdac,Male,Desktop,Email,Clothing,perform,388.57,2,71.4,20.07,16.67,High,Credit Card
+2022-07-24 19:23:56,02:41:50,24,f0d4922d-4a8e-4140-a6dc-8d6a0732e1ae,Male,Mobile,Guest,Electronics,continue,160.38,1,18.06,18.13,14.8,Low,Cash on Delivery
+2023-10-27 14:50:58,07:12:26,29,4c8d7e58-0137-4cee-ab8f-dede2f5dd172,Female,Tablet,Email,Clothing,develop,465.57,1,70.49,71.02,18.25,High,PayPal
+2023-01-12 00:19:01,18:42:09,3,371d3085-4b30-416b-9a27-73f86a455d3d,Male,Desktop,Guest,Electronics,his,816.14,1,166.81,30.7,16.83,Medium,Credit Card
+2023-12-11 12:12:10,23:54:02,2,c1505fb9-a892-4029-90f2-7e8a4690aeba,Male,Tablet,Guest,Electronics,range,376.48,1,73.15,50.68,7.19,Low,Cash on Delivery
+2022-01-13 13:05:35,05:34:56,3,ffba6a21-b88b-4d69-ab7a-8dba463495cf,Female,Tablet,Email,Electronics,star,902.18,4,77.86,87.18,6.37,Medium,Cash on Delivery
+2023-12-04 16:44:09,16:03:29,22,691b9171-7612-40f7-81c6-f79e2df947c0,Male,Tablet,Social Media,Electronics,always,660.99,3,162.62,112.37,11.51,Medium,PayPal
+2022-12-26 23:41:35,23:59:29,17,dad016a3-7faa-43a6-bb40-c33945878133,Male,Mobile,Guest,Clothing,yes,704.83,2,153.29,89.86,6.97,Medium,PayPal
+2023-01-23 01:26:22,02:48:18,5,a041a179-26f2-486c-92f4-556fe1b7525f,Male,Mobile,Social Media,Clothing,positive,904.21,5,204.56,3.32,15.51,High,Cash on Delivery
+2023-03-31 07:53:57,20:57:09,27,8633f724-ed2c-4ff9-af4c-ebdbf61a2356,Female,Mobile,Guest,Books,room,786.28,4,56.42,6.68,12.25,High,PayPal
+2023-03-23 20:17:49,00:01:38,9,f0a8d498-9b7d-42c8-a78d-b40ae57a24f2,Male,Mobile,Email,Home Appliances,accept,413.95,1,9.35,6.66,13.77,Low,Cash on Delivery
+2022-03-11 03:21:31,18:17:43,9,c5a6cce8-4216-4f8f-a1df-e633d93b00c7,Male,Mobile,Social Media,Home Appliances,possible,571.47,4,101.68,5.64,12.16,High,Cash on Delivery
+2022-07-27 09:23:31,00:09:20,16,a58a5653-ff14-4778-aa56-aba6a6e6e655,Male,Tablet,Guest,Books,pay,365.9,3,26.08,13.34,18.64,Low,Debit Card
+2022-10-25 20:13:40,11:19:10,8,52389317-9f60-4c4f-a8c2-2a1481a7220c,Male,Desktop,Guest,Electronics,kind,107.98,3,11.9,8.59,5.54,High,Debit Card
+2023-10-14 18:54:13,13:23:59,6,f1b797a8-bb1a-4548-b309-6fc4878fc140,Male,Tablet,Social Media,Clothing,leader,565.75,4,104.69,8.92,3.37,High,Debit Card
+2022-09-10 05:55:13,22:32:14,2,4f8fac7d-a2be-4b8e-9e9b-2ac7ebd12af8,Male,Desktop,Email,Electronics,question,820.9,1,39.08,157.39,3.3,Low,Cash on Delivery
+2022-11-03 03:18:45,08:17:09,21,1f4e9011-7274-4170-89a5-e3dc2c9d2885,Male,Mobile,Guest,Books,happy,910.8,4,218.53,164.97,2.56,Medium,Credit Card
+2023-02-12 11:28:53,11:15:13,22,595c9bbb-377d-4a18-b349-80768593d4bf,Male,Mobile,Email,Home Appliances,determine,636.91,3,37.08,24.22,7.71,High,Cash on Delivery
+2022-03-20 07:07:02,22:30:53,13,1185fdba-d477-4733-9176-a69244003bce,Male,Mobile,Guest,Home Appliances,stuff,161.15,3,42.36,6.44,7.93,Medium,Cash on Delivery
+2022-03-28 03:52:29,14:24:26,2,4e86912c-c5de-4ba5-8259-ce7f333f10e6,Female,Mobile,Social Media,Home Appliances,identify,535.83,1,115.59,97.54,3.74,Low,Credit Card
+2023-04-08 05:22:06,18:46:43,28,adea29fe-efb7-4a68-921d-7770d3a76742,Female,Desktop,Guest,Clothing,thus,854.04,3,17.66,145.71,7.25,Low,Cash on Delivery
+2022-05-27 02:49:50,03:30:35,21,e004ad5e-f60f-4a5a-aea6-09a1f32c4119,Female,Tablet,Guest,Clothing,personal,618.42,2,148.6,1.87,15.71,Medium,PayPal
+2022-07-22 03:27:33,09:36:55,20,129f4888-80ab-477f-a2b8-042742a3c796,Male,Mobile,Email,Home Appliances,surface,466.87,3,1.97,50.42,3.27,Medium,Cash on Delivery
+2023-08-22 05:26:37,11:11:46,15,9426d453-f863-410e-8882-982e438431f9,Male,Desktop,Social Media,Books,save,803.12,4,78.55,60.34,13.72,Medium,Cash on Delivery
+2022-05-30 18:47:20,13:56:19,21,1cbcc937-e412-4528-8719-d7fed47f39c1,Male,Mobile,Social Media,Books,forward,935.31,2,60.33,63.91,3.14,Medium,Debit Card
+2022-03-22 12:39:00,14:25:39,26,c91260da-01ac-4f0a-8216-cb2a3ec13adc,Female,Mobile,Social Media,Books,sort,914.22,1,45.73,19.01,15.51,High,Credit Card
+2022-09-15 09:13:22,19:10:53,7,245b2d2d-9dcc-457b-ba33-f656d62e36cf,Female,Desktop,Social Media,Clothing,push,526.59,3,93.95,83.2,13.18,High,PayPal
+2023-11-11 00:13:18,14:24:51,11,8feebfad-4929-4065-a699-4414a98ae640,Female,Mobile,Email,Clothing,student,828.99,3,17.71,119.69,9.74,Low,PayPal
+2022-07-19 00:05:06,06:32:16,24,2d804223-75a2-49a8-b790-eb89e62fc825,Male,Mobile,Guest,Clothing,whole,159.53,2,21.26,26.3,6.41,Medium,PayPal
+2023-09-26 16:33:57,16:39:15,19,8dc7efd6-b0de-4476-ac45-71f4eed19892,Male,Mobile,Guest,Electronics,agency,543.58,3,83.18,98.4,16.7,Medium,Credit Card
+2023-06-08 20:29:17,01:13:47,6,10e72b3a-5308-4c6c-bcc6-a9250fb1fd52,Male,Desktop,Guest,Books,business,685.51,3,35.74,126.61,8.97,Medium,PayPal
+2022-07-18 19:50:46,10:12:31,25,81707146-e412-478b-9911-1972ba8f3f87,Male,Mobile,Email,Clothing,sort,831.74,5,160.18,100.11,7.66,High,Debit Card
+2022-10-17 10:22:34,11:45:42,19,79d2acb7-ed71-4b29-b9d3-61488c24f001,Male,Tablet,Guest,Home Appliances,data,620.76,2,89.58,98.93,4.06,Low,Cash on Delivery
+2023-06-06 07:57:09,20:46:40,20,d0bf95c4-ddb6-422c-952b-c0e03d8b3d46,Male,Tablet,Email,Electronics,responsibility,60.78,5,12.56,9.3,11.37,Medium,Debit Card
+2022-05-08 08:06:28,07:34:11,1,c40ce8e3-50ab-4dc0-b200-4daa065e9b7f,Male,Mobile,Email,Home Appliances,side,483.28,2,75.31,54.1,16.58,Low,PayPal
+2022-06-11 13:10:37,21:26:12,28,e6f4de70-e6db-4588-8194-da8a99ccc151,Male,Tablet,Email,Home Appliances,hot,775.45,1,103.64,147.17,11.9,Medium,Cash on Delivery
+2023-11-08 05:56:10,03:14:50,30,7636fbc4-bd86-4158-8687-d34f1ccaaa84,Male,Desktop,Email,Books,go,90.04,4,4.42,8.89,8.81,High,Debit Card
+2022-02-12 00:15:44,16:20:43,9,bdebfd3c-1481-4aae-b18f-fe277343da2e,Male,Desktop,Social Media,Electronics,good,211.88,2,30.85,31.17,16.73,Medium,Credit Card
+2022-04-15 12:38:53,18:35:45,12,82465241-5755-4a76-b33c-5c26dd5bc109,Female,Mobile,Social Media,Electronics,issue,73.34,5,20.72,7.83,9.66,Medium,Cash on Delivery
+2022-06-20 14:29:02,20:13:45,30,f8344fb6-57ce-45f0-9085-4b2eabe2164c,Male,Tablet,Social Media,Electronics,pay,280.75,4,53.82,26.61,7.36,High,Credit Card
+2022-07-15 00:25:51,08:06:12,2,6f60ede3-ca09-4d86-9e47-bb4527b2c913,Male,Mobile,Email,Electronics,city,595.3,5,169.96,101.99,18.69,High,Debit Card
+2022-06-19 05:46:24,05:03:15,4,bbcbfc8b-5d68-4450-b326-72006101a40b,Male,Mobile,Social Media,Electronics,state,192.64,4,38.13,20.68,8.03,Low,Debit Card
+2022-02-01 04:51:31,08:29:31,17,63f09410-91e7-45e3-8c8b-b6a772c50e6e,Female,Mobile,Guest,Books,American,122.4,5,20.11,2.25,14.25,Medium,Credit Card
+2023-12-24 11:35:14,04:08:35,28,2e3b6de0-a0ff-486f-8064-ca79fdf73621,Female,Mobile,Guest,Home Appliances,season,928.3,4,39.46,172.46,7.34,High,Credit Card
+2022-04-08 14:55:47,16:36:34,21,50df7497-7c61-4002-8068-79d0bbc3ba17,Female,Desktop,Email,Clothing,partner,38.61,2,3.92,1.48,17.35,Medium,PayPal
+2023-10-19 01:25:35,23:55:20,4,888f3438-2898-44c4-b9c9-542dcc9fa2e1,Male,Tablet,Guest,Electronics,if,347.91,3,35.86,69.16,11.71,High,Debit Card
+2023-01-03 18:53:15,16:03:33,28,f5c682bc-0815-4590-a44a-41a81ff23ecc,Male,Mobile,Guest,Books,speech,789.23,1,28.43,111.48,10.8,Medium,PayPal
+2022-10-17 22:59:46,18:27:44,27,6a8bddde-871a-4c57-9fe7-03da4f9558eb,Female,Desktop,Email,Home Appliances,center,687.59,5,69.48,121.09,17.67,Medium,Credit Card
+2022-02-07 20:08:18,16:45:07,24,e5698364-aff5-4545-aea9-938d08b901bc,Male,Mobile,Email,Home Appliances,guy,102.91,2,5.33,7.99,16.93,High,PayPal
+2022-01-30 17:33:38,12:38:43,14,351f0dd6-bd82-46b0-8ac6-2df796b2023a,Female,Tablet,Social Media,Clothing,exactly,41.28,2,0.74,4.03,13.19,Medium,Credit Card
+2022-08-29 03:00:06,08:51:31,4,61b72b4a-ecbb-42b1-ae69-8676ccb5e331,Male,Desktop,Social Media,Clothing,happy,688.98,4,187.51,123.2,2.04,High,PayPal
+2022-12-29 21:34:14,07:03:54,23,dd446249-2ef8-4c71-a9b1-b57aa58925e4,Male,Desktop,Social Media,Books,bag,161.97,4,2.67,25.25,1.54,Medium,Credit Card
+2023-05-19 11:45:41,06:35:29,22,411cac6f-f91f-44c8-8791-825f34a98894,Male,Desktop,Social Media,Clothing,scene,53.19,2,4.82,9.26,10.75,High,Debit Card
+2022-02-04 21:44:49,14:58:55,4,f06f9b75-13a3-481b-b122-a2a0f7de14b3,Female,Tablet,Social Media,Clothing,drug,250.85,4,72.01,6.48,14.6,Low,Debit Card
+2022-08-19 22:02:57,13:05:00,13,936c0738-f1a2-43bd-999e-14011ebc2589,Male,Desktop,Email,Clothing,position,538.55,4,59.69,87.48,4.83,Medium,PayPal
+2023-10-08 19:45:24,18:42:51,27,805ad4f3-4678-4554-878c-eebc2bda34af,Female,Desktop,Email,Clothing,your,626.44,1,77.55,2.41,8.23,High,Debit Card
+2022-06-08 09:41:40,17:05:24,14,faff9742-edbb-4109-9a0c-f4c5f3442340,Male,Mobile,Email,Books,wrong,603.04,3,90.72,19.32,11.98,Medium,Credit Card
+2022-10-20 15:20:53,00:20:37,2,188f5d80-92e6-4747-b57c-8b6953b868aa,Male,Desktop,Guest,Electronics,way,867.69,3,77.82,20.13,2.27,High,Cash on Delivery
+2022-09-04 22:34:19,01:21:36,29,3fb4e95f-eac6-4155-a41e-e708fd03eafd,Female,Mobile,Email,Electronics,style,966.17,1,174.72,172.83,5.84,Medium,PayPal
+2023-01-19 06:24:33,19:01:43,23,46d24e13-bdd7-483b-834b-9dcaf9f50ced,Female,Desktop,Social Media,Home Appliances,standard,85.26,3,8.02,7.29,2.21,High,Cash on Delivery
+2022-10-15 08:58:08,23:26:37,26,d1b8617c-3b93-4f04-af95-fcae53f35afe,Female,Desktop,Email,Home Appliances,edge,362.94,1,76.68,24.99,9.82,Medium,Credit Card
+2023-12-25 20:19:46,16:41:02,17,7ac18fdc-003e-46dc-8f34-32a570bd275b,Male,Mobile,Guest,Electronics,dog,967.71,4,233.85,49.45,17.49,Medium,Cash on Delivery
+2022-09-07 15:40:04,16:46:04,13,96036f9b-4db4-414d-a0a3-83fe1e7ec99a,Male,Desktop,Guest,Home Appliances,person,181.09,4,24.61,22.07,2.39,Medium,Credit Card
+2023-11-09 05:05:49,00:22:48,13,cc8bccf4-ad39-4abd-a16b-8b43d185b8b7,Female,Tablet,Guest,Home Appliances,stand,839.16,3,172.82,70.73,7.21,Medium,PayPal
+2023-04-30 17:53:21,04:57:03,13,4ef3e97d-97c8-43ba-a98d-2017dbb46959,Female,Desktop,Email,Books,environment,154.87,1,43.0,16.26,9.79,Medium,Debit Card
+2023-07-08 09:29:43,11:26:45,11,88337474-e201-4a1f-8051-b6add7968296,Female,Mobile,Social Media,Home Appliances,week,920.06,5,146.61,157.37,6.17,High,PayPal
+2023-10-30 03:02:24,00:20:38,21,9229c6b3-9266-48ea-bd22-d2995c195b7d,Female,Tablet,Guest,Clothing,its,83.31,1,2.47,4.68,16.89,Low,Debit Card
+2022-08-20 18:25:27,00:07:15,18,8d24bee8-19b5-4d7a-86de-7f0137fe1482,Female,Mobile,Social Media,Books,onto,979.54,3,286.46,138.44,12.52,Low,Cash on Delivery
+2022-04-19 13:25:07,19:09:53,19,8189e244-ff69-4b52-b850-1a411f108119,Female,Mobile,Email,Home Appliances,customer,611.28,3,162.22,108.63,18.96,Low,Credit Card
+2023-03-07 08:46:36,16:25:19,19,dd226ace-66e7-4c71-bd4b-d708b9f0fb5d,Male,Tablet,Guest,Clothing,after,906.05,3,70.69,175.72,16.33,Medium,Credit Card
+2022-07-03 05:01:20,22:10:17,26,0c8ea10e-f5df-477c-9428-935667fa7708,Male,Tablet,Email,Clothing,small,265.94,5,65.65,37.01,1.69,Medium,Cash on Delivery
+2023-03-11 05:56:59,21:40:51,30,23fae614-589b-4d50-beac-c877aa8d7831,Male,Desktop,Guest,Electronics,PM,86.17,5,18.03,0.1,9.62,Medium,Cash on Delivery
+2022-04-24 01:13:51,22:22:54,25,969b58b9-427a-4d81-bb13-bc0d7384817c,Female,Mobile,Social Media,Home Appliances,yeah,204.45,2,1.56,28.47,5.39,High,Debit Card
+2022-05-05 16:04:16,01:21:37,12,e3b4fb93-f069-4e8b-81d0-223a796c16ee,Male,Desktop,Email,Books,million,360.15,5,85.98,6.7,3.62,High,PayPal
+2023-03-19 22:45:07,16:17:40,9,a011e216-792d-4f76-9f63-0346048b0adc,Female,Desktop,Guest,Books,understand,375.99,2,82.68,9.78,8.96,Low,Credit Card
+2023-11-14 03:08:01,01:16:40,1,41c86d1f-df7e-479b-a091-0822666bd2bc,Male,Desktop,Social Media,Electronics,life,538.67,2,11.1,1.34,8.99,Medium,Cash on Delivery
+2023-03-14 22:14:44,13:42:24,10,1aace65a-712b-4e60-b473-016cb8733280,Female,Mobile,Guest,Electronics,else,343.72,1,2.18,22.6,5.96,Medium,PayPal
+2022-10-11 02:40:45,18:24:24,25,d6b2018b-5b2b-4eb2-a21b-edc4520bd321,Male,Desktop,Guest,Home Appliances,others,538.34,3,28.28,15.55,14.72,Medium,Debit Card
+2022-10-10 04:18:18,19:55:32,11,412a4f76-3199-4aee-833e-6a7f5efb14f7,Male,Desktop,Social Media,Electronics,large,554.75,1,77.5,85.02,16.8,Medium,Cash on Delivery
+2023-10-31 19:04:27,19:09:10,6,c3cbed45-e5c7-4110-8ff0-91400c0ff8fa,Male,Mobile,Social Media,Books,themselves,465.66,4,8.05,41.56,8.28,Medium,PayPal
+2023-01-11 21:40:21,09:16:56,20,d98604f3-93c1-4152-9583-ea95912e1217,Male,Tablet,Guest,Electronics,window,477.42,3,91.53,19.43,10.87,High,Credit Card
+2022-01-06 13:50:59,20:16:41,15,e4a4b836-dcbf-4f19-b6a7-9ff24d2a45e6,Female,Tablet,Social Media,Clothing,city,353.79,1,96.04,56.48,12.8,Low,Credit Card
+2022-09-23 18:39:52,21:28:33,11,c145b018-334a-4120-91e2-9b285fc1109b,Female,Desktop,Email,Clothing,through,338.78,3,86.53,24.41,8.57,High,Debit Card
+2023-10-07 14:27:29,08:02:03,30,dfcc55c3-b7f6-4f20-8b4d-41171ae956fd,Male,Desktop,Social Media,Electronics,center,152.28,4,38.31,23.11,16.5,Medium,Credit Card
+2023-07-18 12:41:29,00:09:56,11,a8d653c2-9705-4aca-93ff-200619288b43,Female,Mobile,Social Media,Clothing,painting,220.24,2,9.36,27.28,4.79,High,Cash on Delivery
+2022-01-15 02:42:01,06:58:47,7,470b52a6-a0d4-486b-bc77-4e7c13f9af5a,Female,Desktop,Guest,Home Appliances,risk,363.87,5,65.5,39.41,13.87,Medium,Credit Card
+2022-11-16 21:33:53,10:12:52,22,45cb1d91-dce6-4b0d-a1e0-38e89bfb361e,Male,Desktop,Social Media,Electronics,this,937.13,5,33.67,15.69,15.26,Medium,Credit Card
+2023-10-17 06:43:26,05:00:16,25,e2261bb0-7842-4cbc-8df4-d02733ec337c,Female,Tablet,Guest,Home Appliances,especially,58.65,3,6.81,8.63,12.26,Low,Credit Card
+2022-11-04 08:22:32,23:20:39,30,a14f6104-f72d-4768-bc7c-bcc209a3bfe0,Male,Tablet,Social Media,Books,site,936.6,2,190.61,14.77,1.7,High,Cash on Delivery
+2023-11-28 23:50:54,23:57:51,29,f98d09eb-926c-4ea6-bd00-9502a9d3b26c,Female,Mobile,Email,Books,table,831.68,4,36.11,137.91,4.06,Low,PayPal
+2023-03-13 02:06:55,23:36:17,18,9d078c42-b121-47f4-bf2b-204a19526c72,Male,Desktop,Email,Home Appliances,option,682.55,1,42.63,47.78,1.69,Low,Credit Card
+2023-02-06 21:22:43,22:10:08,6,ea4ab57c-0a1d-412b-9dc6-017106574cb0,Male,Tablet,Guest,Electronics,reason,294.28,4,51.47,39.5,12.64,Low,PayPal
+2023-08-11 08:34:43,11:39:53,13,a74c1147-4860-4521-9815-dcb5033602dc,Male,Mobile,Guest,Electronics,office,329.87,3,74.46,32.34,14.44,Low,PayPal
+2023-03-30 15:01:44,10:55:56,1,aafcf32a-e6bd-46d5-920a-a3135dd2deb1,Female,Tablet,Guest,Home Appliances,especially,930.25,1,211.63,97.04,18.84,High,PayPal
+2022-05-15 19:51:02,08:37:23,27,13e89578-a9f3-4555-9748-b1a084b0bc62,Male,Mobile,Guest,Electronics,else,547.07,4,102.25,52.79,7.73,Medium,PayPal
+2022-08-22 05:33:40,11:49:18,1,ac2bbf24-feb9-4692-ab42-998885f43970,Female,Desktop,Guest,Home Appliances,they,113.72,3,21.88,1.2,15.31,Medium,Debit Card
+2022-01-02 21:35:40,02:49:57,4,fd9898e3-caf1-4e3e-b917-91e46ea293e6,Male,Tablet,Social Media,Home Appliances,face,528.65,4,126.0,14.74,5.33,Low,PayPal
+2023-01-25 20:53:58,15:52:52,3,a0558939-b815-4f17-8661-14f814274482,Male,Mobile,Social Media,Home Appliances,office,498.85,1,12.56,70.43,3.38,High,Cash on Delivery
+2022-12-18 01:11:08,15:14:51,24,001bd4bb-21f1-4e89-a449-739b815a1fbc,Male,Desktop,Guest,Books,task,419.61,1,71.71,23.65,1.71,Medium,Cash on Delivery
+2022-12-15 17:58:13,02:53:14,5,13f9886b-7307-4383-9d23-a8d0b6c45946,Male,Mobile,Social Media,Books,camera,421.68,3,47.59,65.89,5.96,Medium,Cash on Delivery
+2022-08-18 16:08:27,19:14:22,13,17c53635-db78-44a6-bbdf-260921a9c3fe,Female,Tablet,Email,Home Appliances,face,322.32,3,48.51,58.49,11.71,High,Cash on Delivery
+2022-07-29 18:19:11,11:54:17,23,94399c8e-6f92-4e1f-aedf-072e9766719b,Female,Tablet,Social Media,Home Appliances,trip,728.17,5,38.89,130.53,18.0,Low,Cash on Delivery
+2022-03-25 22:05:14,14:54:47,18,fe0d7218-6579-4eda-9d51-b19d9d6c3be1,Female,Desktop,Social Media,Home Appliances,young,618.37,1,147.71,89.75,19.59,Medium,Debit Card
+2022-09-23 12:37:37,06:37:13,19,42a852af-8800-431c-a90f-209cb735ffe5,Female,Tablet,Social Media,Clothing,cost,806.63,2,196.18,21.71,6.49,Medium,PayPal
+2023-12-07 09:44:23,09:52:32,6,b4bf7476-14fe-45eb-a5a1-9073254caaca,Female,Tablet,Social Media,Books,quality,918.9,4,127.08,60.44,12.89,Low,Debit Card
+2023-02-03 15:59:47,12:54:53,3,7de2468e-4cea-4e53-85c6-91c531f8da50,Male,Tablet,Email,Electronics,court,360.74,5,91.44,8.29,6.1,High,Credit Card
+2023-10-01 18:04:52,12:42:43,4,b399d45c-c54e-4cfc-8b1f-803b0299ba5f,Female,Desktop,Social Media,Books,population,998.4,5,94.54,79.72,8.76,High,Credit Card
+2023-11-06 18:29:41,08:17:50,4,b9548267-f40d-41dd-bffe-04a111b409fd,Male,Mobile,Guest,Books,phone,468.21,4,140.37,26.99,3.3,Low,Cash on Delivery
+2023-11-21 11:21:33,23:12:46,11,7b853aa6-654f-49e0-b73d-cd02b7258c8a,Male,Desktop,Email,Home Appliances,seek,911.02,4,191.39,96.88,5.2,High,Cash on Delivery
+2022-10-12 20:01:26,21:44:00,29,2de6c974-29d1-4464-88ce-8216bbecf774,Female,Desktop,Guest,Clothing,beyond,846.64,4,171.3,58.88,11.0,High,Credit Card
+2022-07-22 08:40:42,01:49:10,29,2296dd4d-f931-4d79-9c20-55649b7be917,Male,Desktop,Social Media,Home Appliances,note,23.58,2,5.11,2.38,1.39,High,Cash on Delivery
+2022-03-26 06:18:42,10:30:43,11,5e7e54da-d3f6-4daa-9e5e-77af91c12190,Female,Tablet,Guest,Books,stuff,774.9,4,37.47,63.64,18.89,High,Credit Card
+2023-10-18 11:31:04,06:58:22,10,4d7b2e24-e7c0-4757-b42f-4234c0b7caaa,Male,Mobile,Guest,Electronics,state,69.43,4,3.81,11.42,5.38,High,Credit Card
+2022-02-10 02:49:22,17:10:23,30,aba53148-f715-406b-a7d6-753777cdb62e,Female,Desktop,Email,Books,card,674.37,4,58.45,72.52,19.24,Low,Debit Card
+2022-06-01 15:48:50,19:34:44,9,da317574-2b4b-4639-ad25-1e001e7ac8b7,Male,Tablet,Social Media,Home Appliances,evidence,833.48,2,41.94,141.86,14.45,Low,PayPal
+2023-07-31 02:24:27,11:05:30,15,06063501-6270-46fe-842f-acc36f6891ac,Female,Tablet,Email,Books,major,803.74,2,153.24,96.04,13.68,High,Credit Card
+2022-05-19 14:38:49,01:26:04,13,76f2bad4-a613-4351-8ef6-9079d0da0c66,Male,Desktop,Guest,Electronics,interesting,248.01,2,42.14,9.32,6.35,Low,Cash on Delivery
+2022-07-14 01:24:52,23:37:39,7,ae701ded-35b1-4ad8-8274-ebd0f8367ec4,Female,Desktop,Guest,Books,world,90.26,3,17.04,8.51,17.13,Medium,PayPal
+2023-10-21 05:19:36,06:12:46,13,6d965b19-678d-4492-8119-691783d8d037,Female,Mobile,Email,Books,human,91.43,2,4.16,8.57,9.39,High,Cash on Delivery
+2022-10-23 07:03:58,10:29:28,4,d4a3ed1b-d0df-4e9e-ad67-1371fdf6eacb,Male,Desktop,Social Media,Clothing,window,692.45,2,73.7,31.78,14.36,Medium,Credit Card
+2023-10-07 04:57:34,11:12:08,9,c43577f3-1958-4f01-bd43-b1518d43f1db,Male,Mobile,Guest,Home Appliances,it,675.1,1,144.12,96.28,2.87,Medium,Cash on Delivery
+2023-12-26 04:29:02,20:47:00,10,26efec8b-9e16-4e54-9558-6a4ddee18832,Male,Desktop,Guest,Electronics,full,918.46,4,132.04,44.27,15.72,Medium,Credit Card
+2022-07-03 20:53:17,03:03:40,23,5015c39c-4664-4cdb-b32c-22071dc94831,Male,Desktop,Social Media,Books,decade,801.25,3,74.57,118.39,19.69,High,Credit Card
+2022-03-16 04:43:38,16:37:56,8,cd7ff524-0dae-40e6-9b59-bb6c0b42734b,Female,Tablet,Guest,Home Appliances,sense,584.05,4,110.22,64.56,15.86,Low,PayPal
+2022-11-13 21:56:32,06:54:21,5,6f7d9c77-3724-40ef-9afe-04f2a77e279d,Male,Desktop,Email,Electronics,let,416.68,4,37.63,47.03,2.04,Medium,Credit Card
+2023-09-24 01:54:49,10:13:30,21,54f9d3d4-ad3b-48b1-a046-e92744576e67,Male,Mobile,Email,Home Appliances,open,424.66,1,121.05,4.08,4.31,High,Credit Card
+2023-05-26 22:48:35,08:19:27,7,3db200c0-af62-4132-b492-55edc18998a3,Male,Mobile,Social Media,Clothing,speak,302.54,3,35.05,41.04,15.07,Low,PayPal
+2023-06-22 23:07:30,21:11:10,16,3c53421a-6163-458f-a52f-32775c89f70c,Female,Desktop,Email,Home Appliances,person,746.93,5,15.35,79.39,11.85,Medium,Credit Card
+2023-02-19 01:20:36,06:22:32,21,cc597468-9bd0-431f-a0bd-50c3627ebf2a,Female,Mobile,Social Media,Electronics,pressure,668.49,5,174.78,47.85,1.51,Medium,Debit Card
+2023-05-09 17:53:14,23:31:38,29,f37776dd-7786-4b17-9c77-cea2f08b7d75,Female,Mobile,Guest,Home Appliances,kitchen,861.65,4,186.26,152.5,13.92,Low,PayPal
+2022-12-22 18:42:33,02:37:34,20,a4954024-e740-4d7b-b0e5-36f0631c4135,Male,Desktop,Social Media,Electronics,report,714.56,2,60.87,140.65,2.32,High,Debit Card
+2023-09-28 18:12:04,23:20:45,21,91f61e8a-a01b-4db4-972f-1a44fc9e954a,Male,Mobile,Email,Home Appliances,soon,480.07,3,136.08,11.08,9.06,Low,Cash on Delivery
+2023-01-01 02:30:44,02:41:56,2,1957868a-020e-4632-ae91-579d656f18b7,Male,Desktop,Guest,Books,scientist,255.7,3,48.32,41.72,1.63,Low,PayPal
+2022-05-18 10:45:27,19:13:13,28,2939815f-eb8c-4030-ad6c-66160301123e,Female,Desktop,Social Media,Clothing,Democrat,10.18,4,0.35,1.93,13.88,Medium,Cash on Delivery
+2023-05-08 16:02:42,18:14:55,21,863a401b-1d7d-45f4-a9bd-94ab2ce3cfc2,Female,Desktop,Guest,Books,hot,243.31,3,56.44,16.1,11.95,Low,Debit Card
+2022-02-01 09:25:41,14:06:44,2,418548ae-0bd3-4046-a068-727cded2baaf,Male,Tablet,Social Media,Books,away,300.28,5,12.23,54.42,19.53,High,Credit Card
+2023-09-30 22:11:00,09:57:12,27,765d0053-bd07-4937-8f97-53c18ba49237,Male,Desktop,Email,Electronics,concern,238.14,1,46.83,15.42,1.42,Low,Cash on Delivery
+2022-05-16 12:37:04,08:26:22,25,a522c188-5511-4c5a-a1bb-87ab4649f398,Female,Desktop,Guest,Electronics,likely,310.62,3,25.15,2.32,3.91,Low,PayPal
+2023-02-03 10:01:00,19:23:50,8,42721c38-73c1-4a7c-9481-38ba9b3a6b75,Female,Tablet,Guest,Books,draw,251.14,4,17.01,9.08,8.29,High,Cash on Delivery
+2023-01-10 04:58:27,00:24:57,22,dbb2a357-4084-4353-9455-6929d07e6011,Male,Desktop,Email,Clothing,central,356.37,5,51.7,42.38,14.97,Medium,Debit Card
+2022-10-09 23:19:02,01:27:45,2,2c9cbd76-674c-46e1-8780-94e2bf6d2760,Female,Desktop,Guest,Clothing,major,946.21,4,195.08,23.78,16.13,Medium,Cash on Delivery
+2023-04-26 03:59:32,03:22:19,26,8a530440-2dda-4010-a899-78ef9728febc,Female,Tablet,Email,Electronics,half,851.79,1,16.66,136.66,9.38,Low,PayPal
+2022-03-05 05:03:18,04:12:19,14,e87f42c5-6cb6-4da4-b129-36267adc4bfa,Female,Tablet,Email,Electronics,current,879.34,1,39.52,4.0,14.05,Low,Credit Card
+2023-09-27 03:36:19,00:33:50,27,648b0f05-8283-4ddf-8b62-2a18683c9a18,Female,Tablet,Guest,Home Appliances,much,270.35,1,67.01,49.84,10.32,High,PayPal
+2023-12-26 12:43:56,12:51:24,25,b7788b94-0c0f-483b-aa61-6cea500b0f30,Female,Desktop,Social Media,Books,resource,386.03,4,43.66,15.14,16.46,Medium,Credit Card
+2023-05-11 19:01:28,19:39:10,27,9aea132d-b62e-440d-a11f-efec42f3a49e,Female,Tablet,Email,Home Appliances,mind,655.09,5,81.52,13.47,7.41,High,Cash on Delivery
+2023-09-26 00:53:18,04:43:52,8,5399f6ff-034c-4737-9907-e7327475ff46,Male,Tablet,Email,Books,adult,526.16,2,76.08,35.82,9.31,Low,PayPal
+2023-03-29 09:12:36,10:10:20,4,48d0b7f6-a58c-4f12-bff8-43e3008daf8c,Female,Tablet,Email,Electronics,reduce,661.56,2,84.34,98.16,16.6,High,Debit Card
+2022-06-28 23:58:22,21:00:55,1,0ddba40c-9135-4486-9727-aa6ef34eb87c,Female,Mobile,Email,Books,food,72.3,3,19.1,7.2,9.03,High,Cash on Delivery
+2023-05-03 14:25:37,09:57:18,4,b0a423b2-8697-4b2f-ade8-ca8a185a02ea,Male,Desktop,Social Media,Books,entire,14.07,1,3.28,0.58,1.41,High,Credit Card
+2023-08-20 18:38:10,11:47:17,6,0a06d324-5a15-4afb-8a1b-e12fc7a3ca21,Male,Mobile,Email,Electronics,suffer,275.83,4,54.06,15.99,19.42,Medium,PayPal
+2023-11-27 12:45:29,15:05:15,6,26ba1a82-b198-4a21-a394-7851223768f1,Male,Desktop,Email,Clothing,million,710.55,3,133.71,83.27,9.18,Medium,Debit Card
+2022-07-30 16:19:57,07:58:59,8,99890083-6fb3-46e7-92fd-4f3cbe99604c,Female,Tablet,Social Media,Home Appliances,short,770.63,5,106.95,88.93,9.48,High,Cash on Delivery
+2022-04-20 16:43:36,14:18:09,18,4e718941-3969-44a0-a92b-971781601e9c,Male,Desktop,Social Media,Clothing,reach,689.8,3,26.89,53.27,1.2,Low,Cash on Delivery
+2022-09-23 12:04:11,22:37:29,14,85c0587a-b290-4f38-a937-850e88200ecb,Male,Tablet,Social Media,Home Appliances,environmental,383.16,2,29.48,45.01,14.92,High,Debit Card
+2023-06-17 20:48:50,10:01:25,1,d2b4dfca-84d1-4f4a-8674-d0a8e177a285,Male,Tablet,Guest,Clothing,guess,265.84,2,77.49,21.45,5.36,Medium,Debit Card
+2023-02-24 06:26:34,20:11:58,29,f28e1dba-6e56-4db6-815e-0b7fc1eb5136,Female,Tablet,Social Media,Books,always,502.44,1,101.92,14.81,10.82,High,PayPal
+2022-01-07 22:55:16,04:33:56,10,7792d02c-658e-46b5-a0ba-319934c23b89,Male,Tablet,Email,Electronics,particular,15.9,3,0.52,2.4,10.39,Low,Cash on Delivery
+2022-07-16 14:33:16,20:03:20,30,2ff549b5-d185-4773-a115-10ee4beff5fe,Female,Desktop,Guest,Electronics,smile,966.32,1,105.6,15.4,3.83,Medium,Credit Card
+2023-05-17 08:34:34,16:58:58,27,086c4553-4a68-4dc7-86d6-6e40d26562e7,Female,Tablet,Email,Clothing,crime,765.83,4,210.36,60.06,19.3,Low,Credit Card
+2023-02-04 13:30:51,11:37:23,11,e08c80e6-19b9-4612-9536-1b274eb136f8,Female,Desktop,Guest,Books,paper,20.18,5,5.55,3.68,4.31,Low,PayPal
+2022-12-02 10:39:17,01:17:01,25,36934ae6-7b17-4e0a-a3da-6fc6973a0e04,Male,Tablet,Email,Electronics,because,151.4,1,26.02,27.91,12.05,Medium,Debit Card
+2023-06-15 14:41:03,08:27:38,9,75b2d153-90ee-434a-b9a7-1b9af04864f6,Female,Mobile,Guest,Home Appliances,start,696.29,1,177.19,69.48,6.37,Medium,Debit Card
+2023-08-29 16:07:20,19:55:49,20,42fc8e52-a67f-4360-9024-9c8c4fb0d544,Male,Desktop,Email,Clothing,score,907.63,1,6.35,154.2,15.5,High,PayPal
+2023-10-23 17:26:59,17:02:31,11,611060be-8161-45b9-a8f7-3f6437a8818b,Male,Desktop,Guest,Electronics,free,804.3,4,83.17,4.38,5.15,Medium,Debit Card
+2022-03-31 08:22:14,21:15:47,5,42afff18-9900-4785-9d52-388b3bf2ec15,Female,Desktop,Social Media,Clothing,scene,577.28,4,2.73,112.47,14.33,High,Credit Card
+2023-11-30 10:53:23,16:25:14,17,e4482b40-7b70-4d79-852b-d169855b7f6f,Female,Mobile,Guest,Books,and,250.49,2,69.22,39.08,19.62,High,Cash on Delivery
+2022-02-22 04:58:55,02:10:24,21,b2a94a21-0b09-425b-a685-b0c8c1f901ab,Male,Tablet,Guest,Clothing,unit,917.78,2,191.8,103.73,9.97,Low,PayPal
+2023-06-04 10:49:36,19:16:36,18,c4ac3da7-f2bc-493b-89d8-9d0c829fdb33,Male,Desktop,Social Media,Electronics,support,66.68,5,12.95,2.85,1.38,Low,Credit Card
+2023-07-15 01:38:12,16:57:26,27,76a2cbf2-f884-4468-b6f5-e2ea7e195849,Female,Tablet,Email,Electronics,message,497.89,5,10.71,71.88,15.35,Low,PayPal
+2022-05-29 17:40:53,20:13:38,2,892f633b-4640-40ae-9784-cee28eea0f95,Male,Mobile,Social Media,Clothing,present,547.27,1,158.44,37.81,11.02,Medium,Credit Card
+2023-04-30 18:17:33,16:10:11,23,939701bc-8a50-4605-93aa-4791e8ded47e,Female,Mobile,Guest,Books,who,263.87,2,34.54,30.43,11.36,Low,Cash on Delivery
+2023-08-13 15:25:54,00:40:55,25,a7817049-e290-4650-991e-90e8f29f1b89,Male,Tablet,Guest,Books,yes,838.09,2,150.22,78.1,19.9,Low,PayPal
+2023-03-10 10:49:27,17:22:36,3,9cede4c4-3b4d-4aae-810c-a3b6f557f1dc,Female,Tablet,Guest,Books,audience,882.59,2,147.42,31.44,6.36,Low,Debit Card
+2022-05-04 12:05:08,02:56:24,6,788c4ecd-2349-4642-aa81-32ac2e7c1e37,Male,Tablet,Social Media,Electronics,word,248.67,5,58.74,16.24,2.45,Low,Credit Card
+2023-03-23 13:03:13,17:14:21,1,7f0774b7-0353-4aa9-8d35-38d32691b987,Male,Tablet,Social Media,Books,together,305.03,1,52.73,10.3,2.83,High,Debit Card
+2022-02-12 05:28:33,15:00:48,10,0a040a4c-2d36-4e66-b3af-2207825988b6,Female,Mobile,Email,Clothing,answer,814.42,5,83.2,96.52,16.46,Low,Debit Card
+2023-08-03 07:32:57,19:54:04,16,6cb8d0ce-4280-4476-9cf8-5c8c4dcc7d05,Male,Mobile,Guest,Clothing,focus,962.17,1,174.5,35.73,18.33,High,Cash on Delivery
+2023-02-13 23:04:30,00:51:47,5,65f6ff6c-bd7e-40ac-894d-bc54bd9f2c68,Male,Tablet,Email,Clothing,to,545.28,3,151.56,56.66,13.41,Low,Cash on Delivery
+2022-12-27 00:52:41,18:42:53,27,c051400c-3b13-4c50-8373-91c8c9467105,Female,Mobile,Guest,Home Appliances,people,705.38,4,178.19,33.88,13.32,High,PayPal
+2022-06-08 01:24:30,05:32:28,23,d979d7d9-6daf-4ae1-aa30-57c157fded5e,Male,Tablet,Social Media,Electronics,reflect,513.7,1,115.47,1.13,6.25,High,PayPal
+2023-11-12 11:05:29,07:53:49,8,d8b536f2-e6ba-4398-b2a7-ac3a01341f19,Female,Desktop,Guest,Electronics,around,591.14,2,29.66,111.07,1.29,High,Credit Card
+2023-06-15 20:58:38,17:35:16,6,228ad6b6-61a3-4021-b844-6536548b9f8c,Male,Desktop,Social Media,Books,popular,828.57,2,169.26,129.27,9.54,High,Credit Card
+2023-08-22 11:04:48,13:11:52,7,f20df43f-0399-4409-841e-b54487cdf598,Male,Tablet,Email,Clothing,daughter,113.54,1,18.27,14.12,1.51,High,Debit Card
+2023-05-20 00:50:15,04:25:49,11,010e0a23-1fc7-4a17-91d6-21f8ee893d06,Female,Tablet,Email,Books,for,30.43,4,5.55,0.83,1.67,High,Debit Card
+2023-08-16 15:39:23,11:27:07,7,d8da7116-9686-4d1e-a991-191b8861d678,Male,Desktop,Social Media,Home Appliances,piece,895.32,5,7.21,80.0,13.1,High,Cash on Delivery
+2023-06-02 07:15:13,20:24:05,9,75031696-c62f-47fa-9501-ad8cd7da054a,Female,Tablet,Guest,Books,per,495.11,5,30.5,71.88,18.06,Medium,Credit Card
+2023-06-30 07:20:23,20:27:42,5,bc0b153a-ff50-4309-af05-f498f234dfa4,Male,Mobile,Social Media,Clothing,read,878.92,4,151.89,66.51,15.86,High,Debit Card
+2022-07-22 13:05:35,12:29:30,14,e27256d1-f657-435c-a365-9a0ced6020b3,Female,Mobile,Email,Clothing,final,630.92,3,172.94,0.7,11.39,Low,Credit Card
+2022-05-18 09:54:50,15:16:48,13,36e8d7b8-d2e3-49b1-839c-88d7b798bb29,Male,Mobile,Guest,Clothing,actually,923.59,3,150.56,155.21,16.81,Low,Debit Card
+2023-08-29 07:36:53,23:44:19,16,20f594ec-b86b-4dd1-b6c4-d803f9ac6316,Female,Desktop,Social Media,Clothing,time,748.74,2,128.35,118.51,19.89,Low,PayPal
+2023-05-24 16:53:44,01:35:15,24,eb98a2f5-1a7f-429e-94df-7907667059e2,Female,Tablet,Email,Books,response,599.58,3,151.21,64.57,9.89,Low,PayPal
+2023-04-08 23:16:49,22:12:32,15,b2ce2abb-f15d-4e7a-90d0-5aacf8a5281e,Female,Tablet,Guest,Books,indeed,104.4,1,30.81,3.91,16.8,Medium,Debit Card
+2022-12-08 07:16:24,06:00:23,29,06e2e9cd-c779-40b9-b74c-a8b60cc46305,Female,Desktop,Social Media,Books,body,845.12,4,51.92,164.06,15.8,Medium,Cash on Delivery
+2022-09-30 21:42:50,01:03:20,26,c5b1758b-3dd9-4e89-8fe2-003772a97b66,Male,Mobile,Social Media,Clothing,score,656.39,5,127.49,46.73,18.74,Medium,Debit Card
+2023-10-31 11:09:42,15:33:38,7,a1bf1ef5-a49e-400c-886c-558348dc9ceb,Female,Tablet,Email,Clothing,present,279.68,3,65.29,15.77,17.93,Medium,Cash on Delivery
+2023-04-10 03:13:16,12:33:23,16,cdf96440-6b89-47dd-9776-5b6ed2f1bf9b,Female,Mobile,Guest,Home Appliances,just,661.43,1,74.05,130.38,19.47,High,PayPal
+2022-03-22 07:41:54,13:10:11,9,490b7ce5-d32c-4b5f-b988-f2634b3d92f1,Female,Desktop,Guest,Clothing,soldier,467.3,5,114.87,75.19,1.69,High,Debit Card
+2022-03-04 10:38:25,14:41:12,18,009d7ee1-4afa-429c-b2ca-42a1fef3f9ff,Male,Desktop,Guest,Books,keep,371.88,4,73.21,19.32,12.13,Low,Credit Card
+2022-07-29 06:29:54,01:34:55,8,110516fd-d08e-45b3-a354-b90c4933f82e,Female,Mobile,Social Media,Books,security,831.01,3,8.22,119.36,16.52,High,Credit Card
+2022-05-10 01:46:37,10:29:30,25,fbb6d614-5999-4798-8f1d-df53672284df,Female,Desktop,Social Media,Clothing,half,16.0,5,3.7,2.58,2.97,Medium,Cash on Delivery
+2022-12-27 14:50:31,00:27:51,11,0e1614e9-b73a-4eb4-8923-5c102ee3d1d1,Male,Tablet,Guest,Electronics,dog,123.22,3,23.86,21.81,7.8,Low,PayPal
+2023-12-11 01:49:04,06:51:34,21,99efec57-4a0e-4d7f-89f0-feb007c8cd30,Female,Mobile,Guest,Clothing,organization,13.26,1,0.75,2.35,5.39,Low,Cash on Delivery
+2023-03-19 03:08:22,06:20:55,26,005a878b-b682-4a4d-9680-03e792ec4fb2,Female,Desktop,Guest,Clothing,claim,946.36,5,278.97,177.39,2.69,High,Credit Card
+2023-10-24 02:22:27,12:29:18,5,1d26f8a1-49c4-4d13-8566-02b0987e60f1,Female,Tablet,Guest,Clothing,international,343.25,2,59.91,52.43,15.95,Low,PayPal
+2022-06-12 12:54:44,16:19:43,13,ae327c10-36d8-4c75-bfde-ec5dd77f163d,Female,Mobile,Guest,Clothing,through,604.13,2,0.07,34.78,18.91,Medium,PayPal
+2022-05-20 03:07:33,18:26:42,11,7f75041e-2a2c-47c7-8ecf-4f04d0dee5d4,Male,Mobile,Guest,Electronics,buy,111.12,4,20.64,4.74,14.8,High,Credit Card
+2023-01-25 12:41:28,12:43:04,21,248d409f-f343-49a6-bb1e-3b640ed826ce,Male,Tablet,Email,Electronics,expert,799.98,2,91.11,94.35,15.4,High,Cash on Delivery
+2022-08-24 06:54:11,01:12:46,18,0bd2ecd6-1e75-4aca-9f2d-8df3947aacf1,Male,Desktop,Guest,Electronics,score,994.5,4,170.94,85.9,13.75,Medium,PayPal
+2022-03-25 05:49:36,14:45:00,17,d25dc244-b196-4882-a5e6-3e0e366333b5,Male,Desktop,Email,Books,star,625.49,5,177.39,73.48,1.4,Low,Debit Card
+2022-02-04 18:05:26,17:56:54,28,5c037958-311c-426a-a47d-b0f2cd67c445,Female,Mobile,Email,Clothing,brother,111.77,1,12.81,12.55,18.74,High,Credit Card
+2022-09-11 06:24:54,20:23:42,1,f9a58c7e-d565-4d3b-8182-bc98207a2374,Female,Tablet,Social Media,Clothing,film,624.7,2,152.8,107.91,12.47,Low,PayPal
+2022-04-11 20:51:59,01:34:37,11,2c77b9ef-0e5b-4095-935c-f9d75b036c0d,Female,Desktop,Email,Clothing,there,820.44,5,234.28,37.1,8.4,High,Credit Card
+2022-04-12 03:00:37,12:13:05,20,97509876-ba6a-4a25-a84b-adc947b16833,Female,Desktop,Guest,Electronics,third,354.03,5,40.69,46.86,1.74,Medium,PayPal
+2023-10-19 01:25:27,23:30:08,4,eb264337-c6b4-492d-a871-23cb93e9214c,Male,Mobile,Guest,Home Appliances,herself,793.66,3,20.7,108.5,19.99,Medium,Credit Card
+2022-07-21 13:25:24,03:59:31,3,797a29be-4eea-41c6-baf3-7a5764a0e2cd,Female,Mobile,Guest,Clothing,people,903.17,5,147.01,138.74,12.8,High,Cash on Delivery
+2022-04-27 21:20:20,17:41:21,22,6d0ad35e-073e-4b38-b9fa-38ed419ff6ef,Male,Mobile,Guest,Electronics,industry,815.42,1,52.89,33.56,6.67,Medium,Credit Card
+2023-04-02 19:27:42,11:20:13,13,8129c97c-7221-48fd-b7ca-9fa854080106,Male,Tablet,Email,Clothing,edge,441.82,2,46.01,46.13,19.6,Low,Debit Card
+2023-03-19 08:57:47,19:59:40,3,b547da0c-b9a6-414c-9654-e5b48ef3b5e9,Female,Tablet,Email,Books,read,826.62,1,167.56,146.37,10.98,High,Debit Card
+2023-06-12 14:47:28,23:27:44,4,8aa13e81-4f17-4555-9e15-f39bd13eb760,Female,Tablet,Email,Books,community,686.84,2,63.8,7.52,7.45,High,Debit Card
+2023-11-13 05:38:42,05:41:16,12,d0c326e4-5cef-4dda-a46b-9cba32428789,Male,Desktop,Social Media,Clothing,machine,735.46,5,124.23,27.48,13.47,High,Cash on Delivery
+2022-12-31 06:32:53,08:06:06,20,d27efc93-2bf5-45e8-aae9-a8be9fc7086f,Male,Mobile,Guest,Books,capital,660.64,1,99.89,66.74,8.53,Medium,Debit Card
+2022-11-02 17:47:10,20:22:48,21,210632a1-34f8-4a78-a522-b0e9df4086f7,Male,Tablet,Social Media,Books,perform,966.09,3,96.17,55.78,6.46,Medium,Debit Card
+2022-09-14 08:28:29,21:20:26,19,1cbfac1d-c0ad-4c5f-9203-072c7b53efce,Female,Mobile,Email,Home Appliances,affect,497.0,4,137.33,46.74,9.8,Low,Cash on Delivery
+2023-10-04 01:32:16,10:26:06,1,0639f3a9-d488-49bb-8ff9-32fc9c79f0da,Male,Mobile,Social Media,Books,card,719.05,2,41.74,15.84,3.5,Low,Credit Card
+2023-02-10 06:07:26,13:06:04,8,ab5d99ff-4ec6-4ac5-ba63-eab4791a1920,Female,Tablet,Email,Home Appliances,push,913.38,2,20.6,172.26,12.29,High,Cash on Delivery
+2023-05-21 14:53:11,14:02:53,30,c5ddee7f-45b9-447b-8e9b-a6cbe06aed0b,Female,Tablet,Email,Home Appliances,now,361.57,2,67.79,9.08,17.2,Low,Debit Card
+2023-05-05 14:32:22,06:20:40,6,c8298cb8-efd1-4fdf-8390-cd14d3c202df,Female,Tablet,Social Media,Clothing,partner,82.86,1,21.53,8.85,9.91,Low,Debit Card
+2022-03-17 19:44:40,10:39:10,16,d450c507-c8fe-47cd-9f29-b59c370a7d9a,Male,Mobile,Email,Books,choose,68.47,4,10.61,1.23,7.85,Medium,PayPal
+2023-01-27 04:29:05,02:59:10,25,66a5c338-451d-4b76-8155-fe54e5ca0267,Male,Tablet,Social Media,Books,anything,771.8,3,28.84,26.11,12.03,Low,Credit Card
+2022-11-09 02:51:45,19:41:57,19,0110bc37-3e38-47cd-b202-5d557dc957ff,Female,Tablet,Guest,Clothing,door,686.69,5,44.41,61.2,3.26,Low,Cash on Delivery
+2022-08-17 11:40:40,18:57:48,15,0fbf0749-55f4-42fd-afec-48e3204cd8fa,Male,Desktop,Email,Books,citizen,445.61,1,109.62,26.47,12.32,High,Cash on Delivery
+2023-08-01 10:18:17,19:05:25,5,a36e3457-2e79-48df-8a1c-3e33f7fae6dd,Male,Desktop,Guest,Books,owner,493.79,2,81.39,0.78,7.16,Medium,Credit Card
+2023-07-31 02:11:29,11:34:55,9,7a944762-563a-4888-9458-9291e0e6569e,Female,Mobile,Social Media,Electronics,establish,409.64,1,99.72,59.93,8.95,Medium,Debit Card
+2022-12-06 01:13:17,10:19:42,23,4f3ccb80-e1a7-407d-8485-acc991a31e1b,Male,Desktop,Guest,Home Appliances,live,412.58,5,109.73,27.65,15.99,High,Cash on Delivery
+2022-09-14 22:59:01,13:54:31,4,a4bbdf00-adb1-4072-8509-d8d96085587c,Female,Mobile,Guest,Home Appliances,thus,892.32,4,109.55,49.19,5.34,Low,Credit Card
+2023-04-30 01:03:15,11:25:49,11,f6b23a56-f952-4256-908b-21b2ed596213,Male,Tablet,Guest,Electronics,he,276.35,3,17.95,11.91,7.09,High,PayPal
+2023-04-01 14:53:15,23:52:33,12,d37d50c7-9744-4b60-9e76-02bc518a7056,Male,Mobile,Guest,Clothing,cover,465.89,3,27.99,41.9,9.0,Medium,Debit Card
+2023-09-10 19:08:07,17:16:58,7,980bd8e6-da2c-4752-a497-de7eb6456da0,Male,Mobile,Email,Clothing,sport,944.41,4,84.52,178.5,18.82,Low,Cash on Delivery
+2023-09-20 17:47:50,19:39:03,5,b2df91f6-e47a-4369-8c58-53fdd0f595f2,Female,Mobile,Social Media,Electronics,thought,975.64,3,147.91,68.4,5.5,Medium,Credit Card
+2023-04-05 04:53:25,11:20:47,14,d4fb1b77-44d1-4e33-bdb0-0b34f2d2de34,Female,Mobile,Social Media,Books,what,885.92,2,98.77,59.85,8.69,Low,PayPal
+2022-06-05 07:53:41,13:15:23,16,c40c9259-1a5c-44b2-94c6-f83c2f3246bf,Male,Mobile,Email,Electronics,dog,197.58,1,59.06,25.49,3.5,Low,Debit Card
+2023-11-10 00:44:53,03:48:58,26,0e460af6-e617-4d2e-a2e0-1c300b4f35ed,Male,Desktop,Email,Electronics,officer,87.16,5,11.42,15.13,16.54,Medium,Credit Card
+2022-11-17 23:20:23,05:56:24,27,1709ec26-30e0-45f8-b688-046559094823,Female,Mobile,Email,Clothing,power,656.31,5,83.8,101.55,10.22,Low,PayPal
+2023-06-24 09:00:01,07:50:43,18,07ba6d5e-23cd-4447-8ed9-bf2e46a81c79,Female,Desktop,Guest,Clothing,soldier,561.12,5,120.73,28.39,9.63,Low,Cash on Delivery
+2022-02-02 13:01:01,20:15:55,26,c44fce30-5410-4e43-a7ba-017efc7bccdc,Female,Mobile,Guest,Electronics,attention,987.77,4,293.75,131.35,6.8,Medium,PayPal
+2023-11-01 18:08:02,13:09:25,25,dd8e70f2-eef5-40eb-8af9-e1de718e410e,Female,Mobile,Email,Clothing,store,412.88,3,25.25,52.58,5.86,Medium,Cash on Delivery
+2023-02-16 21:26:38,00:13:54,4,0b53614d-4ba0-4e03-b8d4-4484f71912a4,Female,Mobile,Email,Electronics,authority,868.94,1,110.61,77.9,4.89,Medium,Debit Card
+2022-03-01 11:22:09,14:40:02,12,b72a0edb-9bf7-49e2-a76c-e9276c12be6d,Male,Desktop,Guest,Home Appliances,recent,129.32,3,4.41,25.82,4.46,High,Credit Card
+2023-05-02 14:02:15,04:18:11,19,58b56e2e-29b3-408a-8893-0b461ca27038,Male,Tablet,Social Media,Electronics,loss,778.03,2,57.45,44.28,12.15,Low,PayPal
+2023-04-07 05:56:16,00:54:07,6,e95df71a-c098-4845-a8e0-16ab44826b27,Female,Tablet,Email,Home Appliances,top,155.5,2,29.46,13.24,8.92,Medium,PayPal
+2022-11-29 10:35:13,04:58:42,24,203d12d2-9341-45a0-b550-f15efdf2f440,Male,Desktop,Social Media,Electronics,meeting,65.56,2,15.09,4.43,9.33,High,Debit Card
+2023-06-14 12:05:54,07:23:03,12,1bc15bb4-a92d-4bf5-a034-f6db83a9645a,Female,Tablet,Email,Books,job,458.81,3,83.14,74.55,11.28,Medium,Cash on Delivery
+2022-08-05 17:43:39,13:26:49,22,02992ec3-f2b7-41db-91e5-ba583f58bb46,Male,Mobile,Guest,Home Appliances,any,141.96,4,16.21,15.43,5.04,High,Debit Card
+2023-11-24 21:59:35,18:59:54,19,697998a9-751b-4673-ba49-776f0df09dc5,Female,Tablet,Email,Home Appliances,common,439.02,4,80.77,61.46,1.03,Low,Cash on Delivery
+2023-02-06 02:22:11,08:39:50,30,e2a888dd-584c-4864-b468-9c92aaec507d,Female,Desktop,Email,Electronics,pull,390.76,2,97.69,46.3,17.12,Medium,Cash on Delivery
+2022-02-07 17:54:56,11:13:17,26,87127fd9-c958-46b2-8562-c2708f5a5fc4,Female,Tablet,Email,Home Appliances,also,547.33,2,96.79,6.65,2.85,Low,Cash on Delivery
+2022-03-10 19:54:41,11:09:22,21,3cb39fd5-ccee-4e0b-acc2-70f36b2312ac,Female,Mobile,Guest,Electronics,dog,890.97,1,152.92,135.57,19.27,Low,Cash on Delivery
+2022-03-20 23:16:17,21:45:42,9,a008c415-8494-45e6-b2d1-1c2051ad6d6e,Male,Desktop,Guest,Clothing,character,699.37,1,209.55,65.51,11.18,High,Credit Card
+2023-11-04 02:57:57,09:20:39,15,fceaf91d-e844-43fb-ab33-b07594e2a9a3,Male,Desktop,Guest,Books,word,416.08,1,42.94,62.91,8.15,High,Cash on Delivery
+2023-04-15 20:08:34,09:00:45,12,bb2ac0d6-b5f3-4a34-bc4c-ccc10f51065d,Male,Tablet,Email,Books,study,274.38,1,82.19,44.66,15.64,Low,Cash on Delivery
+2022-10-12 11:13:15,13:06:24,28,105b5e58-47ea-4ed1-8019-2b665f0e68f3,Female,Mobile,Email,Books,use,399.84,2,8.91,56.0,12.24,High,PayPal
+2022-07-02 01:05:52,06:17:36,7,d7971f19-8fbc-461f-a385-a1ff988be73e,Male,Desktop,Guest,Books,simple,690.75,5,12.83,130.28,1.91,High,PayPal
+2023-02-15 17:19:29,04:59:29,15,54e131b3-c0a0-4a59-90c5-0b1667851523,Male,Desktop,Email,Home Appliances,much,658.93,2,64.56,121.0,15.43,High,Cash on Delivery
+2023-01-05 05:10:50,14:17:39,13,ba49772d-ff93-4a98-93b8-3a52684f6403,Male,Desktop,Guest,Books,government,171.41,2,49.37,11.72,12.15,Low,Cash on Delivery
+2022-05-12 19:48:29,02:05:54,17,ade33dcf-3ca1-4805-85f7-1b7a731a5ea4,Female,Tablet,Email,Books,edge,903.54,3,245.35,27.72,13.63,Low,Credit Card
+2022-09-07 12:31:08,13:27:15,12,c498ecfe-b720-4166-a1cb-b1d0ae4c4a23,Female,Tablet,Social Media,Electronics,address,904.33,3,218.34,118.61,16.89,Medium,Debit Card
+2022-06-02 00:36:02,09:49:39,16,fd1ba80e-48e1-4bbd-9337-aced8cc829cd,Male,Tablet,Social Media,Books,technology,613.96,1,5.46,97.66,9.26,Medium,Cash on Delivery
+2022-08-16 08:02:58,06:20:27,24,e05267e9-4ead-46f7-a3b8-0abf84315e9f,Male,Mobile,Social Media,Electronics,issue,106.63,2,25.85,2.63,9.35,Low,PayPal
+2023-06-13 21:19:01,13:18:59,9,81c4f8fe-9064-460a-94ae-c1c190b06127,Female,Desktop,Email,Home Appliances,might,247.15,3,31.25,24.46,2.22,Low,Credit Card
+2022-06-16 08:14:47,02:42:00,23,99d399ca-5549-435b-958f-748f767eea3a,Male,Tablet,Email,Clothing,fund,86.78,3,9.37,12.16,16.29,Low,Debit Card
+2022-12-16 10:58:21,01:31:25,16,359eab87-026a-4146-8487-ad773b61a593,Male,Tablet,Guest,Books,later,319.12,2,57.75,3.41,19.38,Medium,Credit Card
+2023-07-22 11:04:37,19:05:11,25,63507214-6dfa-409d-91ed-f1c3c234a4ad,Female,Mobile,Guest,Home Appliances,economy,771.32,1,179.61,77.08,16.39,High,Cash on Delivery
+2023-06-07 19:15:15,00:58:31,23,2a443d35-61e0-48ab-b1cb-8e6567994df4,Male,Mobile,Email,Home Appliances,rock,481.15,2,99.28,56.13,12.75,High,PayPal
+2023-11-19 06:24:51,03:22:11,12,4203c7a8-024f-4133-88ee-b071427390c8,Male,Tablet,Guest,Home Appliances,pressure,880.01,3,219.84,22.48,2.68,Medium,PayPal
+2022-02-16 17:38:31,09:50:39,8,60202442-7a03-4437-80dd-7542f24f0079,Female,Tablet,Guest,Home Appliances,source,716.54,1,19.16,8.9,3.54,Medium,PayPal
+2022-02-07 10:38:22,07:10:17,3,a498deeb-1fb5-4e2d-816e-285bb326e860,Female,Mobile,Social Media,Books,else,573.59,1,116.57,90.99,7.77,Low,Debit Card
+2022-11-12 17:21:32,13:19:31,17,c660913b-cae0-49b4-9553-6a350fb9964f,Male,Mobile,Guest,Clothing,politics,473.21,3,114.33,93.34,6.81,Medium,Cash on Delivery
+2022-01-19 15:02:01,17:08:34,16,fba7189c-a81f-4f56-942a-c4d2e8b502b2,Male,Mobile,Guest,Clothing,tend,922.01,4,32.88,74.91,6.79,Low,PayPal
+2023-05-12 01:45:33,23:12:06,3,a42d9e92-ea7d-4725-9278-55767bda1bca,Female,Mobile,Email,Books,put,159.49,2,32.12,21.22,5.02,High,PayPal
+2023-05-14 16:42:28,15:54:05,29,721baea3-98aa-4eab-93e8-dee9e91ee2a1,Male,Tablet,Social Media,Home Appliances,shoulder,774.83,1,147.6,140.14,19.47,Low,Cash on Delivery
+2023-05-20 18:22:47,01:51:12,24,bc5b5656-8afa-43a4-a72e-75248d55db29,Female,Mobile,Guest,Clothing,leg,256.38,5,70.95,6.21,7.68,Low,Cash on Delivery
+2023-06-20 10:22:52,23:10:44,26,1e06f83e-316a-4354-ba43-45792b7ad048,Female,Desktop,Guest,Clothing,note,574.9,1,73.33,92.44,11.44,Medium,PayPal
+2023-08-02 07:51:17,03:47:25,28,ac4a3ca5-35cd-4f61-a85d-e7992eca3614,Male,Mobile,Social Media,Home Appliances,more,334.98,5,59.99,46.5,15.66,Medium,Cash on Delivery
+2022-04-02 05:57:50,22:20:21,9,f4bba23f-ca2f-436c-ab30-ff59e47c516d,Male,Desktop,Guest,Electronics,pretty,852.04,2,121.33,109.25,2.74,High,PayPal
+2022-02-24 21:12:43,20:58:30,24,fde14ffd-6724-4ced-8f77-51b6f3fcddf1,Female,Mobile,Social Media,Electronics,mind,400.56,2,105.92,56.56,12.93,High,Cash on Delivery
+2022-10-28 02:49:30,06:56:35,12,ab3b9082-933c-425e-befd-d5350e8531bf,Female,Tablet,Social Media,Electronics,we,472.17,3,43.15,13.93,12.71,Low,Credit Card
+2023-09-24 02:00:59,14:54:50,26,b7e5a4c5-5d05-45f3-84b2-b2021eafd91a,Female,Mobile,Email,Books,season,137.32,1,37.68,4.14,3.55,Medium,Credit Card
+2022-03-27 20:01:56,18:45:49,8,5627fb38-bc45-4b7d-b0d8-d0c1bc12f742,Male,Tablet,Guest,Books,structure,830.55,3,199.42,117.1,18.02,Medium,Cash on Delivery
+2023-01-13 05:37:16,00:16:07,1,8615b0df-e8f9-41de-848c-af6c081c97cb,Female,Tablet,Email,Home Appliances,street,646.43,1,56.47,96.62,15.33,Medium,PayPal
+2022-09-16 19:43:15,02:13:38,23,d2561ba2-420a-47e4-8668-99aa8c68887a,Male,Desktop,Social Media,Clothing,game,635.09,1,98.61,72.81,16.3,Low,Debit Card
+2023-02-19 13:56:19,16:07:26,15,5f0e92c3-d23a-4164-8d6c-ad28d5830c5b,Female,Tablet,Guest,Clothing,clearly,262.79,3,20.91,50.2,14.13,High,Cash on Delivery
+2023-10-15 17:50:17,23:38:11,1,8325f08a-1dd0-4d2f-b3f7-d37313e59ca0,Male,Tablet,Email,Books,paper,224.21,4,15.12,31.3,11.76,High,Credit Card
+2022-08-27 17:51:39,07:43:23,23,c84c8b88-5f6d-4cf0-8512-a73fc43886d7,Male,Tablet,Email,Home Appliances,interesting,84.11,4,18.59,8.66,3.38,Medium,Credit Card
+2023-06-07 00:37:56,05:43:32,30,2f91a635-ddcf-4c51-a414-95b085921394,Female,Tablet,Social Media,Books,tend,718.0,5,83.07,116.47,6.64,High,Debit Card
+2023-12-01 10:26:21,21:59:16,14,45e4bccd-bdbf-4c83-9590-4fd2d4263753,Female,Desktop,Email,Home Appliances,pressure,662.85,5,62.45,89.67,14.96,High,Cash on Delivery
+2022-10-08 01:27:40,19:37:02,24,02ce45ca-cd2a-4679-8369-4482c44a4252,Male,Desktop,Social Media,Electronics,front,273.8,2,42.42,30.17,13.5,Medium,PayPal
+2023-02-08 22:20:13,22:18:14,24,bf4d277b-cc66-4eec-98ab-089f72e46e90,Male,Desktop,Social Media,Clothing,artist,318.24,1,56.26,42.58,1.6,Medium,Cash on Delivery
+2022-11-21 00:21:38,10:51:02,15,6eeb5572-4751-4e56-9b1d-8acca320326b,Male,Mobile,Guest,Books,art,309.12,4,14.06,2.35,9.86,Low,PayPal
+2023-11-25 20:34:04,14:11:32,27,0a10bc6b-8e60-444a-9acd-f8721abdb507,Female,Desktop,Social Media,Electronics,himself,756.59,2,125.59,68.51,2.46,Low,Credit Card
+2023-11-04 23:19:31,04:59:44,13,bc8abda3-4833-4b95-8b5c-9b25b7141d36,Female,Mobile,Guest,Clothing,while,713.41,3,0.86,77.41,13.61,High,PayPal
+2022-10-25 16:20:35,09:34:43,22,ad90b344-9796-4fb5-a9a0-d6c03100569a,Male,Mobile,Social Media,Electronics,college,131.04,4,24.54,16.83,8.38,High,Credit Card
+2022-02-19 17:29:45,23:17:29,7,bea388e9-fb49-4a23-a2f7-e3c84620b13a,Male,Mobile,Guest,Clothing,rule,597.64,2,32.82,75.08,10.57,Medium,Debit Card
+2023-04-20 08:45:01,00:26:51,26,3ddc49b0-8030-4e4d-866c-71182790e52a,Male,Tablet,Guest,Home Appliances,mind,487.85,4,112.18,61.46,15.95,Medium,Cash on Delivery
+2023-06-23 12:18:27,08:25:49,15,0492321d-94ff-4538-981b-007a08b5066c,Female,Mobile,Guest,Clothing,focus,700.92,2,164.35,61.23,6.1,Low,Cash on Delivery
+2022-10-22 19:29:48,21:27:00,28,6c537832-39ab-4757-ad10-5b2d5089dc0f,Male,Desktop,Email,Clothing,customer,797.45,2,30.62,67.66,4.73,Low,Debit Card
+2023-08-15 11:26:30,17:00:54,16,2ab61370-13c2-4914-8245-976f78939166,Male,Desktop,Email,Electronics,could,922.07,2,105.73,12.94,19.87,Medium,PayPal
+2022-11-12 08:15:31,06:27:37,4,505498b9-fc95-460d-97c5-2ecf8d93e1df,Male,Desktop,Email,Electronics,because,917.91,5,79.43,166.67,2.84,Low,Credit Card
+2022-02-03 19:54:58,05:29:14,27,16b487bc-6784-4b6a-b50c-ada863a968b3,Female,Mobile,Email,Electronics,life,104.76,1,12.53,1.85,10.07,Low,PayPal
+2022-07-01 02:27:36,04:01:02,7,a30561cd-5b0c-41cb-b7a0-9873bd5f14da,Male,Mobile,Social Media,Books,possible,734.41,1,90.77,105.82,2.82,High,Debit Card
+2023-07-20 12:18:08,15:25:45,30,cf80b695-b7e7-4487-a95a-8586bc796a3c,Male,Tablet,Email,Home Appliances,high,615.78,1,56.9,17.61,15.05,High,Credit Card
+2022-06-12 20:28:57,04:37:38,23,95bc0cc1-1e60-4cc9-96f0-922e0fcd0340,Male,Mobile,Email,Clothing,list,170.11,5,28.83,22.48,15.78,High,Credit Card
+2023-01-31 07:43:33,08:47:02,24,19bb2fc3-a8ee-4d13-9afa-21f1ccd013c8,Female,Mobile,Guest,Home Appliances,free,729.87,2,45.87,71.76,3.26,High,Debit Card
+2022-09-04 13:13:28,21:33:08,20,051e446d-dc47-422f-9eac-92d76a47b803,Male,Tablet,Social Media,Home Appliances,media,789.68,3,110.36,147.73,9.13,Low,Debit Card
+2022-06-10 19:29:42,15:11:15,20,9457fa04-05df-4403-b601-8ff29a66356b,Male,Desktop,Email,Home Appliances,election,557.57,1,13.29,92.61,16.22,High,PayPal
+2022-02-24 16:14:20,16:18:02,9,72e7a0d9-f2dd-4b66-b1c9-84fda30614e9,Female,Mobile,Guest,Clothing,beyond,793.38,3,188.19,131.54,1.35,Medium,Cash on Delivery
+2023-03-10 01:43:16,08:03:28,1,adfac210-025a-48ab-aeed-c2ec56296b23,Male,Mobile,Email,Home Appliances,when,281.28,1,43.85,10.98,19.23,High,Debit Card
+2022-08-29 11:49:50,20:42:51,2,554853d9-5d86-4998-a690-ef177befc5eb,Female,Desktop,Social Media,Electronics,can,844.02,3,227.99,24.12,19.31,Medium,PayPal
+2023-03-11 22:32:56,21:52:15,26,6effa5ad-827e-468d-8371-6f3a9aac230d,Female,Tablet,Email,Electronics,lose,476.89,3,97.89,22.82,14.95,Medium,Cash on Delivery
+2022-08-20 13:54:43,14:44:38,21,1a2d33e4-294c-4b26-9385-9bd468cd3633,Female,Desktop,Email,Books,response,926.71,1,27.24,103.69,5.11,Low,Credit Card
+2022-08-19 05:17:10,07:23:01,4,f94c4a0d-b86b-4a33-9ec3-7929564f7364,Male,Tablet,Social Media,Electronics,popular,19.13,4,4.07,1.33,3.39,Medium,PayPal
+2023-12-07 16:58:24,10:03:28,10,c418a185-bb34-4f9e-9645-c9b122d75b3a,Female,Desktop,Email,Home Appliances,trade,731.33,5,45.73,35.65,10.75,Low,Credit Card
+2023-06-30 00:43:26,16:49:03,21,8a79ea5a-32f2-4425-ae22-fb2736e1d927,Female,Mobile,Guest,Books,cost,754.38,4,103.88,124.31,1.09,High,Cash on Delivery
+2023-02-13 17:28:11,07:58:34,24,a123b851-7329-4ef6-b00d-a39e6478f9a2,Female,Mobile,Guest,Clothing,receive,163.44,5,24.24,6.4,15.77,Low,Credit Card
+2023-07-18 22:42:01,04:54:37,12,abe25f5a-d220-44fa-bfcf-5db9de5b1d7b,Female,Desktop,Social Media,Clothing,oil,763.79,1,163.85,125.74,12.56,High,PayPal
+2023-06-02 20:50:13,23:24:45,19,97f84f62-d0c7-45d1-9e73-1b3e29981704,Male,Mobile,Social Media,Electronics,leg,916.57,5,213.43,25.04,8.99,Medium,Credit Card
+2022-09-07 20:29:11,18:42:24,5,4602c855-f7d1-41bb-a6d5-5cc25b7ae848,Female,Desktop,Email,Electronics,serve,396.25,4,43.52,64.7,3.52,High,Cash on Delivery
+2022-04-28 17:02:47,19:58:53,19,3b7d6356-1ef1-494c-807e-4aded335b247,Female,Desktop,Social Media,Home Appliances,despite,581.3,1,131.02,16.8,12.47,High,Credit Card
+2023-01-14 02:42:19,20:46:30,2,0d79e978-80a0-495a-af75-6faddf63754e,Male,Mobile,Guest,Home Appliances,positive,987.45,5,94.66,95.33,12.25,High,Credit Card
+2023-02-12 04:13:39,22:45:03,2,43aef39f-e2bb-405b-98b8-54b984728c37,Female,Mobile,Social Media,Electronics,for,944.92,3,39.52,100.5,3.38,Medium,PayPal
+2022-03-30 00:46:10,02:56:56,16,522aa71a-92cb-4f06-aa15-72afb3ad255b,Female,Tablet,Social Media,Electronics,medical,869.98,1,226.94,87.85,11.18,High,Cash on Delivery
+2022-04-05 05:28:55,02:27:18,10,d016ae9a-5380-47bd-8838-5e3486ec7dfa,Female,Mobile,Guest,Home Appliances,sense,969.26,1,233.44,101.24,7.12,Low,Debit Card
+2023-03-20 23:43:16,15:59:57,27,0afedec8-fdcd-42d8-89f3-d3198807202f,Male,Mobile,Email,Clothing,remember,511.17,5,109.31,86.35,9.98,Medium,Credit Card
+2022-10-29 14:42:09,04:48:42,26,68751cdb-221c-45de-a1c1-96cad2f74137,Male,Tablet,Social Media,Books,ahead,138.01,3,34.49,16.38,10.56,Low,Cash on Delivery
+2023-12-24 12:40:28,07:47:32,29,69de1c49-3970-4ce7-8472-e6707b712a3e,Male,Mobile,Social Media,Electronics,case,405.6,4,46.48,15.97,1.26,Medium,Cash on Delivery
+2023-04-25 11:20:31,14:19:12,11,106b65b8-ceb1-4400-ba6f-082f3c8e15e6,Male,Tablet,Guest,Home Appliances,room,82.25,5,8.84,8.01,16.46,Medium,Credit Card
+2022-09-13 02:58:06,20:16:40,2,a7f3dc57-709c-4933-a439-a46c90d1b968,Male,Mobile,Email,Electronics,interesting,857.94,1,68.53,6.17,2.08,Low,Credit Card
+2023-04-05 08:45:00,20:34:23,9,7b19ee8b-2120-4573-8205-10559e389dc5,Female,Desktop,Guest,Books,day,536.26,4,98.97,69.96,9.87,Medium,Debit Card
+2023-08-01 02:41:14,11:15:04,8,70dadadc-2de6-4b87-ab49-3aa049edeb39,Male,Tablet,Guest,Electronics,claim,864.3,4,45.3,36.8,18.2,Medium,Debit Card
+2022-02-09 00:32:28,08:16:43,21,67ba6e09-b867-4a03-9a14-1f62595c193e,Female,Mobile,Social Media,Electronics,change,506.82,5,149.47,83.97,5.45,High,Credit Card
+2022-03-20 05:49:11,21:06:56,4,fcee328e-6699-4dfb-ae72-fc57f128d677,Female,Tablet,Email,Home Appliances,consumer,777.84,1,74.56,151.92,18.41,Low,Debit Card
+2023-09-08 18:48:35,13:57:07,4,df04418f-5e0a-4caf-ba6e-a672f6d6db2a,Female,Desktop,Email,Home Appliances,use,860.39,5,201.57,124.21,15.93,High,Cash on Delivery
+2022-02-03 02:51:54,18:52:34,16,466fb365-f613-48a8-8b44-754efb4f0374,Female,Mobile,Social Media,Books,guess,319.09,4,94.38,21.3,17.92,Low,Cash on Delivery
+2022-11-05 12:53:07,05:14:26,20,37a4bb9c-fa1f-44bb-b058-950775be4f87,Male,Mobile,Social Media,Electronics,her,649.17,2,162.89,125.25,4.38,High,Cash on Delivery
+2022-10-25 22:57:34,20:03:12,9,45f24cdc-5ccf-4e58-b1bb-149692be85d6,Female,Mobile,Guest,Electronics,take,514.51,4,115.78,25.69,10.51,High,Credit Card
+2022-01-01 10:41:57,14:52:40,26,c7ec252e-8ab8-43d5-a9ce-c71f4bced648,Male,Mobile,Email,Books,learn,145.11,2,37.55,21.29,9.36,High,Debit Card
+2023-07-31 20:24:17,17:47:13,19,ecf86345-411a-469d-88ea-ef030cc4f012,Female,Tablet,Email,Electronics,appear,443.87,5,119.75,75.05,15.15,Medium,PayPal
+2023-01-05 14:59:22,23:57:19,8,98aea949-3f4f-4301-aa91-1d380d10ffc2,Male,Mobile,Social Media,Home Appliances,force,651.31,2,23.6,54.88,13.06,High,Credit Card
+2023-05-28 04:47:03,13:00:44,21,e2259b84-c5d8-4025-9938-1e90d850f336,Male,Mobile,Social Media,Books,degree,472.68,1,32.9,24.08,1.93,High,Debit Card
+2023-03-04 05:38:46,20:04:03,26,43210f66-1ab0-4385-8aa9-81c40b71e316,Female,Tablet,Social Media,Clothing,local,279.88,2,80.43,46.06,9.83,High,Credit Card
+2022-07-18 11:42:58,20:08:05,1,d443d553-fec7-4e89-9ac0-7de0467511d4,Female,Tablet,Guest,Home Appliances,school,23.73,4,0.26,2.21,6.64,Medium,Debit Card
+2022-06-20 23:47:16,19:27:21,8,c0eaca9d-e61a-4eee-9f8b-406cedee708e,Male,Desktop,Social Media,Electronics,approach,42.44,5,8.67,3.47,14.17,High,Credit Card
+2022-07-04 10:26:52,14:05:31,24,1828daf2-22bf-4f42-bb9b-a5f3c3b77531,Female,Mobile,Email,Electronics,Mrs,688.97,5,114.0,115.69,11.1,Medium,Credit Card
+2022-11-30 05:14:57,10:13:47,9,0e8c207b-21be-4700-a3a7-0a3e1010f1d1,Male,Tablet,Social Media,Home Appliances,own,610.21,3,13.42,9.57,4.28,High,PayPal
+2022-03-15 00:24:54,08:08:26,10,3bd98a38-9faa-4577-ace5-f53d7089ec34,Male,Desktop,Email,Electronics,game,650.27,5,78.9,60.97,10.12,High,Cash on Delivery
+2023-12-03 05:17:53,22:50:32,30,4b2a1411-df97-4da3-aa00-00ba8dbb3afc,Male,Mobile,Social Media,Books,act,450.3,1,105.36,45.1,8.84,Low,Cash on Delivery
+2023-03-28 19:57:32,02:14:08,10,caa14429-100c-4a70-95e1-7923341ce763,Male,Mobile,Guest,Clothing,himself,152.38,4,14.97,15.7,4.63,High,PayPal
+2022-01-03 15:21:16,16:47:06,23,a5e1b8af-bbe0-4592-a012-39c4ed292508,Female,Mobile,Email,Clothing,call,323.08,3,64.99,48.07,17.03,High,Debit Card
+2023-11-23 12:23:46,01:53:32,30,9589c425-9ca7-4c8a-b6fe-225c7f99913f,Female,Desktop,Guest,Home Appliances,coach,612.24,5,55.91,97.53,4.66,High,PayPal
+2022-06-18 14:45:00,13:24:19,12,0231cbaf-0a34-46d0-8f88-0d6844ec5108,Male,Tablet,Guest,Home Appliances,include,598.42,4,124.47,109.94,5.76,Medium,Debit Card
+2023-12-12 22:20:21,04:27:22,18,6c7ba442-4da9-44cb-b5ea-a792b039dd07,Male,Desktop,Social Media,Clothing,by,887.43,1,236.18,87.13,19.53,High,PayPal
+2022-03-14 00:25:32,10:07:36,7,31395a4f-1d72-444d-8386-94b59f886dfe,Male,Tablet,Email,Home Appliances,reveal,59.77,5,1.27,9.68,13.43,Low,Debit Card
+2023-12-04 10:02:28,10:00:47,22,2e78bb00-79d1-45a6-8db6-31fa9b991d31,Male,Tablet,Social Media,Books,market,923.13,1,106.67,71.89,16.96,Low,Credit Card
+2022-07-24 07:43:26,10:26:10,27,6412b26c-2377-4c5c-bb88-c7487cebb3d0,Male,Tablet,Guest,Electronics,sing,700.38,2,36.94,5.21,12.58,Medium,PayPal
+2022-04-25 12:36:31,10:17:48,25,a1718d3e-2090-4d12-a47a-3d6d9e2757e8,Female,Mobile,Social Media,Clothing,stuff,988.65,3,118.29,197.4,18.49,Medium,Credit Card
+2022-06-02 21:20:46,22:04:46,10,f50df9ef-cca9-4b92-b79a-acf1bec7f6f6,Female,Mobile,Social Media,Home Appliances,only,82.15,4,6.93,5.94,8.59,High,PayPal
+2022-07-19 07:55:25,04:34:53,3,fdff8e25-4404-4605-8557-1c7dee35f17f,Female,Desktop,Social Media,Home Appliances,Mrs,339.7,2,6.19,20.06,10.05,High,Cash on Delivery
+2022-10-27 10:12:24,07:48:26,26,a56f95e1-1f2d-46f6-ad3e-21155129334d,Female,Desktop,Social Media,Electronics,near,395.7,3,109.03,72.74,18.09,Low,Credit Card
+2023-07-13 14:17:05,22:47:27,7,d83e815c-8429-4be4-b092-b66f51eecd88,Female,Tablet,Email,Electronics,oil,991.49,2,20.27,177.87,17.97,High,Cash on Delivery
+2022-08-06 19:06:00,12:41:24,27,e984303c-23ce-41c0-8ba8-cada9ac5b488,Female,Mobile,Social Media,Home Appliances,organization,767.12,3,106.42,133.38,15.02,Low,Cash on Delivery
+2022-10-14 10:54:25,00:00:57,18,09ddb983-0a49-476d-9676-d2ff65c38a54,Female,Desktop,Guest,Clothing,talk,81.96,2,12.9,13.28,11.85,Medium,Debit Card
+2023-02-23 19:15:55,06:41:29,28,1df7aeb7-d161-431d-8b09-8d2bb4e2754b,Male,Tablet,Guest,Clothing,statement,669.8,3,130.75,32.52,13.52,Medium,PayPal
+2022-05-03 10:01:48,01:51:41,3,cd91a775-43c3-4bbd-9bae-0ef9060340be,Male,Tablet,Guest,Home Appliances,drop,927.87,2,248.44,179.54,10.86,Low,Debit Card
+2022-11-22 18:43:50,22:21:55,22,0624b348-08a3-4017-beb4-fa421d389d77,Female,Desktop,Guest,Home Appliances,ahead,181.81,1,42.81,28.34,8.78,High,Cash on Delivery
+2022-05-10 06:38:48,21:16:49,20,5baab9fe-e8b1-4b07-820f-8a3b111cf9ad,Female,Desktop,Guest,Electronics,policy,842.99,3,142.76,58.79,10.88,High,Debit Card
+2022-11-14 04:33:31,17:50:01,2,05459533-2054-43fa-bac2-a3400155aeaf,Female,Desktop,Social Media,Electronics,local,648.84,5,89.23,34.96,6.98,Low,Cash on Delivery
+2023-11-20 23:58:09,11:02:30,14,53f57523-a660-417f-8d48-641069db7943,Female,Desktop,Guest,Electronics,certain,797.26,4,28.77,111.78,16.88,Medium,PayPal
+2023-05-03 10:12:03,12:10:00,22,b5411e07-b908-4aa8-a60c-4910a7d98cf4,Male,Tablet,Guest,Home Appliances,size,963.34,2,123.41,40.52,10.91,Medium,PayPal
+2022-11-19 13:59:40,22:16:55,17,f33ca950-bbb1-497d-9bd7-06d44d364eb7,Female,Tablet,Guest,Electronics,perform,378.98,4,11.78,41.55,12.56,Medium,PayPal
+2023-05-16 21:27:48,07:46:24,16,191ac6c4-0491-49ca-ab37-84f0fcf3af35,Male,Tablet,Guest,Home Appliances,remain,536.91,2,46.62,29.43,12.87,Medium,Cash on Delivery
+2023-06-13 17:38:33,03:27:12,22,71fd7b07-bc05-4dd7-aa37-d96f240a0789,Female,Desktop,Guest,Home Appliances,dog,939.48,5,37.85,98.76,4.22,Low,PayPal
+2023-11-09 07:09:38,06:56:20,7,2017b46b-cc2a-4522-87d9-63c345f5da74,Female,Desktop,Guest,Electronics,upon,779.19,3,24.55,67.57,16.29,Low,Debit Card
+2022-04-15 07:03:46,11:06:36,2,000a4c2a-719a-493f-80ed-2a0d5a697a91,Female,Tablet,Social Media,Clothing,recognize,230.17,3,14.3,29.79,2.49,High,PayPal
+2023-06-08 04:54:13,01:35:41,26,8c2f0dd9-3941-4aae-89bf-bdb2d2d785fb,Male,Tablet,Social Media,Home Appliances,win,995.15,5,188.86,105.28,18.16,Medium,Cash on Delivery
+2022-01-04 09:02:46,05:16:53,23,9f45e2ac-1d74-4219-bfc4-1b179ed2d62a,Male,Mobile,Guest,Electronics,chair,521.45,4,146.28,17.15,7.76,High,Debit Card
+2022-12-24 18:16:46,22:33:36,15,23005a35-ca1f-4789-b7bc-89a67b5d2411,Female,Tablet,Email,Clothing,sound,395.91,4,101.39,49.06,8.82,Medium,Debit Card
+2023-08-04 10:06:08,06:21:56,17,40456f67-fb13-4af6-baee-2cdca0f1bff3,Male,Mobile,Social Media,Books,again,434.79,2,121.13,71.92,17.3,Low,Cash on Delivery
+2023-06-24 13:13:25,12:03:47,6,14e4ddb1-376e-404b-ac2f-ca2e45cbec1f,Female,Mobile,Guest,Home Appliances,two,993.85,1,27.23,42.49,7.12,Low,Cash on Delivery
+2022-02-21 06:45:20,03:47:39,27,e90bd265-1a9d-47e3-ad69-627968fc1ef5,Male,Mobile,Social Media,Electronics,affect,70.61,1,1.57,4.64,11.76,Medium,Credit Card
+2022-08-19 21:01:17,10:46:10,30,2d1d460c-1fef-4e24-9a1a-9b8ca2da38a9,Male,Mobile,Social Media,Books,and,598.2,2,87.46,63.78,14.72,Low,Credit Card
+2022-04-30 07:28:28,04:05:43,22,738980ee-a371-4c07-bd26-0e9d7ec45343,Male,Desktop,Social Media,Clothing,apply,823.47,1,215.31,136.91,12.97,Medium,Debit Card
+2023-11-29 06:02:40,14:19:22,24,a0842fdb-ba6c-4863-baf6-fb276d049f36,Female,Mobile,Social Media,Electronics,resource,568.85,4,119.5,109.66,13.04,High,Cash on Delivery
+2023-06-04 03:45:58,10:54:53,22,a475df97-2605-4dcf-8917-053a8cf1eb9f,Female,Mobile,Social Media,Electronics,second,607.89,5,24.15,9.71,11.2,Medium,Debit Card
+2023-06-28 11:38:20,11:32:06,24,c8ffad65-eeb9-4d85-946d-e7e07fd1834a,Female,Mobile,Social Media,Books,good,392.59,2,43.19,35.08,1.78,Medium,Debit Card
+2022-10-02 15:13:17,04:57:09,24,2f0c5f17-b8da-4add-a3be-5d0023d7726a,Male,Tablet,Social Media,Home Appliances,performance,770.7,4,175.47,98.83,12.89,High,Credit Card
+2023-10-23 21:55:51,05:34:59,21,9d60bd97-1367-498c-b97d-8e2dc9b09193,Male,Mobile,Social Media,Home Appliances,board,326.27,3,86.14,56.46,7.95,High,Cash on Delivery
+2023-11-25 20:38:24,03:08:49,28,8eb49b43-294d-4cd0-866d-bd45b08d0142,Female,Tablet,Guest,Electronics,help,95.32,1,23.79,15.27,1.92,Low,Cash on Delivery
+2022-10-05 15:32:47,07:48:50,6,eea4a71b-d277-4f77-b63c-abda51e87171,Female,Tablet,Email,Home Appliances,product,407.97,2,6.43,0.15,17.37,Medium,Debit Card
+2023-12-05 07:59:16,09:14:52,17,d0d87a86-92cb-4b08-ba89-8294a6280f48,Male,Desktop,Social Media,Home Appliances,if,116.18,4,20.18,4.6,6.84,High,Credit Card
+2023-06-10 08:27:36,13:09:50,25,501d1d7a-a4aa-4532-8062-b1ac90829f7a,Female,Mobile,Social Media,Books,red,684.26,3,56.76,70.43,19.42,Low,Cash on Delivery
+2022-11-03 17:48:21,17:11:47,1,2fab11cb-bf14-4ab3-ab7f-9627fb78069a,Female,Mobile,Social Media,Books,threat,837.71,5,72.98,137.56,3.29,Low,Credit Card
+2022-01-20 10:02:38,20:30:08,21,f6a19e61-85aa-4d90-8060-d2116d5815b4,Male,Tablet,Guest,Clothing,measure,719.39,2,104.18,34.27,7.67,Low,Credit Card
+2022-07-22 02:29:30,03:12:21,23,f16710fc-c87b-4416-b40c-f83b5870cf45,Male,Desktop,Email,Books,parent,134.14,2,28.11,12.45,13.13,Low,Cash on Delivery
+2023-11-28 03:39:02,12:42:31,17,9705a158-b196-44ad-8ef9-d0524d2a4e71,Female,Tablet,Social Media,Home Appliances,because,294.9,3,44.63,48.19,2.87,Medium,Debit Card
+2023-01-04 10:25:37,19:35:47,3,eaa9dfbf-f146-4b06-b91c-3cabd7f499c8,Male,Tablet,Email,Home Appliances,fast,775.25,5,91.65,95.1,15.17,High,Credit Card
+2023-09-25 15:00:47,16:54:41,1,01f0fb48-5be2-40ec-bccb-e492458fdefa,Female,Mobile,Guest,Home Appliances,while,626.47,3,124.46,96.01,11.33,Low,PayPal
+2022-01-15 17:38:08,19:21:41,17,612d868d-dae5-4d5c-99e5-6b0d28fefeb1,Male,Desktop,Email,Electronics,bill,501.11,2,7.92,3.33,11.29,Low,Cash on Delivery
+2022-10-01 21:59:25,03:37:36,13,224944e1-fe6e-4cf8-afb5-ba648aa5a5d9,Female,Tablet,Guest,Clothing,beautiful,460.95,2,43.82,12.05,12.92,Low,Credit Card
+2023-11-01 12:39:45,03:02:43,24,2cdffa68-ef3e-4571-abf3-c79d95f5d7d3,Male,Mobile,Email,Clothing,seven,79.86,3,2.83,8.34,2.05,Low,Credit Card
+2022-12-03 02:44:37,10:33:04,1,fa7b0a1f-3bd1-4ff6-9943-dc5df0cd3087,Male,Tablet,Guest,Books,long,433.01,4,52.53,43.01,7.25,Low,PayPal
+2022-05-21 16:19:32,04:58:25,30,f870d3db-902c-4509-bc56-2578852ff4f1,Female,Mobile,Guest,Clothing,indeed,383.22,2,113.29,23.53,4.69,High,Credit Card
+2022-06-05 21:33:42,05:16:54,19,e14212b4-7fc1-4678-8411-9ca8b2edd527,Male,Desktop,Email,Books,kid,12.34,2,2.44,1.7,18.74,High,Credit Card
+2022-08-16 17:16:37,16:37:11,14,56df23ec-e66f-419b-8dca-5a2eafcf58d4,Male,Mobile,Guest,Books,type,733.41,4,13.41,80.05,19.12,Low,Credit Card
+2023-07-01 07:09:23,02:47:33,1,3bc928b1-97ad-470c-b205-acbf83dc1b03,Male,Desktop,Social Media,Home Appliances,conference,33.23,2,2.42,4.3,15.26,High,Debit Card
+2022-03-05 09:50:04,20:53:19,10,ece5f03b-43e8-495c-9e23-7a1d9661dc4b,Female,Mobile,Social Media,Books,ready,256.12,5,35.86,18.07,9.62,Low,Credit Card
+2023-09-26 17:49:03,11:39:12,17,2a38892f-b531-46d2-b080-127cea2a905f,Male,Mobile,Email,Electronics,professor,182.84,3,47.58,24.1,6.15,Low,PayPal
+2022-06-21 21:29:47,16:49:16,17,272c234b-83f2-4b8a-8ccc-21e564e2080d,Female,Tablet,Email,Clothing,dream,159.38,1,17.03,23.29,18.68,Medium,Credit Card
+2022-10-29 17:36:52,12:56:41,23,89920442-f3f6-4ed1-bb55-7230cf7d5799,Female,Tablet,Social Media,Electronics,course,311.09,5,54.44,30.15,10.61,Low,PayPal
+2023-08-16 09:20:40,23:15:59,13,22ef1f5b-1ec6-4283-bfb7-e4e77ebe5d93,Male,Tablet,Email,Electronics,save,933.47,5,262.56,155.04,4.06,Medium,Debit Card
+2023-12-20 00:50:52,01:18:48,17,f5356429-e28d-4b81-bcf0-05c94f98c90e,Male,Tablet,Email,Books,nearly,703.13,1,10.94,53.34,16.7,Low,Cash on Delivery
+2023-07-24 20:55:12,05:06:29,6,b71e6cca-3340-4b37-b3c8-fc1b817fe889,Female,Mobile,Email,Home Appliances,two,873.97,3,174.87,15.43,10.36,High,PayPal
+2022-06-06 16:53:15,18:00:02,11,74cf76c1-e302-4137-b54b-1843ae9d1910,Female,Tablet,Social Media,Electronics,page,545.88,3,133.69,108.51,5.05,Low,Credit Card
+2023-11-29 20:47:00,12:18:03,21,bc4505c1-73bc-4ca0-9b05-b2cb5d83718f,Male,Mobile,Guest,Books,company,92.28,4,1.8,3.82,11.27,High,Cash on Delivery
+2023-05-17 01:20:35,00:47:44,7,adfe6c2e-99ff-49d9-b948-90e5b47d40c0,Female,Desktop,Guest,Electronics,news,989.05,1,201.57,95.6,6.61,Medium,Credit Card
+2022-05-26 04:08:10,10:43:37,17,8c6f3dfd-a8c6-4631-b9c1-f2bbc6467e3e,Male,Desktop,Email,Electronics,item,946.42,5,253.45,152.08,2.11,Low,Cash on Delivery
+2022-06-15 06:44:21,16:26:08,6,4918eb7b-84ef-4eb8-8adf-b50d6527831a,Male,Mobile,Email,Books,today,226.03,5,26.18,21.79,12.08,Low,Cash on Delivery
+2022-12-02 12:19:45,11:51:58,3,1e3f8ea2-f2f6-4b30-8e79-3fcd82760b67,Male,Mobile,Social Media,Books,suggest,959.26,3,32.38,130.87,12.11,High,Debit Card
+2022-04-04 09:05:38,11:48:17,9,cf0bf229-fb2e-4b5e-b77d-15776ad49705,Male,Mobile,Email,Home Appliances,last,108.73,5,8.23,12.26,4.38,Medium,Cash on Delivery
+2022-03-06 07:19:24,10:44:06,14,ac6a1ab8-c90f-4ad9-b118-2169f7541019,Male,Tablet,Social Media,Clothing,star,858.13,4,170.14,83.66,13.87,Medium,Cash on Delivery
+2022-12-09 04:38:19,17:47:34,23,faac80fb-45a1-4404-b685-7ecc0348a1bc,Male,Mobile,Guest,Home Appliances,better,735.56,5,216.65,56.5,7.33,Low,Credit Card
+2023-07-23 16:18:04,05:13:21,9,8f0ab069-2ccd-4587-b8a0-0f9999722553,Male,Mobile,Email,Home Appliances,daughter,162.38,1,40.27,18.09,11.58,Low,Debit Card
+2022-10-09 06:39:00,11:47:22,13,14aa49f4-71e4-4693-bf10-0ec598d9a0b9,Male,Mobile,Email,Electronics,effort,874.07,3,126.56,70.02,19.13,Low,PayPal
+2022-10-24 23:49:16,11:23:02,2,c97c75a4-2c2b-4cc5-8a82-da7dfec60e69,Male,Mobile,Email,Clothing,Democrat,643.62,4,106.39,76.46,4.49,Medium,Debit Card
+2022-08-05 23:22:37,22:22:27,28,9b9d306a-3ed7-4c9f-9ef8-5cdbc77dcd73,Male,Mobile,Email,Clothing,fall,506.92,3,18.3,61.63,17.01,High,Credit Card
+2023-11-24 23:48:39,05:56:59,26,be44c490-5017-48b9-9e8b-1d7b36e39bba,Male,Desktop,Guest,Clothing,report,988.31,1,61.24,124.24,8.5,High,Debit Card
+2023-09-17 07:50:31,10:03:45,26,3ae9c7bd-36a3-4427-b2ae-f7af3b812e78,Female,Mobile,Social Media,Home Appliances,region,327.11,5,97.91,35.08,8.99,High,Credit Card
+2023-09-29 12:32:39,15:37:04,27,4809abd2-1051-4f31-80f5-edf5d5ff3512,Male,Tablet,Guest,Home Appliances,body,954.63,4,55.25,89.06,14.33,High,PayPal
+2023-09-21 06:10:53,01:29:32,10,4f151881-fb6f-4868-b8ea-795344d053a6,Female,Mobile,Email,Clothing,general,664.27,2,33.79,90.06,3.56,High,Credit Card
+2023-12-02 06:53:17,11:31:24,19,768d0e28-ef86-4ab4-9749-513fdddc4337,Female,Desktop,Email,Electronics,protect,808.54,5,149.79,17.72,7.07,Low,Cash on Delivery
+2022-10-20 06:30:38,07:57:59,6,40fb500d-a015-4767-98ad-a3bab4c69472,Female,Desktop,Guest,Books,picture,381.14,3,69.29,70.31,12.72,Medium,Credit Card
+2023-02-19 05:01:38,16:57:23,15,9609c085-c0a5-4517-b0b6-c44f04b9f026,Female,Mobile,Email,Electronics,cultural,917.83,5,155.92,79.29,9.6,High,Cash on Delivery
+2023-05-06 15:49:58,01:19:33,24,48ff93b3-c5e2-49c9-9bea-a432960052da,Male,Desktop,Guest,Clothing,class,526.57,2,102.07,97.8,15.57,High,Credit Card
+2023-07-24 11:07:32,02:18:12,11,1d114271-4a65-40fe-baf9-2cd8ac7b4189,Male,Mobile,Social Media,Books,participant,170.58,2,27.18,11.35,3.43,Medium,Credit Card
+2023-10-15 09:13:40,09:21:56,27,e6def8ee-4ae2-4cdc-bba0-9294fc5ece83,Male,Desktop,Email,Clothing,heart,314.42,1,20.34,44.1,3.84,Low,PayPal
+2022-12-12 08:52:38,06:33:37,8,ab01eb3a-4acb-4398-bce9-b1f10fd2e696,Male,Desktop,Guest,Clothing,talk,390.25,3,46.45,15.66,18.51,Low,Credit Card
+2023-03-16 01:09:16,04:29:36,6,2199b69c-0325-4a52-8e06-34791a41cb3d,Male,Mobile,Guest,Clothing,nature,227.03,1,16.32,40.94,14.62,Medium,Cash on Delivery
+2022-10-07 14:38:01,11:20:07,19,f08202bd-063d-45ed-8d34-5d24adae8e31,Female,Desktop,Social Media,Electronics,yeah,533.39,4,29.37,55.74,9.22,Medium,Cash on Delivery
+2022-11-30 03:51:00,14:15:39,23,3973a854-6077-40fc-9df5-e55f3754a69d,Male,Mobile,Guest,Clothing,everyone,503.51,5,144.2,63.64,12.25,Low,Cash on Delivery
+2023-10-14 15:54:28,01:30:41,24,080e6512-4729-4e7e-82b7-85c23648a553,Male,Mobile,Email,Books,place,689.31,4,103.08,74.12,4.93,Medium,Cash on Delivery
+2023-11-02 01:41:02,00:32:29,17,8a6bc9e4-2912-48ec-a18a-9578206f2ce4,Male,Desktop,Guest,Books,maintain,244.06,1,59.82,40.77,19.15,Low,Cash on Delivery
+2022-05-06 04:59:22,15:58:49,15,bd255e52-7994-4771-8eb0-3acd21b016e7,Male,Tablet,Email,Home Appliances,best,749.53,5,52.08,15.31,4.74,Medium,Credit Card
+2022-06-20 14:38:44,16:56:08,10,b219f3d0-e089-4528-85b5-b9893f2ad199,Female,Mobile,Guest,Books,important,578.58,2,171.44,13.81,12.79,High,PayPal
+2022-12-11 08:49:15,07:46:10,19,c14481aa-af02-44e6-a4e9-7bf25812c935,Male,Mobile,Email,Home Appliances,author,49.42,1,8.28,9.75,9.13,High,Cash on Delivery
+2022-09-07 04:50:33,21:46:23,18,7e417cf5-46e0-4679-99f8-13a4f0ca5974,Female,Mobile,Email,Home Appliances,body,823.11,4,1.17,7.84,16.78,Medium,PayPal
+2023-12-14 17:11:15,16:24:50,13,cc4f75d8-c856-426f-a849-9ab7f5d26784,Female,Tablet,Social Media,Clothing,she,200.74,4,47.07,13.49,18.45,Medium,Credit Card
+2022-09-08 00:55:57,05:48:24,21,a30cc595-904c-433d-8d11-eaf5e2b7542e,Male,Tablet,Social Media,Books,idea,697.73,4,147.6,80.82,3.06,Medium,Debit Card
+2022-03-10 16:02:49,08:41:07,17,a9438d2b-58b7-430e-a1a0-0c2bdf77fe0c,Female,Mobile,Social Media,Clothing,window,654.48,5,105.42,53.99,5.9,High,PayPal
+2023-09-03 03:25:20,14:08:20,19,22f16a31-23dc-4539-abad-b518e51f8413,Female,Mobile,Social Media,Books,no,521.96,5,101.62,57.85,13.35,High,PayPal
+2023-12-24 22:46:08,02:35:12,8,48c43587-e06a-4f7a-ba3f-52a7f6b7b2e9,Female,Tablet,Social Media,Clothing,sister,113.79,3,2.23,3.95,9.65,High,Cash on Delivery
+2023-07-24 00:53:40,07:49:20,26,7afa1861-31e7-4071-9a8f-1c231c856f7a,Female,Mobile,Guest,Electronics,understand,224.45,1,23.95,19.81,7.68,Low,Cash on Delivery
+2022-05-02 06:36:25,20:02:19,1,5b89d2aa-0037-450b-9a65-696e72ea43c1,Male,Mobile,Email,Home Appliances,month,551.47,4,85.98,105.09,2.91,High,Cash on Delivery
+2022-11-20 09:50:36,13:51:44,13,b34df5bf-881b-44bb-936e-e4f529d8213b,Female,Desktop,Email,Books,cold,153.94,2,18.54,12.39,14.59,Low,Debit Card
+2022-10-09 14:16:46,22:24:37,30,fb38524b-80a8-4429-ae7c-4b0b686ce366,Male,Tablet,Email,Electronics,direction,789.75,1,102.95,130.22,2.1,Low,Debit Card
+2022-06-21 08:37:47,08:23:04,13,626620eb-bb38-44f3-befb-f093e9cb2c29,Male,Tablet,Email,Electronics,newspaper,916.06,4,202.84,100.95,19.39,Low,Cash on Delivery
+2023-07-10 06:29:09,06:27:49,3,a2d9f597-5b77-4941-8992-a641c2605fc5,Male,Tablet,Guest,Home Appliances,family,657.46,5,160.68,19.55,15.79,High,Cash on Delivery
+2023-04-27 20:10:39,04:24:20,8,5836de35-9214-4e4b-86fe-01d01e3fee79,Male,Mobile,Social Media,Electronics,case,863.51,1,37.2,96.2,6.01,High,Credit Card
+2023-11-01 18:20:15,14:36:56,24,64158626-00e4-4853-b83e-30c5b56a3ecb,Male,Tablet,Guest,Books,over,641.02,4,14.23,30.37,3.6,Low,Credit Card
+2023-11-26 02:56:23,20:34:18,21,02e44777-061a-4cf1-888d-29749646fce7,Female,Tablet,Social Media,Electronics,on,592.66,3,144.6,87.12,3.29,Medium,PayPal
+2022-03-14 11:58:55,12:31:20,23,d425c8d4-b98c-4648-b7d6-a69046093cea,Male,Tablet,Email,Electronics,change,275.82,1,61.58,37.8,5.68,Low,Cash on Delivery
+2022-11-15 13:43:55,23:56:23,13,992283a9-1e7c-4a9b-895c-26d67f2590df,Female,Desktop,Social Media,Clothing,wall,302.98,2,34.12,18.76,7.67,Medium,PayPal
+2022-10-24 03:44:25,02:53:46,17,58bb650f-a39f-4d1b-b1de-c86ba85f0700,Male,Mobile,Guest,Books,thus,333.15,3,45.77,48.06,1.77,Low,Cash on Delivery
+2023-06-23 14:17:40,07:46:57,21,f6eb1890-3376-4140-9298-972c92cd16bc,Female,Tablet,Social Media,Clothing,skill,635.64,4,122.98,90.47,7.28,Low,Debit Card
+2022-10-22 03:49:58,22:56:33,19,66725568-a355-4c1a-ba2d-73ef0e87bc13,Male,Mobile,Email,Clothing,else,377.0,3,97.4,47.59,7.83,Medium,Credit Card
+2023-09-18 12:27:01,14:06:58,9,da75cef3-37d1-4df2-b4b2-c21fb4263e4e,Male,Mobile,Email,Clothing,weight,448.75,5,43.58,69.1,7.07,Low,Credit Card
+2023-04-08 21:01:32,08:34:11,13,2c9c3abf-a143-4e4f-b438-40bfb922bb51,Female,Desktop,Email,Books,bag,614.47,3,108.16,65.2,18.77,Medium,Debit Card
+2022-05-14 10:13:17,20:59:07,15,030b58e1-97a7-4904-8433-0347cd715d4c,Female,Tablet,Email,Clothing,pressure,942.73,2,255.7,116.47,2.0,Medium,Credit Card
+2022-09-27 07:04:22,22:31:17,2,ea707aca-c0dd-4ee3-b87b-6a72aa302669,Female,Desktop,Email,Electronics,same,583.56,1,148.1,103.52,18.63,Low,Debit Card
+2023-01-30 13:57:25,05:10:52,3,27fcad5f-0e29-45b1-bed0-18aacd50c2b9,Female,Desktop,Social Media,Electronics,season,764.29,4,165.77,31.03,12.33,Low,PayPal
+2022-01-03 03:28:22,22:29:23,2,93699216-8b64-45eb-a6ae-39fdba229f03,Male,Tablet,Guest,Home Appliances,from,878.92,3,8.09,65.19,5.12,High,Debit Card
+2023-11-03 14:53:27,09:53:46,10,454bf07a-1022-4dab-940f-e7265dcc2733,Male,Tablet,Guest,Clothing,religious,830.06,3,15.88,57.88,2.04,High,Cash on Delivery
+2023-05-31 15:34:07,13:08:48,15,06cd0db6-a043-48a0-884a-3cff7262df9b,Male,Mobile,Guest,Books,never,334.03,4,6.81,62.11,10.2,High,Credit Card
+2022-01-20 05:25:13,16:46:24,20,0f6abb2b-1497-4ea9-ba60-5c499ca3093e,Male,Tablet,Guest,Books,must,805.72,4,6.31,71.86,4.16,High,Debit Card
+2023-09-05 18:44:55,03:27:46,21,6802aa0c-57bd-4f85-b8b7-472601e2c8a6,Female,Mobile,Email,Electronics,force,495.3,3,79.36,36.88,7.56,Medium,Cash on Delivery
+2022-06-26 09:42:01,05:42:30,27,29a2406a-6ab7-4040-80db-afc434304167,Male,Desktop,Email,Home Appliances,away,681.36,4,129.25,6.66,1.54,Low,Debit Card
+2022-01-09 12:04:09,14:05:58,23,1d59bf61-3b32-48b3-ad21-5d19b6569a8d,Male,Desktop,Guest,Electronics,may,946.97,5,11.14,3.44,2.86,Low,Cash on Delivery
+2022-01-10 09:44:24,12:41:12,12,0ab49c89-16c0-4be4-b868-e43285337267,Male,Mobile,Social Media,Home Appliances,rule,749.73,5,118.98,76.83,13.54,Medium,Cash on Delivery
+2022-06-27 19:32:23,04:58:23,18,f8fb87cb-cb59-4240-bd01-61f6c4d1d6dd,Male,Mobile,Guest,Home Appliances,sign,398.95,3,73.1,6.94,5.85,High,Debit Card
+2023-03-28 06:44:12,05:53:03,19,9f035df8-265a-42af-87a7-54b5d9c95eef,Female,Tablet,Social Media,Electronics,per,150.13,2,20.93,21.87,18.32,Medium,Cash on Delivery
+2022-12-31 01:43:13,16:27:25,29,7ebcc07a-6e85-448b-8d35-a96e3a6452e5,Male,Mobile,Email,Electronics,buy,377.47,4,57.74,74.93,14.75,High,Credit Card
+2023-03-13 20:47:00,09:22:39,11,302342de-3e17-4572-9d79-32820dcf438f,Female,Mobile,Social Media,Home Appliances,building,739.9,1,156.75,136.37,5.87,Low,Credit Card
+2022-08-22 22:38:29,20:40:30,25,c995b867-e4b7-4b9f-9d04-36827086b152,Male,Mobile,Guest,Clothing,become,27.55,4,1.79,1.36,6.04,Medium,PayPal
+2022-01-19 20:41:24,13:45:10,4,111a44c6-57ef-4f98-b015-64a85949f616,Male,Desktop,Guest,Books,see,889.87,4,59.24,174.89,17.4,Medium,Debit Card
+2023-12-21 12:43:11,22:54:04,28,8bff2472-3f59-4307-87c4-142175da2ec1,Male,Desktop,Social Media,Electronics,interesting,319.24,3,54.38,51.14,1.61,High,PayPal
+2023-05-29 08:43:34,23:31:34,17,a30557ca-f5ff-4c91-9375-f838af78926e,Female,Mobile,Email,Home Appliances,whom,981.45,4,104.63,116.57,8.22,Medium,Cash on Delivery
+2023-05-14 12:28:55,09:43:30,22,520e33e0-300c-4d44-b054-e330f67f1a21,Female,Tablet,Email,Electronics,ok,815.63,5,115.21,73.26,13.57,Low,Debit Card
+2022-03-02 14:50:22,11:11:49,12,7847326d-e08a-416b-bbf6-2bd2fc7c44e9,Male,Mobile,Social Media,Books,information,325.17,1,43.71,27.46,15.76,High,Cash on Delivery
+2023-03-19 04:59:54,18:24:40,29,dbcf0968-26c6-443c-801e-86b35c226335,Female,Desktop,Guest,Clothing,TV,591.02,5,126.72,82.12,9.36,Low,Debit Card
+2023-07-24 00:47:21,05:02:55,28,7941199f-74db-41d8-9e2e-1256a3255f86,Male,Mobile,Social Media,Books,room,954.46,5,43.68,135.36,15.02,High,Cash on Delivery
+2023-07-01 12:21:23,22:03:46,27,1750a2bb-0455-4518-b921-4a01845be4b6,Male,Desktop,Email,Clothing,window,538.96,2,75.99,86.8,16.25,High,Debit Card
+2023-03-12 04:40:31,16:57:51,19,a7ee9751-f904-4d6c-aca6-b6f14886cee2,Female,Mobile,Social Media,Home Appliances,son,626.84,2,71.5,62.74,14.39,Medium,Cash on Delivery
+2022-04-12 17:12:22,23:17:59,14,29ad2e20-2a77-405e-8f1f-b0fc49a00907,Male,Desktop,Guest,Home Appliances,can,592.24,5,85.92,78.09,14.51,Medium,Credit Card
+2022-10-09 10:19:22,01:07:00,8,af5cb518-fa9d-4e5a-90fd-52449867c1fd,Female,Tablet,Guest,Home Appliances,thus,649.18,4,124.16,2.62,8.11,Low,Credit Card
+2023-07-28 05:51:25,11:25:35,4,04e9847a-1ea1-443c-9451-64dd121a6a54,Female,Mobile,Social Media,Electronics,reduce,967.13,3,216.47,58.02,1.76,High,Debit Card
+2022-05-03 14:00:33,04:57:54,26,5b0f7422-86ec-47f9-806e-bf40d1e7338d,Male,Desktop,Social Media,Home Appliances,least,46.14,1,0.16,7.93,12.82,Medium,Cash on Delivery
+2023-03-17 20:50:41,16:32:55,24,58d75a4b-f228-4445-98a6-196caca1e964,Female,Desktop,Guest,Books,century,638.33,5,187.34,108.24,8.59,High,PayPal
+2023-06-06 23:51:26,07:00:53,6,fcf78a22-b26c-4999-b062-ac007c622be9,Male,Desktop,Guest,Electronics,more,434.19,1,92.34,56.76,18.28,Medium,Debit Card
+2023-09-16 08:56:47,18:31:35,16,f425265c-3d79-43e4-a2ab-764e04ac4f6a,Male,Desktop,Email,Clothing,skin,692.08,5,83.09,89.92,9.17,Low,Cash on Delivery
+2022-05-01 12:00:02,08:08:42,21,b0442696-0945-4b53-8389-b88447395f07,Male,Tablet,Email,Books,country,165.41,3,19.69,15.43,14.4,Low,PayPal
+2023-06-22 08:57:10,14:06:54,19,ff08eb55-6e1d-4eb3-be1a-036adcab4907,Male,Tablet,Social Media,Home Appliances,accept,343.28,3,0.32,29.22,2.06,Medium,Debit Card
+2023-09-16 21:49:52,21:22:24,25,ce5ce0b6-cb17-4485-b558-42478b178df6,Female,Tablet,Email,Clothing,thank,851.31,3,211.87,30.92,3.58,Low,Credit Card
+2023-10-11 18:26:12,06:01:17,23,ce24ee1c-ce17-4729-8479-a33177c1d233,Male,Tablet,Email,Home Appliances,check,402.91,2,50.98,67.37,14.49,High,Debit Card
